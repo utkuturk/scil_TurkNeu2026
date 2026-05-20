@@ -1,6 +1,6 @@
 # scil_TurkNeu2026
 
-Code and data for *Quantifying the cross-linguistic effects of syncretism on agreement attraction* (Turk & Neu, SCiL 2025).
+Code and data for *Quantifying the cross-linguistic effects of syncretism on agreement attraction* (Turk & Neu, SCiL 2026).
 
 We use GPT-2 surprisal and BERT attention entropy as processing proxies to ask whether morphological syncretism modulates agreement attraction the same way across English, German, Russian, and Turkish. Short answer: mostly yes for LLMs, with Russian pseudo-plurals as the notable exception.
 
