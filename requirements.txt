@@ -1,0 +1,7 @@
+# requirements.txt
+
+requests
+conllu
+pandas
+torch
+transformers

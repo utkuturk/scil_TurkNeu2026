@@ -1,0 +1,449 @@
+Item,Condition,Stimulus,NP_Number,Auxiliary,Full_Sentence,model_type,source_file,attention_entropy,attention_diff
+1,a,The slogan on the poster,singular,is,The slogan on the poster is designed to get attention.,bert,no_syn,1.0185986,0.02118501453425097
+1,b,The slogan on the posters,plural,is,The slogan on the posters is designed to get attention.,bert,no_syn,1.0278667,0.01527850060472815
+1,c,The slogan on the poster,singular,are,The slogan on the poster are designed to get attention.,bert,no_syn,1.1222608,0.026211406380207334
+1,d,The slogan on the posters,plural,are,The slogan on the posters are designed to get attention.,bert,no_syn,1.0825323,0.018472875449421618
+2,a,The picture on the flier,singular,is,The picture on the flier is of a village church in the south of France.,bert,no_syn,1.3167045,0.00017306802669736499
+2,b,The picture on the fliers,plural,is,The picture on the fliers is of a village church in the south of France.,bert,no_syn,1.3164655,-0.003005653225500282
+2,c,The picture on the flier,singular,are,The picture on the flier are of a village church in the south of France.,bert,no_syn,1.4093847,-0.008002793448645205
+2,d,The picture on the fliers,plural,are,The picture on the fliers are of a village church in the south of France.,bert,no_syn,1.3869131,-0.015364796717949502
+3,a,The mistake in the program,singular,is,The mistake in the program is disastrous for the small software company.,bert,no_syn,1.14838,-0.005560395786625349
+3,b,The mistake in the programs,plural,is,The mistake in the programs is disastrous for the small software company.,bert,no_syn,1.1543354,-0.006800783752899522
+3,c,The mistake in the program,singular,are,The mistake in the program are disastrous for the small software company.,bert,no_syn,1.2208523,-0.0016616533298304155
+3,d,The mistake in the programs,plural,are,The mistake in the programs are disastrous for the small software company.,bert,no_syn,1.1866249,-0.008011681550050298
+4,a,The label on the container,singular,is,The label on the container is a warning about the hazardous chemicals inside.,bert,no_syn,1.4104027,0.02707247591563373
+4,b,The label on the containers,plural,is,The label on the containers is a warning about the hazardous chemicals inside.,bert,no_syn,1.4155016,0.025909353862283525
+4,c,The label on the container,singular,are,The label on the container are a warning about the hazardous chemicals inside.,bert,no_syn,1.462637,0.013525046862116596
+4,d,The label on the containers,plural,are,The label on the containers are a warning about the hazardous chemicals inside.,bert,no_syn,1.4431622,0.0077100246513054985
+5,a,The problem in the store,singular,is,The problem in the store is solved by firing the custodian.,bert,no_syn,1.261967,0.013568614043742853
+5,b,The problem in the stores,plural,is,The problem in the stores is solved by firing the custodian.,bert,no_syn,1.2820504,0.0090984752672739
+5,c,The problem in the store,singular,are,The problem in the store are solved by firing the custodian.,bert,no_syn,1.3601564,0.008027003939241696
+5,d,The problem in the stores,plural,are,The problem in the stores are solved by firing the custodian.,bert,no_syn,1.3351165,-0.0026073658568748215
+6,a,The name on the billboard,singular,is,The name on the billboard is of a prominent local businessman.,bert,no_syn,1.2865007,0.012911134709224826
+6,b,The name on the billboards,plural,is,The name on the billboards is of a prominent local businessman.,bert,no_syn,1.3189393,-0.00430126116897327
+6,c,The name on the billboard,singular,are,The name on the billboard are of a prominent local businessman.,bert,no_syn,1.3858789,0.0009880929415686523
+6,d,The name on the billboards,plural,are,The name on the billboards are of a prominent local businessman.,bert,no_syn,1.3678885,-0.01078564080855813
+7,a,The crime in the suburb,singular,is,The crime in the suburb is a reflection of the violence in today's society.,bert,no_syn,1.3239454,-0.0027913812808606046
+7,b,The crime in the suburbs,plural,is,The crime in the suburbs is a reflection of the violence in today's society.,bert,no_syn,1.3125489,-0.002539509958409524
+7,c,The crime in the suburb,singular,are,The crime in the suburb are a reflection of the violence in today's society.,bert,no_syn,1.3517301,0.0023150442928567827
+7,d,The crime in the suburbs,plural,are,The crime in the suburbs are a reflection of the violence in today's society.,bert,no_syn,1.3257387,-0.0007757606251814764
+8,a,The defect in the appliance,singular,is,The defect in the appliance is unknown to consumers and government regulators.,bert,no_syn,1.231262,-0.024355461781258664
+8,b,The defect in the appliances,plural,is,The defect in the appliances is unknown to consumers and government regulators.,bert,no_syn,1.1609781,-0.003012962176694601
+8,c,The defect in the appliance,singular,are,The defect in the appliance are unknown to consumers and government regulators.,bert,no_syn,1.2739451,-0.025399146584059708
+8,d,The defect in the appliances,plural,are,The defect in the appliances are unknown to consumers and government regulators.,bert,no_syn,1.2001336,-0.008266530974844956
+9,a,The citation on the notecard,singular,is,The citation on the notecard is quite difficult to track down using the library's limited resources.,bert,no_syn,1.5146862,-0.013407139631635798
+9,b,The citation on the notecards,plural,is,The citation on the notecards is quite difficult to track down using the library's limited resources.,bert,no_syn,1.5102512,-0.024038878427745658
+9,c,The citation on the notecard,singular,are,The citation on the notecard are quite difficult to track down using the library's limited resources.,bert,no_syn,1.5432851,-0.008287435518468556
+9,d,The citation on the notecards,plural,are,The citation on the notecards are quite difficult to track down using the library's limited resources.,bert,no_syn,1.5213821,-0.02114654705783323
+10,a,The advertisement on the skyscraper,singular,is,The advertisement on the skyscraper is hard to read except from a long distance away.,bert,no_syn,1.4492097,-0.00018573573457913994
+10,b,The advertisement on the skyscrapers,plural,is,The advertisement on the skyscrapers is hard to read except from a long distance away.,bert,no_syn,1.4902514,-0.02053594530283647
+10,c,The advertisement on the skyscraper,singular,are,The advertisement on the skyscraper are hard to read except from a long distance away.,bert,no_syn,1.5133829,-0.0018577427833605525
+10,d,The advertisement on the skyscrapers,plural,are,The advertisement on the skyscrapers are hard to read except from a long distance away.,bert,no_syn,1.5102838,-0.018558629374138033
+11,a,The traitor in the camp,singular,is,The traitor in the camp is passing information to the enemy through various secret methods.,bert,no_syn,1.3493468,0.012420388016664676
+11,b,The traitor in the camps,plural,is,The traitor in the camps is passing information to the enemy through various secret methods.,bert,no_syn,1.3507206,0.009638874547670182
+11,c,The traitor in the camp,singular,are,The traitor in the camp are passing information to the enemy through various secret methods.,bert,no_syn,1.3726587,0.007636557166887313
+11,d,The traitor in the camps,plural,are,The traitor in the camps are passing information to the enemy through various secret methods.,bert,no_syn,1.3569334,-9.855962714482372e-05
+12,a,The flaw in the argument,singular,is,The flaw in the argument is clear to everyone in the lecture hall after just five minutes.,bert,no_syn,1.3099226,-0.013540141113638526
+12,b,The flaw in the arguments,plural,is,The flaw in the arguments is clear to everyone in the lecture hall after just five minutes.,bert,no_syn,1.2936842,-0.005374048257771236
+12,c,The flaw in the argument,singular,are,The flaw in the argument are clear to everyone in the lecture hall after just five minutes.,bert,no_syn,1.4253623,-0.008899570332694395
+12,d,The flaw in the arguments,plural,are,The flaw in the arguments are clear to everyone in the lecture hall after just five minutes.,bert,no_syn,1.3366363,-0.014158023277870767
+13,a,The door to the laboratory,singular,is,The door to the laboratory is left unlocked by the cleaning service.,bert,no_syn,1.2257026,0.0034025666992633305
+13,b,The door to the laboratories,plural,is,The door to the laboratories is left unlocked by the cleaning service.,bert,no_syn,1.2365333,3.147155840892493e-05
+13,c,The door to the laboratory,singular,are,The door to the laboratory are left unlocked by the cleaning service.,bert,no_syn,1.296447,0.004870306785485922
+13,d,The door to the laboratories,plural,are,The door to the laboratories are left unlocked by the cleaning service.,bert,no_syn,1.2499697,0.0019186519195024225
+14,a,The memo from the supervisor,singular,is,The memo from the supervisor is about the delinquent tax return.,bert,no_syn,1.1470762,-0.013681618862801769
+14,b,The memo from the supervisors,plural,is,The memo from the supervisors is about the delinquent tax return.,bert,no_syn,1.1344478,-0.010249023319829575
+14,c,The memo from the supervisor,singular,are,The memo from the supervisor are about the delinquent tax return.,bert,no_syn,1.2125671,-0.0011302367593430049
+14,d,The memo from the supervisors,plural,are,The memo from the supervisors are about the delinquent tax return.,bert,no_syn,1.1656814,0.0041378611750587865
+15,a,The check from the stockbroker,singular,is,The check from the stockbroker is a dividend on a long-term bond.,bert,no_syn,1.5021226,-0.038041604123903575
+15,b,The check from the stockbrokers,plural,is,The check from the stockbrokers is a dividend on a long-term bond.,bert,no_syn,1.5085723,-0.041446927297369755
+15,c,The check from the stockbroker,singular,are,The check from the stockbroker are a dividend on a long-term bond.,bert,no_syn,1.5454493,-0.044158317066399694
+15,d,The check from the stockbrokers,plural,are,The check from the stockbrokers are a dividend on a long-term bond.,bert,no_syn,1.5304903,-0.0463313874934879
+16,a,The key to the cell,singular,is,The key to the cell is rusty from many years of disuse.,bert,no_syn,1.2025568,-0.0019832976542431876
+16,b,The key to the cells,plural,is,The key to the cells is rusty from many years of disuse.,bert,no_syn,1.2101871,-0.007205636882928345
+16,c,The key to the cell,singular,are,The key to the cell are rusty from many years of disuse.,bert,no_syn,1.3107017,-0.0017049874600530736
+16,d,The key to the cells,plural,are,The key to the cells are rusty from many years of disuse.,bert,no_syn,1.2288716,-0.017558011208432946
+17,a,The letter from the investigator,singular,is,The letter from the investigator is received in San Francisco in late March.,bert,no_syn,1.2273595,-0.013155725895692603
+17,b,The letter from the investigators,plural,is,The letter from the investigators is received in San Francisco in late March.,bert,no_syn,1.2181088,-0.01663667036783156
+17,c,The letter from the investigator,singular,are,The letter from the investigator are received in San Francisco in late March.,bert,no_syn,1.2503765,-0.00896917701887645
+17,d,The letter from the investigators,plural,are,The letter from the investigators are received in San Francisco in late March.,bert,no_syn,1.214377,-0.024579415328190635
+18,a,The entrance to the exhibit,singular,is,The entrance to the exhibit is hard to locate on the diagram.,bert,no_syn,1.300086,-0.012582416138506858
+18,b,The entrance to the exhibits,plural,is,The entrance to the exhibits is hard to locate on the diagram.,bert,no_syn,1.302799,-0.010177176828398159
+18,c,The entrance to the exhibit,singular,are,The entrance to the exhibit are hard to locate on the diagram.,bert,no_syn,1.4137033,0.006011727189437009
+18,d,The entrance to the exhibits,plural,are,The entrance to the exhibits are hard to locate on the diagram.,bert,no_syn,1.3733047,-0.008265137125835053
+19,a,The warning from the expert,singular,is,The warning from the expert is a shock to the residents of the city.,bert,no_syn,1.2800187,-0.0302655217458188
+19,b,The warning from the experts,plural,is,The warning from the experts is a shock to the residents of the city.,bert,no_syn,1.2676275,-0.015585467403060705
+19,c,The warning from the expert,singular,are,The warning from the expert are a shock to the residents of the city.,bert,no_syn,1.3494654,-0.032565625767577086
+19,d,The warning from the experts,plural,are,The warning from the experts are a shock to the residents of the city.,bert,no_syn,1.281708,-0.02408776775096442
+20,a,The bridge to the island,singular,is,The bridge to the island is about ten miles off the main highway.,bert,no_syn,1.348076,-0.0029392554230753404
+20,b,The bridge to the islands,plural,is,The bridge to the islands is about ten miles off the main highway.,bert,no_syn,1.3476071,-0.005876476683855002
+20,c,The bridge to the island,singular,are,The bridge to the island are about ten miles off the main highway.,bert,no_syn,1.455497,0.0071011264232765815
+20,d,The bridge to the islands,plural,are,The bridge to the islands are about ten miles off the main highway.,bert,no_syn,1.4051619,-0.004022565818411296
+21,a,The gift from the visitor,singular,is,The gift from the visitor is a beautiful clock from Germany.,bert,no_syn,1.4101845,-0.023982899388715853
+21,b,The gift from the visitors,plural,is,The gift from the visitors is a beautiful clock from Germany.,bert,no_syn,1.3812646,-0.01788594771153384
+21,c,The gift from the visitor,singular,are,The gift from the visitor are a beautiful clock from Germany.,bert,no_syn,1.4206259,-0.022251322820955013
+21,d,The gift from the visitors,plural,are,The gift from the visitors are a beautiful clock from Germany.,bert,no_syn,1.3587167,-0.026530815391743092
+22,a,The path to the monument,singular,is,The path to the monument is lined with lovely trees and flowers.,bert,no_syn,1.2384342,-0.009545204682136443
+22,b,The path to the monuments,plural,is,The path to the monuments is lined with lovely trees and flowers.,bert,no_syn,1.22712,-0.00972664057343593
+22,c,The path to the monument,singular,are,The path to the monument are lined with lovely trees and flowers.,bert,no_syn,1.2893009,-0.0030423454170261273
+22,d,The path to the monuments,plural,are,The path to the monuments are lined with lovely trees and flowers.,bert,no_syn,1.2555485,-0.009570431185863981
+23,a,The message from the engineer,singular,is,The message from the engineer is about the recent weakening to the building's structural supports.,bert,no_syn,1.1390326,0.0017541929279104793
+23,b,The message from the engineers,plural,is,The message from the engineers is about the recent weakening to the building's structural supports.,bert,no_syn,1.1420691,-0.0051296203613674166
+23,c,The message from the engineer,singular,are,The message from the engineer are about the recent weakening to the building's structural supports.,bert,no_syn,1.2446604,0.004623105756559196
+23,d,The message from the engineers,plural,are,The message from the engineers are about the recent weakening to the building's structural supports.,bert,no_syn,1.1792742,-0.006308727320720207
+24,a,The gate to the pasture,singular,is,The gate to the pasture is falling down due to disrepair.,bert,no_syn,1.2561251,-0.003373599674887373
+24,b,The gate to the pastures,plural,is,The gate to the pastures is falling down due to disrepair.,bert,no_syn,1.2455273,-0.011277377290389266
+24,c,The gate to the pasture,singular,are,The gate to the pasture are falling down due to disrepair.,bert,no_syn,1.3743008,-0.00872378356725676
+24,d,The gate to the pastures,plural,are,The gate to the pastures are falling down due to disrepair.,bert,no_syn,1.3053538,-0.02211122695443919
+1,a,The cake at the senator’s celebration,singular,is,The cake at the senator’s celebration is delicious.,bert,syn,1.065587,-0.04079440991440737
+1,b,The cake at the senator’s celebration,singular,are,The cake at the senator’s celebration are delicious.,bert,syn,1.1621833,-0.021411494095187486
+1,c,The cake at the senators’ celebration,plural,is,The cake at the senators’ celebration is delicious.,bert,syn,1.0108168,-0.0468290267951489
+1,d,The cake at the senators’ celebration,plural,are,The cake at the senators’ celebration are delicious.,bert,syn,1.118376,-0.02868693187472149
+2,a,The call to the doctor’s secretary,singular,is,The call to the doctor’s secretary is urgent.,bert,syn,1.1512583,-0.03128463053482626
+2,b,The call to the doctor’s secretary,singular,are,The call to the doctor’s secretary are urgent.,bert,syn,1.2655816,-0.029874838974421822
+2,c,The call to the doctors’ secretary,plural,is,The call to the doctors’ secretary is urgent.,bert,syn,1.1596246,-0.028110524613408933
+2,d,The call to the doctors’ secretary,plural,are,The call to the doctors’ secretary are urgent.,bert,syn,1.2421119,-0.03200169379848625
+3,a,The computer for the laboratory’s experiment,singular,is,The computer for the laboratory’s experiment is modern.,bert,syn,1.0864208,-0.02067603641088418
+3,b,The computer for the laboratory’s experiment,singular,are,The computer for the laboratory’s experiment are modern.,bert,syn,1.1651187,-0.020108967190052947
+3,c,The computer for the laboratories’ experiment,plural,is,The computer for the laboratories’ experiment is modern.,bert,syn,1.0480964,-0.024195079993703104
+3,d,The computer for the laboratories’ experiment,plural,are,The computer for the laboratories’ experiment are modern.,bert,syn,1.1070142,-0.020539391308415283
+4,a,The encounter with the wolf's baby,singular,is,The encounter with the wolf's baby is frightening.,bert,syn,1.0568482,-0.011817876057006805
+4,b,The encounter with the wolf's baby,singular,are,The encounter with the wolf's baby are frightening.,bert,syn,1.1802711,-0.007765952850792172
+4,c,The encounter with the wolves' baby,plural,is,The encounter with the wolves' baby is frightening.,bert,syn,1.049679,-0.018770535526685936
+4,d,The encounter with the wolves' baby,plural,are,The encounter with the wolves' baby are frightening.,bert,syn,1.1516832,-0.018056290725636734
+5,a,The plan for the school’s upgrade,singular,is,The plan for the school’s upgrade is unrealistic.,bert,syn,1.2550676,-0.01775320312612987
+5,b,The plan for the school’s upgrade,singular,are,The plan for the school’s upgrade are unrealistic.,bert,syn,1.2586291,-0.019225694969880046
+5,c,The plan for the schools’ upgrade,plural,is,The plan for the schools’ upgrade is unrealistic.,bert,syn,1.2465322,-0.02745747410385742
+5,d,The plan for the schools’ upgrade,plural,are,The plan for the schools’ upgrade are unrealistic.,bert,syn,1.2367122,-0.03732855332167627
+6,a,The problem with the family’s account,singular,is,The problem with the family’s account is discussed.,bert,syn,1.0339085,-0.009726779254526384
+6,b,The problem with the family’s account,singular,are,The problem with the family’s account are discussed.,bert,syn,1.079943,-0.00867291873947278
+6,c,The problem with the families’ account,plural,is,The problem with the families’ account is discussed.,bert,syn,1.0133866,-0.020017605168475117
+6,d,The problem with the families’ account,plural,are,The problem with the families’ account are discussed.,bert,syn,1.0603004,-0.0102496020230067
+7,a,The report to the chairman's advisor,singular,is,The report to the chairman's advisor is shocking.,bert,syn,1.1039269,-0.01955991213026147
+7,b,The report to the chairman's advisor,singular,are,The report to the chairman's advisor are shocking.,bert,syn,1.1597978,-0.011911712409167555
+7,c,The report to the chairmans' advisor,plural,is,The report to the chairmen' advisor is shocking.,bert,syn,1.1085917,-0.019721340767934508
+7,d,The report to the chairmans' advisor,plural,are,The report to the chairmen' advisor are shocking.,bert,syn,1.1647316,-0.0146599770134802
+8,a,The telegram for the congressman's lobbyist,singular,is,The telegram for the congressman's lobbyist is never received.,bert,syn,1.1550794,-0.02039586985602
+8,b,The telegram for the congressman's lobbyist,singular,are,The telegram for the congressman's lobbyist are never received.,bert,syn,1.2118918,-0.01154426209103576
+8,c,The telegram for the congressmans' lobbyist,plural,is,The telegram for the congressmans' lobbyist is never received.,bert,syn,1.1667979,-0.02428012441635019
+8,d,The telegram for the congressmans' lobbyist,plural,are,The telegram for the congressmans' lobbyist are never received.,bert,syn,1.2309556,-0.018169567307336362
+9,a,The announcement from the magazine’s spokeswoman,singular,is,The announcement from the magazine’s spokeswoman is astonishing.,bert,syn,1.0265963,-0.005472191621720947
+9,b,The announcement from the magazine’s spokeswoman,singular,are,The announcement from the magazine’s spokeswoman are astonishing.,bert,syn,1.1167303,-0.005657286243386395
+9,c,The announcement from the magazines’ spokeswoman,plural,is,The announcement from the magazines’ spokeswoman is astonishing.,bert,syn,1.0084435,-0.005036728651184942
+9,d,The announcement from the magazines’ spokeswoman,plural,are,The announcement from the magazines’ spokeswoman are astonishing.,bert,syn,1.1147181,-0.009414189279403294
+10,a,The large dog at the toddler’s party,singular,is,The large dog at the toddler’s party is adorable.,bert,syn,1.0005095,0.004873685022621657
+10,b,The large dog at the toddler’s party,singular,are,The large dog at the toddler’s party are adorable.,bert,syn,1.1309748,0.006321483513759236
+10,c,The large dog at the toddlers’ party,plural,is,The large dog at the toddlers’ party is adorable.,bert,syn,0.9885341,0.004244303343152289
+10,d,The large dog at the toddlers’ party,plural,are,The large dog at the toddlers’ party are adorable.,bert,syn,1.0961782,0.004902792340764384
+11,a,The letter to the housewife’s representative,singular,is,The letter to the housewife’s representative is hostile.,bert,syn,1.071177,-0.023086254959781626
+11,b,The letter to the housewife’s representative,singular,are,The letter to the housewife’s representative are hostile.,bert,syn,1.1784089,-0.021465000117086675
+11,c,The letter to the housewives’ representative,plural,is,The letter to the housewives’ representative is hostile.,bert,syn,1.0528286,-0.037339907505721005
+11,d,The letter to the housewives’ representative,plural,are,The letter to the housewives’ representative are hostile.,bert,syn,1.1376665,-0.025215023278611623
+12,a,The message for the wizard’s apprentice,singular,is,The message for the wizard’s apprentice is puzzling.,bert,syn,1.1870797,-0.018183396618299923
+12,b,The message for the wizard’s apprentice,singular,are,The message for the wizard’s apprentice are puzzling.,bert,syn,1.2243226,-0.020453085950696233
+12,c,The message for the wizards’ apprentice,plural,is,The message for the wizards’ apprentice is puzzling.,bert,syn,1.1942381,-0.016214635422974768
+12,d,The message for the wizards’ apprentice,plural,are,The message for the wizards’ apprentice are puzzling.,bert,syn,1.2131308,-0.01719082553142273
+13,a,The outfit for the saleslady’s display,singular,is,The outfit for the saleslady’s display is attractive.,bert,syn,1.0921652,-0.027342357496061176
+13,b,The outfit for the saleslady’s display,singular,are,The outfit for the saleslady’s display are attractive.,bert,syn,1.2077144,-0.019380546077701413
+13,c,The outfit for the salesladies’ display,plural,is,The outfit for the salesladies’ display is attractive.,bert,syn,1.0849239,-0.032644013529552
+13,d,The outfit for the salesladies’ display,plural,are,The outfit for the salesladies’ display are attractive.,bert,syn,1.19892,-0.026166662417596066
+14,a,The position in the woman's newsletter,singular,is,The position in the woman's newsletter is unpopular.,bert,syn,1.0405471,-0.019879625838609638
+14,b,The position in the woman's newsletter,singular,are,The position in the woman's newsletter are unpopular.,bert,syn,1.1538768,-0.013250242080042815
+14,c,The position in the women's newsletter,plural,is,The position in the women's newsletter is unpopular.,bert,syn,1.0433738,-0.019769378545963123
+14,d,The position in the women's newsletter,plural,are,The position in the women's newsletter are unpopular.,bert,syn,1.1537064,-0.012419907946916029
+15,a,The promise from the company’s salesman,singular,is,The promise from the company’s salesman is broken.,bert,syn,1.1652775,-0.02997128615170197
+15,b,The promise from the company’s salesman,singular,are,The promise from the company’s salesman are broken.,bert,syn,1.2518383,-0.02476511802290535
+15,c,The promise from the companies’ salesman,plural,is,The promise from the companies’ salesman is broken.,bert,syn,1.1363542,-0.0372085116581505
+15,d,The promise from the companies’ salesman,plural,are,The promise from the companies’ salesman are broken.,bert,syn,1.216656,-0.02618034917380872
+16,a,The speech about the councilman's proposal,singular,is,The speech about the councilman's proposal is convincing.,bert,syn,1.0879366,-0.022979600329014718
+16,b,The speech about the councilman's proposal,singular,are,The speech about the councilman's proposal are convincing.,bert,syn,1.1393958,-0.013648572122100334
+16,c,The speech about the councilmans' proposal,plural,is,The speech about the councilmans' proposal is convincing.,bert,syn,1.0862321,-0.03208634208255876
+16,d,The speech about the councilmans' proposal,plural,are,The speech about the councilmans' proposal are convincing.,bert,syn,1.1184387,-0.01559229267683998
+17,a,The confession of the thief's accomplice,singular,is,The confession of the thief's accomplice is tape recorded.,bert,syn,1.1768194,-0.010522986361937114
+17,b,The confession of the thief's accomplice,singular,are,The confession of the thief's accomplice are tape recorded.,bert,syn,1.2390121,-0.00691127551971249
+17,c,The confession of the thieves' accomplice,plural,is,The confession of the thieves' accomplice is tape recorded.,bert,syn,1.1813772,-0.009182746580034973
+17,d,The confession of the thieves' accomplice,plural,are,The confession of the thieves' accomplice are tape recorded.,bert,syn,1.2276952,-0.006781498003738305
+18,a,The disagreement about the corporation's lawsuit,singular,is,The disagreement about the corporation's lawsuit is petty.,bert,syn,1.0646251,-0.030485216530228662
+18,b,The disagreement about the corporation's lawsuit,singular,are,The disagreement about the corporation's lawsuit are petty.,bert,syn,1.0584465,-0.01987302981839325
+18,c,The disagreement about the corporations' lawsuit,plural,is,The disagreement about the corporations' lawsuit is petty.,bert,syn,1.0417401,-0.02939249000509521
+18,d,The disagreement about the corporations' lawsuit,plural,are,The disagreement about the corporations' lawsuit are petty.,bert,syn,1.0389766,-0.021296642530342524
+19,a,The dress at the designer's showcase,singular,is,The dress at the designer's showcase is expensive.,bert,syn,1.1094033,-0.02160343083213231
+19,b,The dress at the designer's showcase,singular,are,The dress at the designer's showcase are expensive.,bert,syn,1.2080925,-0.01693566586981388
+19,c,The dress at the designers' showcase,plural,is,The dress at the designers' showcase is expensive.,bert,syn,1.0707976,-0.01799567922903751
+19,d,The dress at the designers' showcase,plural,are,The dress at the designers' showcase are expensive.,bert,syn,1.1647532,-0.016849587379201534
+20,a,The hex from the fairy's spellbook,singular,is,The hex from the fairy's spellbook is ineffective.,bert,syn,1.0444362,-0.0035265971658972745
+20,b,The hex from the fairy's spellbook,singular,are,The hex from the fairy's spellbook are ineffective.,bert,syn,1.1637475,0.001019280861444826
+20,c,The hex from the fairys' spellbook,plural,is,The hex from the fairys' spellbook is ineffective.,bert,syn,1.049163,-0.005090713582699635
+20,d,The hex from the fairys' spellbook,plural,are,The hex from the fairys' spellbook are ineffective.,bert,syn,1.163384,-0.0011852813505953477
+21,a,The job for the cleaning lady's helper,singular,is,The job for the cleaning lady's helper is tiring.,bert,syn,1.2851856,0.0034106428331853837
+21,b,The job for the cleaning lady's helper,singular,are,The job for the cleaning lady's helper are tiring.,bert,syn,1.3122047,-4.5720577737851445e-05
+21,c,The job for the cleaningladies' helper,plural,is,The job for the cleaningladies' helper is tiring.,bert,syn,1.2745138,-0.02770851029289645
+21,d,The job for the cleaningladies' helper,plural,are,The job for the cleaningladies' helper are tiring.,bert,syn,1.2867572,-0.028327951291348085
+22,a,The restaurant near the fisherman's dock,singular,is,The restaurant near the fisherman's dock is closed down.,bert,syn,1.2308129,-0.013926268054649426
+22,b,The restaurant near the fisherman's dock,singular,are,The restaurant near the fisherman's dock are closed down.,bert,syn,1.340544,-0.015068649932989685
+22,c,The restaurant near the fishermans' dock,plural,is,The restaurant near the fishermans' dock is closed down.,bert,syn,1.2301681,-0.021644215876577274
+22,d,The restaurant near the fishermans' dock,plural,are,The restaurant near the fishermans' dock are closed down.,bert,syn,1.3402002,-0.018559956060198248
+23,a,The uniform containing the policeman's key,singular,is,The uniform containing the policeman's key is missing.,bert,syn,1.1009686,-0.024214708645997896
+23,b,The uniform containing the policeman's key,singular,are,The uniform containing the policeman's key are missing.,bert,syn,1.2371975,-0.0233797007990435
+23,c,The uniform containing the policemans' key,plural,is,The uniform containing the policemans' key is missing.,bert,syn,1.1043979,-0.032983588601258815
+23,d,The uniform containing the policemans' key,plural,are,The uniform containing the policemans' key are missing.,bert,syn,1.2359121,-0.029441755094056287
+24,a,The visit with the student's teacher,singular,is,The visit with the student's teacher is informative.,bert,syn,1.1353668,-0.022763715094597667
+24,b,The visit with the student's teacher,singular,are,The visit with the student's teacher are informative.,bert,syn,1.2912619,-0.02595601796284673
+24,c,The visit with the students' teacher,plural,is,The visit with the students' teacher is informative.,bert,syn,1.1339318,-0.023257240598704827
+24,d,The visit with the students' teacher,plural,are,The visit with the students' teacher are informative.,bert,syn,1.2683178,-0.030258771153362132
+25,a,The antique trunk for the child's toy,singular,is,The antique trunk for the child's toy is large.,bert,syn,1.1168336,0.007633899028900793
+25,b,The antique trunk for the child's toy,singular,are,The antique trunk for the child's toy are large.,bert,syn,1.2309668,0.011369614167715626
+25,c,The antique trunk for the children's toy,plural,is,The antique trunk for the children's toy is large.,bert,syn,1.0996926,0.008719055960051136
+25,d,The antique trunk for the children's toy,plural,are,The antique trunk for the children's toy are large.,bert,syn,1.2203689,0.01061553966723796
+26,a,The car with the policeman's insignia,singular,is,The car with the policeman's insignia is new.,bert,syn,1.0898881,-0.03422023220133341
+26,b,The car with the policeman's insignia,singular,are,The car with the policeman's insignia are new.,bert,syn,1.1389706,-0.029695361603026264
+26,c,The car with the policemans' insignia,plural,is,The car with the policemans' insignia is new.,bert,syn,1.0805378,-0.039296381966748915
+26,d,The car with the policemans' insignia,plural,are,The car with the policemans' insignia are new.,bert,syn,1.1199317,-0.03201286444353961
+27,a,The invasion of the enemy's bunker,singular,is,The invasion of the enemy's bunker is merciless.,bert,syn,1.298519,-0.021681201073466383
+27,b,The invasion of the enemy's bunker,singular,are,The invasion of the enemy's bunker are merciless.,bert,syn,1.3337898,-0.0195488801864208
+27,c,The invasion of the enemies' bunker,plural,is,The invasion of the enemies' bunker is merciless.,bert,syn,1.2383487,-0.014555719765115667
+27,d,The invasion of the enemies' bunker,plural,are,The invasion of the enemies' bunker are merciless.,bert,syn,1.2722304,-0.018284420268994746
+28,a,The memo from the supervisor's lawyer,singular,is,The memo from the supervisor's lawyer is harsh.,bert,syn,1.0270252,-0.026301623589248785
+28,b,The memo from the supervisor's lawyer,singular,are,The memo from the supervisor's lawyer are harsh.,bert,syn,1.0993154,-0.017494183830443825
+28,c,The memo from the supervisors' lawyer,plural,is,The memo from the supervisors' lawyer is harsh.,bert,syn,1.0014207,-0.02833326434376411
+28,d,The memo from the supervisors' lawyer,plural,are,The memo from the supervisors' lawyer are harsh.,bert,syn,1.0725307,-0.011582833900868537
+29,a,The picnic with the baby's caretaker,singular,is,The picnic with the baby's caretaker is enjoyable.,bert,syn,1.0130711,-0.009465763250024437
+29,b,The picnic with the baby's caretaker,singular,are,The picnic with the baby's caretaker are enjoyable.,bert,syn,1.1083744,-0.011131086654856924
+29,c,The picnic with the babies' caretaker,plural,is,The picnic with the babies' caretaker is enjoyable.,bert,syn,0.9880544,-0.01747956548969023
+29,d,The picnic with the babies' caretaker,plural,are,The picnic with the babies' caretaker are enjoyable.,bert,syn,1.0773134,-0.016815654631190613
+30,a,The tiny fountain in the elf's garden,singular,is,The tiny fountain in the elf's garden is amusing.,bert,syn,1.0649002,0.010021388674494602
+30,b,The tiny fountain in the elf's garden,singular,are,The tiny fountain in the elf's garden are amusing.,bert,syn,1.1692121,0.010172454869428551
+30,c,The tiny fountain in the elves' garden,plural,is,The tiny fountain in the elves' garden is amusing.,bert,syn,1.060209,0.007467825777129705
+30,d,The tiny fountain in the elves' garden,plural,are,The tiny fountain in the elves' garden are amusing.,bert,syn,1.134543,0.008002485307357626
+31,a,The truck with the fireman's hose,singular,is,The truck with the fireman's hose is leaving.,bert,syn,1.1078365,-0.022588185206937082
+31,b,The truck with the fireman's hose,singular,are,The truck with the fireman's hose are leaving.,bert,syn,1.1322957,-0.021931387819541473
+31,c,The truck with the firemans' hose,plural,is,The truck with the firemans' hose is leaving.,bert,syn,1.1085224,-0.025510644137755726
+31,d,The truck with the firemans' hose,plural,are,The truck with the firemans' hose are leaving.,bert,syn,1.1066644,-0.021496569866847982
+32,a,The response to the country's attack,singular,is,The response to the country's attack is immediate.,bert,syn,1.2067221,-0.02345869031662788
+32,b,The response to the country's attack,singular,are,The response to the country's attack are immediate.,bert,syn,1.2441146,-0.021072790682469655
+32,c,The response to the countries' attack,plural,is,The response to the countries' attack is immediate.,bert,syn,1.1423653,-0.037928316319627654
+32,d,The response to the countries' attack,plural,are,The response to the countries' attack are immediate.,bert,syn,1.1864476,-0.03673466481743039
+1,a,The slogan on the poster,singular,is,The slogan on the poster is designed to get attention.,gpt2,no_syn,1.2552193,-0.18494488395985514
+1,b,The slogan on the posters,plural,is,The slogan on the posters is designed to get attention.,gpt2,no_syn,1.2677324,-0.15695223086222543
+1,c,The slogan on the poster,singular,are,The slogan on the poster are designed to get attention.,gpt2,no_syn,1.3066458,-0.18253215471631845
+1,d,The slogan on the posters,plural,are,The slogan on the posters are designed to get attention.,gpt2,no_syn,1.295662,-0.24784512593284944
+2,a,The picture on the flier,singular,is,The picture on the flier is of a village church in the south of France.,gpt2,no_syn,1.2212363,-0.2782636373304129
+2,b,The picture on the fliers,plural,is,The picture on the fliers is of a village church in the south of France.,gpt2,no_syn,1.2415726,-0.22812236554405443
+2,c,The picture on the flier,singular,are,The picture on the flier are of a village church in the south of France.,gpt2,no_syn,1.340575,-0.3215300388028721
+2,d,The picture on the fliers,plural,are,The picture on the fliers are of a village church in the south of France.,gpt2,no_syn,1.3070072,-0.3344794903921725
+3,a,The mistake in the program,singular,is,The mistake in the program is disastrous for the small software company.,gpt2,no_syn,1.2503275,-0.14159104752322776
+3,b,The mistake in the programs,plural,is,The mistake in the programs is disastrous for the small software company.,gpt2,no_syn,1.2415878,-0.15661058210290102
+3,c,The mistake in the program,singular,are,The mistake in the program are disastrous for the small software company.,gpt2,no_syn,1.3202565,-0.14378420622352736
+3,d,The mistake in the programs,plural,are,The mistake in the programs are disastrous for the small software company.,gpt2,no_syn,1.3335105,-0.2585659508957196
+4,a,The label on the container,singular,is,The label on the container is a warning about the hazardous chemicals inside.,gpt2,no_syn,1.2421886,-0.19447825205269284
+4,b,The label on the containers,plural,is,The label on the containers is a warning about the hazardous chemicals inside.,gpt2,no_syn,1.2409711,-0.17458497853383362
+4,c,The label on the container,singular,are,The label on the container are a warning about the hazardous chemicals inside.,gpt2,no_syn,1.2600352,-0.17419566770302028
+4,d,The label on the containers,plural,are,The label on the containers are a warning about the hazardous chemicals inside.,gpt2,no_syn,1.2512798,-0.238214151880365
+5,a,The problem in the store,singular,is,The problem in the store is solved by firing the custodian.,gpt2,no_syn,1.3070271,-0.1504878647390987
+5,b,The problem in the stores,plural,is,The problem in the stores is solved by firing the custodian.,gpt2,no_syn,1.3025393,-0.14960147028700777
+5,c,The problem in the store,singular,are,The problem in the store are solved by firing the custodian.,gpt2,no_syn,1.3744807,-0.15369901312115106
+5,d,The problem in the stores,plural,are,The problem in the stores are solved by firing the custodian.,gpt2,no_syn,1.3693812,-0.28344966163801844
+6,a,The name on the billboard,singular,is,The name on the billboard is of a prominent local businessman.,gpt2,no_syn,1.2254868,-0.2547492960595356
+6,b,The name on the billboards,plural,is,The name on the billboards is of a prominent local businessman.,gpt2,no_syn,1.2508733,-0.20271073642482165
+6,c,The name on the billboard,singular,are,The name on the billboard are of a prominent local businessman.,gpt2,no_syn,1.2867824,-0.2307580717910639
+6,d,The name on the billboards,plural,are,The name on the billboards are of a prominent local businessman.,gpt2,no_syn,1.2923895,-0.2943086169334748
+7,a,The crime in the suburb,singular,is,The crime in the suburb is a reflection of the violence in today's society.,gpt2,no_syn,1.2669946,-0.13973879410632434
+7,b,The crime in the suburbs,plural,is,The crime in the suburbs is a reflection of the violence in today's society.,gpt2,no_syn,1.2769047,-0.08515860635122435
+7,c,The crime in the suburb,singular,are,The crime in the suburb are a reflection of the violence in today's society.,gpt2,no_syn,1.3762922,-0.13929734242551037
+7,d,The crime in the suburbs,plural,are,The crime in the suburbs are a reflection of the violence in today's society.,gpt2,no_syn,1.3706377,-0.16128326234698137
+8,a,The defect in the appliance,singular,is,The defect in the appliance is unknown to consumers and government regulators.,gpt2,no_syn,1.250203,-0.19554771841243335
+8,b,The defect in the appliances,plural,is,The defect in the appliances is unknown to consumers and government regulators.,gpt2,no_syn,1.2365278,-0.20259982053950124
+8,c,The defect in the appliance,singular,are,The defect in the appliance are unknown to consumers and government regulators.,gpt2,no_syn,1.2993841,-0.190241995493443
+8,d,The defect in the appliances,plural,are,The defect in the appliances are unknown to consumers and government regulators.,gpt2,no_syn,1.2710913,-0.26640722674759443
+9,a,The citation on the notecard,singular,is,The citation on the notecard is quite difficult to track down using the library's limited resources.,gpt2,no_syn,1.3805395,-0.3490770612836178
+9,b,The citation on the notecards,plural,is,The citation on the notecards is quite difficult to track down using the library's limited resources.,gpt2,no_syn,1.3212521,-0.3226403405738889
+9,c,The citation on the notecard,singular,are,The citation on the notecard are quite difficult to track down using the library's limited resources.,gpt2,no_syn,1.5372045,-0.4128648867804342
+9,d,The citation on the notecards,plural,are,The citation on the notecards are quite difficult to track down using the library's limited resources.,gpt2,no_syn,1.4700398,-0.44528767651044043
+10,a,The advertisement on the skyscraper,singular,is,The advertisement on the skyscraper is hard to read except from a long distance away.,gpt2,no_syn,1.3491443,-0.29295573774250827
+10,b,The advertisement on the skyscrapers,plural,is,The advertisement on the skyscrapers is hard to read except from a long distance away.,gpt2,no_syn,1.4410995,-0.2871339469135097
+10,c,The advertisement on the skyscraper,singular,are,The advertisement on the skyscraper are hard to read except from a long distance away.,gpt2,no_syn,1.4171569,-0.2714618861012879
+10,d,The advertisement on the skyscrapers,plural,are,The advertisement on the skyscrapers are hard to read except from a long distance away.,gpt2,no_syn,1.4880553,-0.34664198688393955
+11,a,The traitor in the camp,singular,is,The traitor in the camp is passing information to the enemy through various secret methods.,gpt2,no_syn,1.2443731,-0.0020176587099065557
+11,b,The traitor in the camps,plural,is,The traitor in the camps is passing information to the enemy through various secret methods.,gpt2,no_syn,1.266804,-0.021692015387174746
+11,c,The traitor in the camp,singular,are,The traitor in the camp are passing information to the enemy through various secret methods.,gpt2,no_syn,1.3342488,-0.0230302478457787
+11,d,The traitor in the camps,plural,are,The traitor in the camps are passing information to the enemy through various secret methods.,gpt2,no_syn,1.3265272,-0.08183204892115545
+12,a,The flaw in the argument,singular,is,The flaw in the argument is clear to everyone in the lecture hall after just five minutes.,gpt2,no_syn,1.2289832,-0.2235966255719859
+12,b,The flaw in the arguments,plural,is,The flaw in the arguments is clear to everyone in the lecture hall after just five minutes.,gpt2,no_syn,1.2199485,-0.22280197902769033
+12,c,The flaw in the argument,singular,are,The flaw in the argument are clear to everyone in the lecture hall after just five minutes.,gpt2,no_syn,1.270961,-0.24783984210689597
+12,d,The flaw in the arguments,plural,are,The flaw in the arguments are clear to everyone in the lecture hall after just five minutes.,gpt2,no_syn,1.2439003,-0.3365781355773322
+13,a,The door to the laboratory,singular,is,The door to the laboratory is left unlocked by the cleaning service.,gpt2,no_syn,1.2101576,-0.1427622119467504
+13,b,The door to the laboratories,plural,is,The door to the laboratories is left unlocked by the cleaning service.,gpt2,no_syn,1.1941717,-0.15309962794437534
+13,c,The door to the laboratory,singular,are,The door to the laboratory are left unlocked by the cleaning service.,gpt2,no_syn,1.2586552,-0.15481964178561614
+13,d,The door to the laboratories,plural,are,The door to the laboratories are left unlocked by the cleaning service.,gpt2,no_syn,1.2590224,-0.22451326367344546
+14,a,The memo from the supervisor,singular,is,The memo from the supervisor is about the delinquent tax return.,gpt2,no_syn,1.2220876,-0.18384033545492431
+14,b,The memo from the supervisors,plural,is,The memo from the supervisors is about the delinquent tax return.,gpt2,no_syn,1.243087,-0.14351753106358273
+14,c,The memo from the supervisor,singular,are,The memo from the supervisor are about the delinquent tax return.,gpt2,no_syn,1.3196232,-0.1935047878400837
+14,d,The memo from the supervisors,plural,are,The memo from the supervisors are about the delinquent tax return.,gpt2,no_syn,1.3509341,-0.2534307970272266
+15,a,The check from the stockbroker,singular,is,The check from the stockbroker is a dividend on a long-term bond.,gpt2,no_syn,1.3758934,-0.3405538438353686
+15,b,The check from the stockbrokers,plural,is,The check from the stockbrokers is a dividend on a long-term bond.,gpt2,no_syn,1.3580753,-0.3141332384664535
+15,c,The check from the stockbroker,singular,are,The check from the stockbroker are a dividend on a long-term bond.,gpt2,no_syn,1.4457247,-0.41446715136989737
+15,d,The check from the stockbrokers,plural,are,The check from the stockbrokers are a dividend on a long-term bond.,gpt2,no_syn,1.4512664,-0.4473867132560728
+16,a,The key to the cell,singular,is,The key to the cell is rusty from many years of disuse.,gpt2,no_syn,1.2628958,-0.24134247815622487
+16,b,The key to the cells,plural,is,The key to the cells is rusty from many years of disuse.,gpt2,no_syn,1.2778487,-0.18142022538427172
+16,c,The key to the cell,singular,are,The key to the cell are rusty from many years of disuse.,gpt2,no_syn,1.3017147,-0.2336547310579926
+16,d,The key to the cells,plural,are,The key to the cells are rusty from many years of disuse.,gpt2,no_syn,1.3144081,-0.2817941403785235
+17,a,The letter from the investigator,singular,is,The letter from the investigator is received in San Francisco in late March.,gpt2,no_syn,1.2421529,-0.18825733899788585
+17,b,The letter from the investigators,plural,is,The letter from the investigators is received in San Francisco in late March.,gpt2,no_syn,1.2548728,-0.12908411796692004
+17,c,The letter from the investigator,singular,are,The letter from the investigator are received in San Francisco in late March.,gpt2,no_syn,1.2948868,-0.23134606962084941
+17,d,The letter from the investigators,plural,are,The letter from the investigators are received in San Francisco in late March.,gpt2,no_syn,1.3070532,-0.2892467669882762
+18,a,The entrance to the exhibit,singular,is,The entrance to the exhibit is hard to locate on the diagram.,gpt2,no_syn,1.2505378,-0.13980564704042991
+18,b,The entrance to the exhibits,plural,is,The entrance to the exhibits is hard to locate on the diagram.,gpt2,no_syn,1.2573087,-0.12545893244082437
+18,c,The entrance to the exhibit,singular,are,The entrance to the exhibit are hard to locate on the diagram.,gpt2,no_syn,1.3200772,-0.12855122682067302
+18,d,The entrance to the exhibits,plural,are,The entrance to the exhibits are hard to locate on the diagram.,gpt2,no_syn,1.3105671,-0.1971279312232127
+19,a,The warning from the expert,singular,is,The warning from the expert is a shock to the residents of the city.,gpt2,no_syn,1.1708443,-0.21555682812930282
+19,b,The warning from the experts,plural,is,The warning from the experts is a shock to the residents of the city.,gpt2,no_syn,1.2408184,-0.1241619961519973
+19,c,The warning from the expert,singular,are,The warning from the expert are a shock to the residents of the city.,gpt2,no_syn,1.2631752,-0.23742386642801422
+19,d,The warning from the experts,plural,are,The warning from the experts are a shock to the residents of the city.,gpt2,no_syn,1.2952719,-0.3074234761708794
+20,a,The bridge to the island,singular,is,The bridge to the island is about ten miles off the main highway.,gpt2,no_syn,1.2675941,-0.10437247258323623
+20,b,The bridge to the islands,plural,is,The bridge to the islands is about ten miles off the main highway.,gpt2,no_syn,1.2697425,-0.09512567487454365
+20,c,The bridge to the island,singular,are,The bridge to the island are about ten miles off the main highway.,gpt2,no_syn,1.2911308,-0.1154416043722449
+20,d,The bridge to the islands,plural,are,The bridge to the islands are about ten miles off the main highway.,gpt2,no_syn,1.3070694,-0.1679818089971377
+21,a,The gift from the visitor,singular,is,The gift from the visitor is a beautiful clock from Germany.,gpt2,no_syn,1.2280481,-0.18771959081528278
+21,b,The gift from the visitors,plural,is,The gift from the visitors is a beautiful clock from Germany.,gpt2,no_syn,1.255776,-0.14347915961095625
+21,c,The gift from the visitor,singular,are,The gift from the visitor are a beautiful clock from Germany.,gpt2,no_syn,1.2654619,-0.20863365883367352
+21,d,The gift from the visitors,plural,are,The gift from the visitors are a beautiful clock from Germany.,gpt2,no_syn,1.2597063,-0.2669699182300235
+22,a,The path to the monument,singular,is,The path to the monument is lined with lovely trees and flowers.,gpt2,no_syn,1.2206948,-0.19179858732340163
+22,b,The path to the monuments,plural,is,The path to the monuments is lined with lovely trees and flowers.,gpt2,no_syn,1.248853,-0.16232834734330479
+22,c,The path to the monument,singular,are,The path to the monument are lined with lovely trees and flowers.,gpt2,no_syn,1.2779558,-0.18360308898245703
+22,d,The path to the monuments,plural,are,The path to the monuments are lined with lovely trees and flowers.,gpt2,no_syn,1.3289267,-0.24268803670729255
+23,a,The message from the engineer,singular,is,The message from the engineer is about the recent weakening to the building's structural supports.,gpt2,no_syn,1.1921139,-0.2674947303022658
+23,b,The message from the engineers,plural,is,The message from the engineers is about the recent weakening to the building's structural supports.,gpt2,no_syn,1.2267172,-0.2136985482954598
+23,c,The message from the engineer,singular,are,The message from the engineer are about the recent weakening to the building's structural supports.,gpt2,no_syn,1.2315295,-0.25406856175409287
+23,d,The message from the engineers,plural,are,The message from the engineers are about the recent weakening to the building's structural supports.,gpt2,no_syn,1.2339351,-0.35417721574398364
+24,a,The gate to the pasture,singular,is,The gate to the pasture is falling down due to disrepair.,gpt2,no_syn,1.2473849,-0.16479401362050797
+24,b,The gate to the pastures,plural,is,The gate to the pastures is falling down due to disrepair.,gpt2,no_syn,1.3041481,-0.24166642411376354
+24,c,The gate to the pasture,singular,are,The gate to the pasture are falling down due to disrepair.,gpt2,no_syn,1.2685828,-0.15141667341417817
+24,d,The gate to the pastures,plural,are,The gate to the pastures are falling down due to disrepair.,gpt2,no_syn,1.3815222,-0.29029630363030656
+1,a,The cake at the senator’s celebration,singular,is,The cake at the senator’s celebration is delicious.,gpt2,syn,1.2959368,-0.02489821245938767
+1,b,The cake at the senator’s celebration,singular,are,The cake at the senator’s celebration are delicious.,gpt2,syn,1.3874878,-0.04024101988516718
+1,c,The cake at the senators’ celebration,plural,is,The cake at the senators’ celebration is delicious.,gpt2,syn,1.3097645,-0.013942548367687213
+1,d,The cake at the senators’ celebration,plural,are,The cake at the senators’ celebration are delicious.,gpt2,syn,1.4294422,-0.07210350458362558
+2,a,The call to the doctor’s secretary,singular,is,The call to the doctor’s secretary is urgent.,gpt2,syn,1.2646043,-0.04511665685559771
+2,b,The call to the doctor’s secretary,singular,are,The call to the doctor’s secretary are urgent.,gpt2,syn,1.3359015,-0.08787319873193583
+2,c,The call to the doctors’ secretary,plural,is,The call to the doctors’ secretary is urgent.,gpt2,syn,1.2981877,-0.03642134342675693
+2,d,The call to the doctors’ secretary,plural,are,The call to the doctors’ secretary are urgent.,gpt2,syn,1.4100691,-0.11172192685498664
+3,a,The computer for the laboratory’s experiment,singular,is,The computer for the laboratory’s experiment is modern.,gpt2,syn,1.3913522,-0.04184807012495412
+3,b,The computer for the laboratory’s experiment,singular,are,The computer for the laboratory’s experiment are modern.,gpt2,syn,1.4487383,-0.055857022990145985
+3,c,The computer for the laboratories’ experiment,plural,is,The computer for the laboratories’ experiment is modern.,gpt2,syn,1.4055727,-0.07033437766222081
+3,d,The computer for the laboratories’ experiment,plural,are,The computer for the laboratories’ experiment are modern.,gpt2,syn,1.5024598,-0.12741541416292843
+4,a,The encounter with the wolf's baby,singular,is,The encounter with the wolf's baby is frightening.,gpt2,syn,1.2520548,-0.0538877984893328
+4,b,The encounter with the wolf's baby,singular,are,The encounter with the wolf's baby are frightening.,gpt2,syn,1.3033957,-0.0971689293286962
+4,c,The encounter with the wolves' baby,plural,is,The encounter with the wolves' baby is frightening.,gpt2,syn,1.2643912,-0.06574054119871507
+4,d,The encounter with the wolves' baby,plural,are,The encounter with the wolves' baby are frightening.,gpt2,syn,1.3581278,-0.12794885613830176
+5,a,The plan for the school’s upgrade,singular,is,The plan for the school’s upgrade is unrealistic.,gpt2,syn,1.2964919,-0.08875841400591113
+5,b,The plan for the school’s upgrade,singular,are,The plan for the school’s upgrade are unrealistic.,gpt2,syn,1.3826876,-0.1055893004440577
+5,c,The plan for the schools’ upgrade,plural,is,The plan for the schools’ upgrade is unrealistic.,gpt2,syn,1.3121938,-0.08481451708330391
+5,d,The plan for the schools’ upgrade,plural,are,The plan for the schools’ upgrade are unrealistic.,gpt2,syn,1.4153957,-0.1301141928118234
+6,a,The problem with the family’s account,singular,is,The problem with the family’s account is discussed.,gpt2,syn,1.4124644,-0.11638777696014234
+6,b,The problem with the family’s account,singular,are,The problem with the family’s account are discussed.,gpt2,syn,1.4551253,-0.14280521932020024
+6,c,The problem with the families’ account,plural,is,The problem with the families’ account is discussed.,gpt2,syn,1.3994973,-0.1199245210066657
+6,d,The problem with the families’ account,plural,are,The problem with the families’ account are discussed.,gpt2,syn,1.4654012,-0.21877600761543142
+7,a,The report to the chairman's advisor,singular,is,The report to the chairman's advisor is shocking.,gpt2,syn,1.314248,-0.08346716204943395
+7,b,The report to the chairman's advisor,singular,are,The report to the chairman's advisor are shocking.,gpt2,syn,1.4309845,-0.12988262227827357
+7,c,The report to the chairmans' advisor,plural,is,The report to the chairmen' advisor is shocking.,gpt2,syn,1.3849171,-0.08433976719036197
+7,d,The report to the chairmans' advisor,plural,are,The report to the chairmen' advisor are shocking.,gpt2,syn,1.5233811,-0.18037999905096858
+8,a,The telegram for the congressman's lobbyist,singular,is,The telegram for the congressman's lobbyist is never received.,gpt2,syn,1.4119104,-0.01194468494864237
+8,b,The telegram for the congressman's lobbyist,singular,are,The telegram for the congressman's lobbyist are never received.,gpt2,syn,1.45007,-0.014869555003481222
+8,c,The telegram for the congressmans' lobbyist,plural,is,The telegram for the congressmans' lobbyist is never received.,gpt2,syn,1.4549252,-0.05821565848308602
+8,d,The telegram for the congressmans' lobbyist,plural,are,The telegram for the congressmans' lobbyist are never received.,gpt2,syn,1.526414,-0.09529877515733118
+9,a,The announcement from the magazine’s spokeswoman,singular,is,The announcement from the magazine’s spokeswoman is astonishing.,gpt2,syn,1.2812309,-0.019598617082285053
+9,b,The announcement from the magazine’s spokeswoman,singular,are,The announcement from the magazine’s spokeswoman are astonishing.,gpt2,syn,1.3943279,-0.0343499591793231
+9,c,The announcement from the magazines’ spokeswoman,plural,is,The announcement from the magazines’ spokeswoman is astonishing.,gpt2,syn,1.3028132,-0.023794407962470787
+9,d,The announcement from the magazines’ spokeswoman,plural,are,The announcement from the magazines’ spokeswoman are astonishing.,gpt2,syn,1.4602345,-0.08243530378430391
+10,a,The large dog at the toddler’s party,singular,is,The large dog at the toddler’s party is adorable.,gpt2,syn,1.4433053,0.024667442560885655
+10,b,The large dog at the toddler’s party,singular,are,The large dog at the toddler’s party are adorable.,gpt2,syn,1.4890046,0.03730130425813872
+10,c,The large dog at the toddlers’ party,plural,is,The large dog at the toddlers’ party is adorable.,gpt2,syn,1.440512,0.0287851953413324
+10,d,The large dog at the toddlers’ party,plural,are,The large dog at the toddlers’ party are adorable.,gpt2,syn,1.4928215,0.03116649148722793
+11,a,The letter to the housewife’s representative,singular,is,The letter to the housewife’s representative is hostile.,gpt2,syn,1.3408647,-0.12136705540139404
+11,b,The letter to the housewife’s representative,singular,are,The letter to the housewife’s representative are hostile.,gpt2,syn,1.4480431,-0.13364389939949733
+11,c,The letter to the housewives’ representative,plural,is,The letter to the housewives’ representative is hostile.,gpt2,syn,1.3679426,-0.09307353021514043
+11,d,The letter to the housewives’ representative,plural,are,The letter to the housewives’ representative are hostile.,gpt2,syn,1.5195992,-0.16349434298220972
+12,a,The message for the wizard’s apprentice,singular,is,The message for the wizard’s apprentice is puzzling.,gpt2,syn,1.337119,-0.06165924155349249
+12,b,The message for the wizard’s apprentice,singular,are,The message for the wizard’s apprentice are puzzling.,gpt2,syn,1.4103163,-0.06599057459349683
+12,c,The message for the wizards’ apprentice,plural,is,The message for the wizards’ apprentice is puzzling.,gpt2,syn,1.3417412,-0.05724814378618967
+12,d,The message for the wizards’ apprentice,plural,are,The message for the wizards’ apprentice are puzzling.,gpt2,syn,1.4452804,-0.13042602601902337
+13,a,The outfit for the saleslady’s display,singular,is,The outfit for the saleslady’s display is attractive.,gpt2,syn,1.5368072,-0.18998925832011507
+13,b,The outfit for the saleslady’s display,singular,are,The outfit for the saleslady’s display are attractive.,gpt2,syn,1.6256859,-0.23456346417246757
+13,c,The outfit for the salesladies’ display,plural,is,The outfit for the salesladies’ display is attractive.,gpt2,syn,1.5081763,-0.16793711650629323
+13,d,The outfit for the salesladies’ display,plural,are,The outfit for the salesladies’ display are attractive.,gpt2,syn,1.6399838,-0.27207467555463705
+14,a,The position in the woman's newsletter,singular,is,The position in the woman's newsletter is unpopular.,gpt2,syn,1.2944376,-0.06257618908710176
+14,b,The position in the woman's newsletter,singular,are,The position in the woman's newsletter are unpopular.,gpt2,syn,1.3996601,-0.09954189837143523
+14,c,The position in the women's newsletter,plural,is,The position in the women's newsletter is unpopular.,gpt2,syn,1.316671,-0.003752868059576725
+14,d,The position in the women's newsletter,plural,are,The position in the women's newsletter are unpopular.,gpt2,syn,1.4356093,-0.10870995875339143
+15,a,The promise from the company’s salesman,singular,is,The promise from the company’s salesman is broken.,gpt2,syn,1.2646015,-0.02584634154158391
+15,b,The promise from the company’s salesman,singular,are,The promise from the company’s salesman are broken.,gpt2,syn,1.3489149,-0.04383436908907261
+15,c,The promise from the companies’ salesman,plural,is,The promise from the companies’ salesman is broken.,gpt2,syn,1.2872355,-0.027526623481995444
+15,d,The promise from the companies’ salesman,plural,are,The promise from the companies’ salesman are broken.,gpt2,syn,1.4033751,-0.09813426704689385
+16,a,The speech about the councilman's proposal,singular,is,The speech about the councilman's proposal is convincing.,gpt2,syn,1.3558177,-0.09051827574950513
+16,b,The speech about the councilman's proposal,singular,are,The speech about the councilman's proposal are convincing.,gpt2,syn,1.3731414,-0.12934841369830413
+16,c,The speech about the councilmans' proposal,plural,is,The speech about the councilmans' proposal is convincing.,gpt2,syn,1.3648624,-0.09444319713864559
+16,d,The speech about the councilmans' proposal,plural,are,The speech about the councilmans' proposal are convincing.,gpt2,syn,1.4056358,-0.1485809730423474
+17,a,The confession of the thief's accomplice,singular,is,The confession of the thief's accomplice is tape recorded.,gpt2,syn,1.4483064,-0.05479494154426716
+17,b,The confession of the thief's accomplice,singular,are,The confession of the thief's accomplice are tape recorded.,gpt2,syn,1.4573174,-0.0581188598853252
+17,c,The confession of the thieves' accomplice,plural,is,The confession of the thieves' accomplice is tape recorded.,gpt2,syn,1.4640659,-0.015661681168635755
+17,d,The confession of the thieves' accomplice,plural,are,The confession of the thieves' accomplice are tape recorded.,gpt2,syn,1.5075891,-0.056924952937254816
+18,a,The disagreement about the corporation's lawsuit,singular,is,The disagreement about the corporation's lawsuit is petty.,gpt2,syn,1.3430855,-0.021054300743582055
+18,b,The disagreement about the corporation's lawsuit,singular,are,The disagreement about the corporation's lawsuit are petty.,gpt2,syn,1.3986883,-0.04758402826533471
+18,c,The disagreement about the corporations' lawsuit,plural,is,The disagreement about the corporations' lawsuit is petty.,gpt2,syn,1.3652358,-0.03169082459859077
+18,d,The disagreement about the corporations' lawsuit,plural,are,The disagreement about the corporations' lawsuit are petty.,gpt2,syn,1.4319806,-0.08520561832698104
+19,a,The dress at the designer's showcase,singular,is,The dress at the designer's showcase is expensive.,gpt2,syn,1.3623979,-0.0045651602927901935
+19,b,The dress at the designer's showcase,singular,are,The dress at the designer's showcase are expensive.,gpt2,syn,1.4621493,-0.04261772515374557
+19,c,The dress at the designers' showcase,plural,is,The dress at the designers' showcase is expensive.,gpt2,syn,1.3557558,-0.009684956703405634
+19,d,The dress at the designers' showcase,plural,are,The dress at the designers' showcase are expensive.,gpt2,syn,1.4814736,-0.08965654384861443
+20,a,The hex from the fairy's spellbook,singular,is,The hex from the fairy's spellbook is ineffective.,gpt2,syn,1.4149152,-0.03588543445045565
+20,b,The hex from the fairy's spellbook,singular,are,The hex from the fairy's spellbook are ineffective.,gpt2,syn,1.4409118,-0.04480906083215741
+20,c,The hex from the fairys' spellbook,plural,is,The hex from the fairys' spellbook is ineffective.,gpt2,syn,1.475241,-0.0423627345918737
+20,d,The hex from the fairys' spellbook,plural,are,The hex from the fairys' spellbook are ineffective.,gpt2,syn,1.5292856,-0.06822163698450642
+21,a,The job for the cleaning lady's helper,singular,is,The job for the cleaning lady's helper is tiring.,gpt2,syn,1.4031634,0.07307890392820593
+21,b,The job for the cleaning lady's helper,singular,are,The job for the cleaning lady's helper are tiring.,gpt2,syn,1.4908414,0.028059228946114883
+21,c,The job for the cleaningladies' helper,plural,is,The job for the cleaningladies' helper is tiring.,gpt2,syn,1.4617847,-0.1033390486445566
+21,d,The job for the cleaningladies' helper,plural,are,The job for the cleaningladies' helper are tiring.,gpt2,syn,1.5923036,-0.2341953961513349
+22,a,The restaurant near the fisherman's dock,singular,is,The restaurant near the fisherman's dock is closed down.,gpt2,syn,1.3526665,-0.03740833559753637
+22,b,The restaurant near the fisherman's dock,singular,are,The restaurant near the fisherman's dock are closed down.,gpt2,syn,1.4415039,-0.07307106742593503
+22,c,The restaurant near the fishermans' dock,plural,is,The restaurant near the fishermans' dock is closed down.,gpt2,syn,1.4121548,-0.05048674359267891
+22,d,The restaurant near the fishermans' dock,plural,are,The restaurant near the fishermans' dock are closed down.,gpt2,syn,1.5196211,-0.09346294605751339
+23,a,The uniform containing the policeman's key,singular,is,The uniform containing the policeman's key is missing.,gpt2,syn,1.2938354,-0.06543671383977856
+23,b,The uniform containing the policeman's key,singular,are,The uniform containing the policeman's key are missing.,gpt2,syn,1.3338299,-0.10720735473055495
+23,c,The uniform containing the policemans' key,plural,is,The uniform containing the policemans' key is missing.,gpt2,syn,1.4349179,-0.125013972102861
+23,d,The uniform containing the policemans' key,plural,are,The uniform containing the policemans' key are missing.,gpt2,syn,1.5310643,-0.17661671059745043
+24,a,The visit with the student's teacher,singular,is,The visit with the student's teacher is informative.,gpt2,syn,1.3086203,-0.053956687497572084
+24,b,The visit with the student's teacher,singular,are,The visit with the student's teacher are informative.,gpt2,syn,1.4142745,-0.08143689131458104
+24,c,The visit with the students' teacher,plural,is,The visit with the students' teacher is informative.,gpt2,syn,1.3213742,-0.03574312941143047
+24,d,The visit with the students' teacher,plural,are,The visit with the students' teacher are informative.,gpt2,syn,1.4632295,-0.09801600138359212
+25,a,The antique trunk for the child's toy,singular,is,The antique trunk for the child's toy is large.,gpt2,syn,1.444996,-0.0027521391286029068
+25,b,The antique trunk for the child's toy,singular,are,The antique trunk for the child's toy are large.,gpt2,syn,1.4881117,-0.004248931349113416
+25,c,The antique trunk for the children's toy,plural,is,The antique trunk for the children's toy is large.,gpt2,syn,1.4318587,-0.0005742510317231359
+25,d,The antique trunk for the children's toy,plural,are,The antique trunk for the children's toy are large.,gpt2,syn,1.5123892,-0.007426541276521828
+26,a,The car with the policeman's insignia,singular,is,The car with the policeman's insignia is new.,gpt2,syn,1.408592,-0.06326898450954505
+26,b,The car with the policeman's insignia,singular,are,The car with the policeman's insignia are new.,gpt2,syn,1.4501246,-0.10865851672167469
+26,c,The car with the policemans' insignia,plural,is,The car with the policemans' insignia is new.,gpt2,syn,1.4785106,-0.09016553052078688
+26,d,The car with the policemans' insignia,plural,are,The car with the policemans' insignia are new.,gpt2,syn,1.5328355,-0.13745148951638236
+27,a,The invasion of the enemy's bunker,singular,is,The invasion of the enemy's bunker is merciless.,gpt2,syn,1.3626647,-0.07418104528905364
+27,b,The invasion of the enemy's bunker,singular,are,The invasion of the enemy's bunker are merciless.,gpt2,syn,1.4710404,-0.10230616914901529
+27,c,The invasion of the enemies' bunker,plural,is,The invasion of the enemies' bunker is merciless.,gpt2,syn,1.3702637,-0.08520620419214626
+27,d,The invasion of the enemies' bunker,plural,are,The invasion of the enemies' bunker are merciless.,gpt2,syn,1.5170588,-0.13781872125672778
+28,a,The memo from the supervisor's lawyer,singular,is,The memo from the supervisor's lawyer is harsh.,gpt2,syn,1.3673983,-0.04259279337633194
+28,b,The memo from the supervisor's lawyer,singular,are,The memo from the supervisor's lawyer are harsh.,gpt2,syn,1.4487617,-0.07047564485961097
+28,c,The memo from the supervisors' lawyer,plural,is,The memo from the supervisors' lawyer is harsh.,gpt2,syn,1.3678728,-0.03191994251636676
+28,d,The memo from the supervisors' lawyer,plural,are,The memo from the supervisors' lawyer are harsh.,gpt2,syn,1.5028353,-0.11786550501975979
+29,a,The picnic with the baby's caretaker,singular,is,The picnic with the baby's caretaker is enjoyable.,gpt2,syn,1.383079,-0.01633736121794413
+29,b,The picnic with the baby's caretaker,singular,are,The picnic with the baby's caretaker are enjoyable.,gpt2,syn,1.4403651,-0.027150732309548876
+29,c,The picnic with the babies' caretaker,plural,is,The picnic with the babies' caretaker is enjoyable.,gpt2,syn,1.3880078,-0.023968391019373037
+29,d,The picnic with the babies' caretaker,plural,are,The picnic with the babies' caretaker are enjoyable.,gpt2,syn,1.4758941,-0.058616102391371785
+30,a,The tiny fountain in the elf's garden,singular,is,The tiny fountain in the elf's garden is amusing.,gpt2,syn,1.4481758,0.019564096814245466
+30,b,The tiny fountain in the elf's garden,singular,are,The tiny fountain in the elf's garden are amusing.,gpt2,syn,1.4759504,0.0482273243405337
+30,c,The tiny fountain in the elves' garden,plural,is,The tiny fountain in the elves' garden is amusing.,gpt2,syn,1.4381087,0.026590812333791555
+30,d,The tiny fountain in the elves' garden,plural,are,The tiny fountain in the elves' garden are amusing.,gpt2,syn,1.4865167,0.04700297639029263
+31,a,The truck with the fireman's hose,singular,is,The truck with the fireman's hose is leaving.,gpt2,syn,1.3612887,-0.11333061434406407
+31,b,The truck with the fireman's hose,singular,are,The truck with the fireman's hose are leaving.,gpt2,syn,1.4099658,-0.13820230566086325
+31,c,The truck with the firemans' hose,plural,is,The truck with the firemans' hose is leaving.,gpt2,syn,1.3695376,-0.10231817511009625
+31,d,The truck with the firemans' hose,plural,are,The truck with the firemans' hose are leaving.,gpt2,syn,1.4619932,-0.15711919469669028
+32,a,The response to the country's attack,singular,is,The response to the country's attack is immediate.,gpt2,syn,1.352743,-0.005793351940674901
+32,b,The response to the country's attack,singular,are,The response to the country's attack are immediate.,gpt2,syn,1.4469002,-0.054259087346082605
+32,c,The response to the countries' attack,plural,is,The response to the countries' attack is immediate.,gpt2,syn,1.3514518,-0.015604536487344778
+32,d,The response to the countries' attack,plural,are,The response to the countries' attack are immediate.,gpt2,syn,1.4915174,-0.1119832468968038

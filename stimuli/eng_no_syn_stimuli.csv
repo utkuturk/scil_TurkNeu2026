@@ -1,0 +1,97 @@
+Item,Condition,Stimulus,NP_Number,Auxiliary,Full_Sentence
+1,a,The slogan on the poster,singular,is,The slogan on the poster is designed to get attention.
+1,b,The slogan on the posters,plural,is,The slogan on the posters is designed to get attention.
+1,c,The slogan on the poster,singular,are,The slogan on the poster are designed to get attention.
+1,d,The slogan on the posters,plural,are,The slogan on the posters are designed to get attention.
+2,a,The picture on the flier,singular,is,The picture on the flier is of a village church in the south of France.
+2,b,The picture on the fliers,plural,is,The picture on the fliers is of a village church in the south of France.
+2,c,The picture on the flier,singular,are,The picture on the flier are of a village church in the south of France.
+2,d,The picture on the fliers,plural,are,The picture on the fliers are of a village church in the south of France.
+3,a,The mistake in the program,singular,is,The mistake in the program is disastrous for the small software company.
+3,b,The mistake in the programs,plural,is,The mistake in the programs is disastrous for the small software company.
+3,c,The mistake in the program,singular,are,The mistake in the program are disastrous for the small software company.
+3,d,The mistake in the programs,plural,are,The mistake in the programs are disastrous for the small software company.
+4,a,The label on the container,singular,is,The label on the container is a warning about the hazardous chemicals inside.
+4,b,The label on the containers,plural,is,The label on the containers is a warning about the hazardous chemicals inside.
+4,c,The label on the container,singular,are,The label on the container are a warning about the hazardous chemicals inside.
+4,d,The label on the containers,plural,are,The label on the containers are a warning about the hazardous chemicals inside.
+5,a,The problem in the store,singular,is,The problem in the store is solved by firing the custodian.
+5,b,The problem in the stores,plural,is,The problem in the stores is solved by firing the custodian.
+5,c,The problem in the store,singular,are,The problem in the store are solved by firing the custodian.
+5,d,The problem in the stores,plural,are,The problem in the stores are solved by firing the custodian.
+6,a,The name on the billboard,singular,is,The name on the billboard is of a prominent local businessman.
+6,b,The name on the billboards,plural,is,The name on the billboards is of a prominent local businessman.
+6,c,The name on the billboard,singular,are,The name on the billboard are of a prominent local businessman.
+6,d,The name on the billboards,plural,are,The name on the billboards are of a prominent local businessman.
+7,a,The crime in the suburb,singular,is,The crime in the suburb is a reflection of the violence in today's society.
+7,b,The crime in the suburbs,plural,is,The crime in the suburbs is a reflection of the violence in today's society.
+7,c,The crime in the suburb,singular,are,The crime in the suburb are a reflection of the violence in today's society.
+7,d,The crime in the suburbs,plural,are,The crime in the suburbs are a reflection of the violence in today's society.
+8,a,The defect in the appliance,singular,is,The defect in the appliance is unknown to consumers and government regulators.
+8,b,The defect in the appliances,plural,is,The defect in the appliances is unknown to consumers and government regulators.
+8,c,The defect in the appliance,singular,are,The defect in the appliance are unknown to consumers and government regulators.
+8,d,The defect in the appliances,plural,are,The defect in the appliances are unknown to consumers and government regulators.
+9,a,The citation on the notecard,singular,is,The citation on the notecard is quite difficult to track down using the library's limited resources.
+9,b,The citation on the notecards,plural,is,The citation on the notecards is quite difficult to track down using the library's limited resources.
+9,c,The citation on the notecard,singular,are,The citation on the notecard are quite difficult to track down using the library's limited resources.
+9,d,The citation on the notecards,plural,are,The citation on the notecards are quite difficult to track down using the library's limited resources.
+10,a,The advertisement on the skyscraper,singular,is,The advertisement on the skyscraper is hard to read except from a long distance away.
+10,b,The advertisement on the skyscrapers,plural,is,The advertisement on the skyscrapers is hard to read except from a long distance away.
+10,c,The advertisement on the skyscraper,singular,are,The advertisement on the skyscraper are hard to read except from a long distance away.
+10,d,The advertisement on the skyscrapers,plural,are,The advertisement on the skyscrapers are hard to read except from a long distance away.
+11,a,The traitor in the camp,singular,is,The traitor in the camp is passing information to the enemy through various secret methods.
+11,b,The traitor in the camps,plural,is,The traitor in the camps is passing information to the enemy through various secret methods.
+11,c,The traitor in the camp,singular,are,The traitor in the camp are passing information to the enemy through various secret methods.
+11,d,The traitor in the camps,plural,are,The traitor in the camps are passing information to the enemy through various secret methods.
+12,a,The flaw in the argument,singular,is,The flaw in the argument is clear to everyone in the lecture hall after just five minutes.
+12,b,The flaw in the arguments,plural,is,The flaw in the arguments is clear to everyone in the lecture hall after just five minutes.
+12,c,The flaw in the argument,singular,are,The flaw in the argument are clear to everyone in the lecture hall after just five minutes.
+12,d,The flaw in the arguments,plural,are,The flaw in the arguments are clear to everyone in the lecture hall after just five minutes.
+13,a,The door to the laboratory,singular,is,The door to the laboratory is left unlocked by the cleaning service.
+13,b,The door to the laboratories,plural,is,The door to the laboratories is left unlocked by the cleaning service.
+13,c,The door to the laboratory,singular,are,The door to the laboratory are left unlocked by the cleaning service.
+13,d,The door to the laboratories,plural,are,The door to the laboratories are left unlocked by the cleaning service.
+14,a,The memo from the supervisor,singular,is,The memo from the supervisor is about the delinquent tax return.
+14,b,The memo from the supervisors,plural,is,The memo from the supervisors is about the delinquent tax return.
+14,c,The memo from the supervisor,singular,are,The memo from the supervisor are about the delinquent tax return.
+14,d,The memo from the supervisors,plural,are,The memo from the supervisors are about the delinquent tax return.
+15,a,The check from the stockbroker,singular,is,The check from the stockbroker is a dividend on a long-term bond.
+15,b,The check from the stockbrokers,plural,is,The check from the stockbrokers is a dividend on a long-term bond.
+15,c,The check from the stockbroker,singular,are,The check from the stockbroker are a dividend on a long-term bond.
+15,d,The check from the stockbrokers,plural,are,The check from the stockbrokers are a dividend on a long-term bond.
+16,a,The key to the cell,singular,is,The key to the cell is rusty from many years of disuse.
+16,b,The key to the cells,plural,is,The key to the cells is rusty from many years of disuse.
+16,c,The key to the cell,singular,are,The key to the cell are rusty from many years of disuse.
+16,d,The key to the cells,plural,are,The key to the cells are rusty from many years of disuse.
+17,a,The letter from the investigator,singular,is,The letter from the investigator is received in San Francisco in late March.
+17,b,The letter from the investigators,plural,is,The letter from the investigators is received in San Francisco in late March.
+17,c,The letter from the investigator,singular,are,The letter from the investigator are received in San Francisco in late March.
+17,d,The letter from the investigators,plural,are,The letter from the investigators are received in San Francisco in late March.
+18,a,The entrance to the exhibit,singular,is,The entrance to the exhibit is hard to locate on the diagram.
+18,b,The entrance to the exhibits,plural,is,The entrance to the exhibits is hard to locate on the diagram.
+18,c,The entrance to the exhibit,singular,are,The entrance to the exhibit are hard to locate on the diagram.
+18,d,The entrance to the exhibits,plural,are,The entrance to the exhibits are hard to locate on the diagram.
+19,a,The warning from the expert,singular,is,The warning from the expert is a shock to the residents of the city.
+19,b,The warning from the experts,plural,is,The warning from the experts is a shock to the residents of the city.
+19,c,The warning from the expert,singular,are,The warning from the expert are a shock to the residents of the city.
+19,d,The warning from the experts,plural,are,The warning from the experts are a shock to the residents of the city.
+20,a,The bridge to the island,singular,is,The bridge to the island is about ten miles off the main highway.
+20,b,The bridge to the islands,plural,is,The bridge to the islands is about ten miles off the main highway.
+20,c,The bridge to the island,singular,are,The bridge to the island are about ten miles off the main highway.
+20,d,The bridge to the islands,plural,are,The bridge to the islands are about ten miles off the main highway.
+21,a,The gift from the visitor,singular,is,The gift from the visitor is a beautiful clock from Germany.
+21,b,The gift from the visitors,plural,is,The gift from the visitors is a beautiful clock from Germany.
+21,c,The gift from the visitor,singular,are,The gift from the visitor are a beautiful clock from Germany.
+21,d,The gift from the visitors,plural,are,The gift from the visitors are a beautiful clock from Germany.
+22,a,The path to the monument,singular,is,The path to the monument is lined with lovely trees and flowers.
+22,b,The path to the monuments,plural,is,The path to the monuments is lined with lovely trees and flowers.
+22,c,The path to the monument,singular,are,The path to the monument are lined with lovely trees and flowers.
+22,d,The path to the monuments,plural,are,The path to the monuments are lined with lovely trees and flowers.
+23,a,The message from the engineer,singular,is,The message from the engineer is about the recent weakening to the building's structural supports.
+23,b,The message from the engineers,plural,is,The message from the engineers is about the recent weakening to the building's structural supports.
+23,c,The message from the engineer,singular,are,The message from the engineer are about the recent weakening to the building's structural supports.
+23,d,The message from the engineers,plural,are,The message from the engineers are about the recent weakening to the building's structural supports.
+24,a,The gate to the pasture,singular,is,The gate to the pasture is falling down due to disrepair.
+24,b,The gate to the pastures,plural,is,The gate to the pastures is falling down due to disrepair.
+24,c,The gate to the pasture,singular,are,The gate to the pasture are falling down due to disrepair.
+24,d,The gate to the pastures,plural,are,The gate to the pastures are falling down due to disrepair.

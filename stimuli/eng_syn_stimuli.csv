@@ -1,0 +1,129 @@
+Item,Condition,Stimulus,NP_Number,Auxiliary,Full_Sentence
+1,a,The cake at the senator’s celebration,singular,is,The cake at the senator’s celebration is delicious.
+1,b,The cake at the senator’s celebration,singular,are,The cake at the senator’s celebration are delicious.
+1,c,The cake at the senators’ celebration,plural,is,The cake at the senators’ celebration is delicious.
+1,d,The cake at the senators’ celebration,plural,are,The cake at the senators’ celebration are delicious.
+2,a,The call to the doctor’s secretary,singular,is,The call to the doctor’s secretary is urgent.
+2,b,The call to the doctor’s secretary,singular,are,The call to the doctor’s secretary are urgent.
+2,c,The call to the doctors’ secretary,plural,is,The call to the doctors’ secretary is urgent.
+2,d,The call to the doctors’ secretary,plural,are,The call to the doctors’ secretary are urgent.
+3,a,The computer for the laboratory’s experiment,singular,is,The computer for the laboratory’s experiment is modern.
+3,b,The computer for the laboratory’s experiment,singular,are,The computer for the laboratory’s experiment are modern.
+3,c,The computer for the laboratories’ experiment,plural,is,The computer for the laboratories’ experiment is modern.
+3,d,The computer for the laboratories’ experiment,plural,are,The computer for the laboratories’ experiment are modern.
+4,a,The encounter with the wolf's baby,singular,is,The encounter with the wolf's baby is frightening.
+4,b,The encounter with the wolf's baby,singular,are,The encounter with the wolf's baby are frightening.
+4,c,The encounter with the wolves' baby,plural,is,The encounter with the wolves' baby is frightening.
+4,d,The encounter with the wolves' baby,plural,are,The encounter with the wolves' baby are frightening.
+5,a,The plan for the school’s upgrade,singular,is,The plan for the school’s upgrade is unrealistic.
+5,b,The plan for the school’s upgrade,singular,are,The plan for the school’s upgrade are unrealistic.
+5,c,The plan for the schools’ upgrade,plural,is,The plan for the schools’ upgrade is unrealistic.
+5,d,The plan for the schools’ upgrade,plural,are,The plan for the schools’ upgrade are unrealistic.
+6,a,The problem with the family’s account,singular,is,The problem with the family’s account is discussed.
+6,b,The problem with the family’s account,singular,are,The problem with the family’s account are discussed.
+6,c,The problem with the families’ account,plural,is,The problem with the families’ account is discussed.
+6,d,The problem with the families’ account,plural,are,The problem with the families’ account are discussed.
+7,a,The report to the chairman's advisor,singular,is,The report to the chairman's advisor is shocking.
+7,b,The report to the chairman's advisor,singular,are,The report to the chairman's advisor are shocking.
+7,c,The report to the chairmans' advisor,plural,is,The report to the chairmen' advisor is shocking.
+7,d,The report to the chairmans' advisor,plural,are,The report to the chairmen' advisor are shocking.
+8,a,The telegram for the congressman's lobbyist,singular,is,The telegram for the congressman's lobbyist is never received.
+8,b,The telegram for the congressman's lobbyist,singular,are,The telegram for the congressman's lobbyist are never received.
+8,c,The telegram for the congressmans' lobbyist,plural,is,The telegram for the congressmans' lobbyist is never received.
+8,d,The telegram for the congressmans' lobbyist,plural,are,The telegram for the congressmans' lobbyist are never received.
+9,a,The announcement from the magazine’s spokeswoman,singular,is,The announcement from the magazine’s spokeswoman is astonishing.
+9,b,The announcement from the magazine’s spokeswoman,singular,are,The announcement from the magazine’s spokeswoman are astonishing.
+9,c,The announcement from the magazines’ spokeswoman,plural,is,The announcement from the magazines’ spokeswoman is astonishing.
+9,d,The announcement from the magazines’ spokeswoman,plural,are,The announcement from the magazines’ spokeswoman are astonishing.
+10,a,The large dog at the toddler’s party,singular,is,The large dog at the toddler’s party is adorable.
+10,b,The large dog at the toddler’s party,singular,are,The large dog at the toddler’s party are adorable.
+10,c,The large dog at the toddlers’ party,plural,is,The large dog at the toddlers’ party is adorable.
+10,d,The large dog at the toddlers’ party,plural,are,The large dog at the toddlers’ party are adorable.
+11,a,The letter to the housewife’s representative,singular,is,The letter to the housewife’s representative is hostile.
+11,b,The letter to the housewife’s representative,singular,are,The letter to the housewife’s representative are hostile.
+11,c,The letter to the housewives’ representative,plural,is,The letter to the housewives’ representative is hostile.
+11,d,The letter to the housewives’ representative,plural,are,The letter to the housewives’ representative are hostile.
+12,a,The message for the wizard’s apprentice,singular,is,The message for the wizard’s apprentice is puzzling.
+12,b,The message for the wizard’s apprentice,singular,are,The message for the wizard’s apprentice are puzzling.
+12,c,The message for the wizards’ apprentice,plural,is,The message for the wizards’ apprentice is puzzling.
+12,d,The message for the wizards’ apprentice,plural,are,The message for the wizards’ apprentice are puzzling.
+13,a,The outfit for the saleslady’s display,singular,is,The outfit for the saleslady’s display is attractive.
+13,b,The outfit for the saleslady’s display,singular,are,The outfit for the saleslady’s display are attractive.
+13,c,The outfit for the salesladies’ display,plural,is,The outfit for the salesladies’ display is attractive.
+13,d,The outfit for the salesladies’ display,plural,are,The outfit for the salesladies’ display are attractive.
+14,a,The position in the woman's newsletter,singular,is,The position in the woman's newsletter is unpopular.
+14,b,The position in the woman's newsletter,singular,are,The position in the woman's newsletter are unpopular.
+14,c,The position in the women's newsletter,plural,is,The position in the women's newsletter is unpopular.
+14,d,The position in the women's newsletter,plural,are,The position in the women's newsletter are unpopular.
+15,a,The promise from the company’s salesman,singular,is,The promise from the company’s salesman is broken.
+15,b,The promise from the company’s salesman,singular,are,The promise from the company’s salesman are broken.
+15,c,The promise from the companies’ salesman,plural,is,The promise from the companies’ salesman is broken.
+15,d,The promise from the companies’ salesman,plural,are,The promise from the companies’ salesman are broken.
+16,a,The speech about the councilman's proposal,singular,is,The speech about the councilman's proposal is convincing.
+16,b,The speech about the councilman's proposal,singular,are,The speech about the councilman's proposal are convincing.
+16,c,The speech about the councilmans' proposal,plural,is,The speech about the councilmans' proposal is convincing.
+16,d,The speech about the councilmans' proposal,plural,are,The speech about the councilmans' proposal are convincing.
+17,a,The confession of the thief's accomplice,singular,is,The confession of the thief's accomplice is tape recorded.
+17,b,The confession of the thief's accomplice,singular,are,The confession of the thief's accomplice are tape recorded.
+17,c,The confession of the thieves' accomplice,plural,is,The confession of the thieves' accomplice is tape recorded.
+17,d,The confession of the thieves' accomplice,plural,are,The confession of the thieves' accomplice are tape recorded.
+18,a,The disagreement about the corporation's lawsuit,singular,is,The disagreement about the corporation's lawsuit is petty.
+18,b,The disagreement about the corporation's lawsuit,singular,are,The disagreement about the corporation's lawsuit are petty.
+18,c,The disagreement about the corporations' lawsuit,plural,is,The disagreement about the corporations' lawsuit is petty.
+18,d,The disagreement about the corporations' lawsuit,plural,are,The disagreement about the corporations' lawsuit are petty.
+19,a,The dress at the designer's showcase,singular,is,The dress at the designer's showcase is expensive.
+19,b,The dress at the designer's showcase,singular,are,The dress at the designer's showcase are expensive.
+19,c,The dress at the designers' showcase,plural,is,The dress at the designers' showcase is expensive.
+19,d,The dress at the designers' showcase,plural,are,The dress at the designers' showcase are expensive.
+20,a,The hex from the fairy's spellbook,singular,is,The hex from the fairy's spellbook is ineffective.
+20,b,The hex from the fairy's spellbook,singular,are,The hex from the fairy's spellbook are ineffective.
+20,c,The hex from the fairys' spellbook,plural,is,The hex from the fairys' spellbook is ineffective.
+20,d,The hex from the fairys' spellbook,plural,are,The hex from the fairys' spellbook are ineffective.
+21,a,The job for the cleaning lady's helper,singular,is,The job for the cleaning lady's helper is tiring.
+21,b,The job for the cleaning lady's helper,singular,are,The job for the cleaning lady's helper are tiring.
+21,c,The job for the cleaningladies' helper,plural,is,The job for the cleaningladies' helper is tiring.
+21,d,The job for the cleaningladies' helper,plural,are,The job for the cleaningladies' helper are tiring.
+22,a,The restaurant near the fisherman's dock,singular,is,The restaurant near the fisherman's dock is closed down.
+22,b,The restaurant near the fisherman's dock,singular,are,The restaurant near the fisherman's dock are closed down.
+22,c,The restaurant near the fishermans' dock,plural,is,The restaurant near the fishermans' dock is closed down.
+22,d,The restaurant near the fishermans' dock,plural,are,The restaurant near the fishermans' dock are closed down.
+23,a,The uniform containing the policeman's key,singular,is,The uniform containing the policeman's key is missing.
+23,b,The uniform containing the policeman's key,singular,are,The uniform containing the policeman's key are missing.
+23,c,The uniform containing the policemans' key,plural,is,The uniform containing the policemans' key is missing.
+23,d,The uniform containing the policemans' key,plural,are,The uniform containing the policemans' key are missing.
+24,a,The visit with the student's teacher,singular,is,The visit with the student's teacher is informative.
+24,b,The visit with the student's teacher,singular,are,The visit with the student's teacher are informative.
+24,c,The visit with the students' teacher,plural,is,The visit with the students' teacher is informative.
+24,d,The visit with the students' teacher,plural,are,The visit with the students' teacher are informative.
+25,a,The antique trunk for the child's toy,singular,is,The antique trunk for the child's toy is large.
+25,b,The antique trunk for the child's toy,singular,are,The antique trunk for the child's toy are large.
+25,c,The antique trunk for the children's toy,plural,is,The antique trunk for the children's toy is large.
+25,d,The antique trunk for the children's toy,plural,are,The antique trunk for the children's toy are large.
+26,a,The car with the policeman's insignia,singular,is,The car with the policeman's insignia is new.
+26,b,The car with the policeman's insignia,singular,are,The car with the policeman's insignia are new.
+26,c,The car with the policemans' insignia,plural,is,The car with the policemans' insignia is new.
+26,d,The car with the policemans' insignia,plural,are,The car with the policemans' insignia are new.
+27,a,The invasion of the enemy's bunker,singular,is,The invasion of the enemy's bunker is merciless.
+27,b,The invasion of the enemy's bunker,singular,are,The invasion of the enemy's bunker are merciless.
+27,c,The invasion of the enemies' bunker,plural,is,The invasion of the enemies' bunker is merciless.
+27,d,The invasion of the enemies' bunker,plural,are,The invasion of the enemies' bunker are merciless.
+28,a,The memo from the supervisor's lawyer,singular,is,The memo from the supervisor's lawyer is harsh.
+28,b,The memo from the supervisor's lawyer,singular,are,The memo from the supervisor's lawyer are harsh.
+28,c,The memo from the supervisors' lawyer,plural,is,The memo from the supervisors' lawyer is harsh.
+28,d,The memo from the supervisors' lawyer,plural,are,The memo from the supervisors' lawyer are harsh.
+29,a,The picnic with the baby's caretaker,singular,is,The picnic with the baby's caretaker is enjoyable.
+29,b,The picnic with the baby's caretaker,singular,are,The picnic with the baby's caretaker are enjoyable.
+29,c,The picnic with the babies' caretaker,plural,is,The picnic with the babies' caretaker is enjoyable.
+29,d,The picnic with the babies' caretaker,plural,are,The picnic with the babies' caretaker are enjoyable.
+30,a,The tiny fountain in the elf's garden,singular,is,The tiny fountain in the elf's garden is amusing.
+30,b,The tiny fountain in the elf's garden,singular,are,The tiny fountain in the elf's garden are amusing.
+30,c,The tiny fountain in the elves' garden,plural,is,The tiny fountain in the elves' garden is amusing.
+30,d,The tiny fountain in the elves' garden,plural,are,The tiny fountain in the elves' garden are amusing.
+31,a,The truck with the fireman's hose,singular,is,The truck with the fireman's hose is leaving.
+31,b,The truck with the fireman's hose,singular,are,The truck with the fireman's hose are leaving.
+31,c,The truck with the firemans' hose,plural,is,The truck with the firemans' hose is leaving.
+31,d,The truck with the firemans' hose,plural,are,The truck with the firemans' hose are leaving.
+32,a,The response to the country's attack,singular,is,The response to the country's attack is immediate.
+32,b,The response to the country's attack,singular,are,The response to the country's attack are immediate.
+32,c,The response to the countries' attack,plural,is,The response to the countries' attack is immediate.
+32,d,The response to the countries' attack,plural,are,The response to the countries' attack are immediate.

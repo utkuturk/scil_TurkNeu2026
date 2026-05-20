@@ -1,0 +1,953 @@
+lg,item,syn,sentence,condition,headn,attn,verbn
+turkish,1,0,yöneticilerin aşçısı mutfakta sürekli zıpladılar,condition_a,sg,pl,pl
+turkish,1,0,yöneticilerin aşçısı mutfakta sürekli zıpladı,condition_b,sg,pl,sg
+turkish,1,0,yöneticinin aşçısı mutfakta sürekli zıpladılar,condition_c,sg,sg,pl
+turkish,1,0,yöneticinin aşçısı mutfakta sürekli zıpladı,condition_d,sg,sg,sg
+turkish,2,0,öğrencilerin ablası sınıfta birden bayıldılar,condition_a,sg,pl,pl
+turkish,2,0,öğrencilerin ablası sınıfta birden bayıldı,condition_b,sg,pl,sg
+turkish,2,0,öğrencinin ablası sınıfta birden bayıldılar,condition_c,sg,sg,pl
+turkish,2,0,öğrencinin ablası sınıfta birden bayıldı,condition_d,sg,sg,sg
+turkish,3,0,marangozların abisi atölyeden hızla uzaklaştılar,condition_a,sg,pl,pl
+turkish,3,0,marangozların abisi atölyeden hızla uzaklaştı,condition_b,sg,pl,sg
+turkish,3,0,marangozun abisi atölyeden hızla uzaklaştılar,condition_c,sg,sg,pl
+turkish,3,0,marangozun abisi atölyeden hızla uzaklaştı,condition_d,sg,sg,sg
+turkish,4,0,mahallelilerin emlakçısı aniden küstahça güldüler,condition_a,sg,pl,pl
+turkish,4,0,mahallelilerin emlakçısı aniden küstahça güldü,condition_b,sg,pl,sg
+turkish,4,0,mahallelinin emlakçısı aniden küstahça güldüler,condition_c,sg,sg,pl
+turkish,4,0,mahallelinin emlakçısı aniden küstahça güldü,condition_d,sg,sg,sg
+turkish,5,0,kızların halası sabaha kadar ağladılar,condition_a,sg,pl,pl
+turkish,5,0,kızların halası sabaha kadar ağladı,condition_b,sg,pl,sg
+turkish,5,0,kızın halası sabaha kadar ağladılar,condition_c,sg,sg,pl
+turkish,5,0,kızın halası sabaha kadar ağladı,condition_d,sg,sg,sg
+turkish,6,0,damatların dayısı arada sırada sıkıldılar,condition_a,sg,pl,pl
+turkish,6,0,damatların dayısı arada sırada sıkıldı,condition_b,sg,pl,sg
+turkish,6,0,damatın dayısı arada sırada sıkıldılar,condition_c,sg,sg,pl
+turkish,6,0,damatın dayısı arada sırada sıkıldı,condition_d,sg,sg,sg
+turkish,7,0,doktorların çiçekçisi günden güne zayıfladılar,condition_a,sg,pl,pl
+turkish,7,0,doktorların çiçekçisi günden güne zayıfladı,condition_b,sg,pl,sg
+turkish,7,0,doktorun çiçekçisi günden güne zayıfladılar,condition_c,sg,sg,pl
+turkish,7,0,doktorun çiçekçisi günden güne zayıfladı,condition_d,sg,sg,sg
+turkish,8,0,stajyerlerin eniştesi geceden önce uyudular,condition_a,sg,pl,pl
+turkish,8,0,stajyerlerin eniştesi geceden önce uyudu,condition_b,sg,pl,sg
+turkish,8,0,stajyerin eniştesi geceden önce uyudular,condition_c,sg,sg,pl
+turkish,8,0,stajyerin eniştesi geceden önce uyudu,condition_d,sg,sg,sg
+turkish,9,0,aristokratların hizmetçisi yorgun argın yattılar,condition_a,sg,pl,pl
+turkish,9,0,aristokratların hizmetçisi yorgun argın yattı,condition_b,sg,pl,sg
+turkish,9,0,aristokratın hizmetçisi yorgun argın yattılar,condition_c,sg,sg,pl
+turkish,9,0,aristokratın hizmetçisi yorgun argın yattı,condition_d,sg,sg,sg
+turkish,10,0,konuşmacıların sunucusu olağanüstü hızlı koştular,condition_a,sg,pl,pl
+turkish,10,0,konuşmacıların sunucusu olağanüstü hızlı koştu,condition_b,sg,pl,sg
+turkish,10,0,konuşmacının sunucusu olağanüstü hızlı koştular,condition_c,sg,sg,pl
+turkish,10,0,konuşmacının sunucusu olağanüstü hızlı koştu,condition_d,sg,sg,sg
+turkish,11,0,psikiyatristlerin eczacısı aç susuz dolaştılar,condition_a,sg,pl,pl
+turkish,11,0,psikiyatristlerin eczacısı aç susuz dolaştı,condition_b,sg,pl,sg
+turkish,11,0,psikiyatristin eczacısı aç susuz dolaştılar,condition_c,sg,sg,pl
+turkish,11,0,psikiyatristin eczacısı aç susuz dolaştı,condition_d,sg,sg,sg
+turkish,12,0,politikacıların hocası adliyeden çabucak çıktılar,condition_a,sg,pl,pl
+turkish,12,0,politikacıların hocası adliyeden çabucak çıktı,condition_b,sg,pl,sg
+turkish,12,0,politikacının hocası adliyeden çabucak çıktılar,condition_c,sg,sg,pl
+turkish,12,0,politikacının hocası adliyeden çabucak çıktı,condition_d,sg,sg,sg
+turkish,13,0,hakimlerin çaycısı nedensiz yere kızdılar,condition_a,sg,pl,pl
+turkish,13,0,hakimlerin çaycısı nedensiz yere kızdı,condition_b,sg,pl,sg
+turkish,13,0,hakimin çaycısı nedensiz yere kızdılar,condition_c,sg,sg,pl
+turkish,13,0,hakimin çaycısı nedensiz yere kızdı,condition_d,sg,sg,sg
+turkish,14,0,oyuncuların hemşiresi etrafta amaçsızca gezdiler,condition_a,sg,pl,pl
+turkish,14,0,oyuncuların hemşiresi etrafta amaçsızca gezdi,condition_b,sg,pl,sg
+turkish,14,0,oyuncunun hemşiresi etrafta amaçsızca gezdiler,condition_c,sg,sg,pl
+turkish,14,0,oyuncunun hemşiresi etrafta amaçsızca gezdi,condition_d,sg,sg,sg
+turkish,15,0,öğretmenlerin müdiresi biraz önce aradılar,condition_a,sg,pl,pl
+turkish,15,0,öğretmenlerin müdiresi biraz önce aradı,condition_b,sg,pl,sg
+turkish,15,0,öğretmenin müdiresi biraz önce aradılar,condition_c,sg,sg,pl
+turkish,15,0,öğretmenin müdiresi biraz önce aradı,condition_d,sg,sg,sg
+turkish,16,0,milyonerlerin terzisi tamamen gereksizce bağırdılar,condition_a,sg,pl,pl
+turkish,16,0,milyonerlerin terzisi tamamen gereksizce bağırdı,condition_b,sg,pl,sg
+turkish,16,0,milyonerin terzisi tamamen gereksizce bağırdılar,condition_c,sg,sg,pl
+turkish,16,0,milyonerin terzisi tamamen gereksizce bağırdı,condition_d,sg,sg,sg
+turkish,17,0,bebeklerin bakıcısı çok kibar davrandılar,condition_a,sg,pl,pl
+turkish,17,0,bebeklerin bakıcısı çok kibar davrandı,condition_b,sg,pl,sg
+turkish,17,0,bebeğin bakıcısı çok kibar davrandılar,condition_c,sg,sg,pl
+turkish,17,0,bebeğin bakıcısı çok kibar davrandı,condition_d,sg,sg,sg
+turkish,18,0,çocukların dadısı yüksek sesle konuştular,condition_a,sg,pl,pl
+turkish,18,0,çocukların dadısı yüksek sesle konuştu,condition_b,sg,pl,sg
+turkish,18,0,çocuğun dadısı yüksek sesle konuştular,condition_c,sg,sg,pl
+turkish,18,0,çocuğun dadısı yüksek sesle konuştu,condition_d,sg,sg,sg
+turkish,19,0,futbolcuların sürücüsü çok yavaş çalıştılar,condition_a,sg,pl,pl
+turkish,19,0,futbolcuların sürücüsü çok yavaş çalıştı,condition_b,sg,pl,sg
+turkish,19,0,futbolcunun sürücüsü çok yavaş çalıştılar,condition_c,sg,sg,pl
+turkish,19,0,futbolcunun sürücüsü çok yavaş çalıştı,condition_d,sg,sg,sg
+turkish,20,0,modacıların taksicisi saatlerce durmaksızın içtiler,condition_a,sg,pl,pl
+turkish,20,0,modacıların taksicisi saatlerce durmaksızın içti,condition_b,sg,pl,sg
+turkish,20,0,modacının taksicisi saatlerce durmaksızın içtiler,condition_c,sg,sg,pl
+turkish,20,0,modacının taksicisi saatlerce durmaksızın içti,condition_d,sg,sg,sg
+turkish,21,0,sanatçıların çalgıcısı feci bir şekilde öldüler,condition_a,sg,pl,pl
+turkish,21,0,sanatçıların çalgıcısı feci bir şekilde öldü,condition_b,sg,pl,sg
+turkish,21,0,sanatçının çalgıcısı feci bir şekilde öldüler,condition_c,sg,sg,pl
+turkish,21,0,sanatçının çalgıcısı feci bir şekilde öldü,condition_d,sg,sg,sg
+turkish,22,0,dedektiflerin dişçisi ilk kez çılgınca eğlendiler,condition_a,sg,pl,pl
+turkish,22,0,dedektiflerin dişçisi ilk kez çılgınca eğlendi,condition_b,sg,pl,sg
+turkish,22,0,dedektifin dişçisi ilk kez çılgınca eğlendiler,condition_c,sg,sg,pl
+turkish,22,0,dedektifin dişçisi ilk kez çılgınca eğlendi,condition_d,sg,sg,sg
+turkish,23,0,esnafların müşterisi şikayettten hemen sonra sustular,condition_a,sg,pl,pl
+turkish,23,0,esnafların müşterisi şikayettten hemen sonra sustu,condition_b,sg,pl,sg
+turkish,23,0,esnafın müşterisi şikayettten hemen sonra sustular,condition_c,sg,sg,pl
+turkish,23,0,esnafın müşterisi şikayettten hemen sonra sustu,condition_d,sg,sg,sg
+turkish,24,0,şarkıcıların koruması her zamanki gibi geciktiler,condition_a,sg,pl,pl
+turkish,24,0,şarkıcıların koruması her zamanki gibi gecikti,condition_b,sg,pl,sg
+turkish,24,0,şarkıcının koruması her zamanki gibi geciktiler,condition_c,sg,sg,pl
+turkish,24,0,şarkıcının koruması her zamanki gibi gecikti,condition_d,sg,sg,sg
+turkish,25,0,göstericilerin izleyicisi akşama kadar sessizce oturdular,condition_a,sg,pl,pl
+turkish,25,0,göstericilerin izleyicisi akşama kadar sessizce oturdu,condition_b,sg,pl,sg
+turkish,25,0,göstericinin izleyicisi akşama kadar sessizce oturdular,condition_c,sg,sg,pl
+turkish,25,0,göstericinin izleyicisi akşama kadar sessizce oturdu,condition_d,sg,sg,sg
+turkish,26,0,cerrahların hastası akşamki gösteriden önce kaçtılar,condition_a,sg,pl,pl
+turkish,26,0,cerrahların hastası akşamki gösteriden önce kaçtı,condition_b,sg,pl,sg
+turkish,26,0,cerrahın hastası akşamki gösteriden önce kaçtılar,condition_c,sg,sg,pl
+turkish,26,0,cerrahın hastası akşamki gösteriden önce kaçtı,condition_d,sg,sg,sg
+turkish,27,0,dalgıçların annesi bile bile geç kaldılar,condition_a,sg,pl,pl
+turkish,27,0,dalgıçların annesi bile bile geç kaldı,condition_b,sg,pl,sg
+turkish,27,0,dalgıcın annesi bile bile geç kaldılar,condition_c,sg,sg,pl
+turkish,27,0,dalgıcın annesi bile bile geç kaldı,condition_d,sg,sg,sg
+turkish,28,0,fabrikatörlerin işçisi beklenmedik bir anda hastalandılar,condition_a,sg,pl,pl
+turkish,28,0,fabrikatörlerin işçisi beklenmedik bir anda hastalandı,condition_b,sg,pl,sg
+turkish,28,0,fabrikatörün işçisi beklenmedik bir anda hastalandılar,condition_c,sg,sg,pl
+turkish,28,0,fabrikatörün işçisi beklenmedik bir anda hastalandı,condition_d,sg,sg,sg
+turkish,29,0,komedyenlerin yardımcısı poyrazdan dolayı üşüdüler,condition_a,sg,pl,pl
+turkish,29,0,komedyenlerin yardımcısı poyrazdan dolayı üşüdü,condition_b,sg,pl,sg
+turkish,29,0,komedyenin yardımcısı poyrazdan dolayı üşüdüler,condition_c,sg,sg,pl
+turkish,29,0,komedyenin yardımcısı poyrazdan dolayı üşüdü,condition_d,sg,sg,sg
+turkish,30,0,şoförlerin yolcusu yemekten sonra yine acıktılar,condition_a,sg,pl,pl
+turkish,30,0,şoförlerin yolcusu yemekten sonra yine acıktı,condition_b,sg,pl,sg
+turkish,30,0,şoförün yolcusu yemekten sonra yine acıktılar,condition_c,sg,sg,pl
+turkish,30,0,şoförün yolcusu yemekten sonra yine acıktı,condition_d,sg,sg,sg
+turkish,31,0,mühendislerin kapıcısı erken ödemeden dolayı sevindiler,condition_a,sg,pl,pl
+turkish,31,0,mühendislerin kapıcısı erken ödemeden dolayı sevindi,condition_b,sg,pl,sg
+turkish,31,0,mühendisin kapıcısı erken ödemeden dolayı sevindiler,condition_c,sg,sg,pl
+turkish,31,0,mühendisin kapıcısı erken ödemeden dolayı sevindi,condition_d,sg,sg,sg
+turkish,32,0,pazarcıların nakliyecisi mesaiden hemen sonra uzandılar,condition_a,sg,pl,pl
+turkish,32,0,pazarcıların nakliyecisi mesaiden hemen sonra uzandı,condition_b,sg,pl,sg
+turkish,32,0,pazarcının nakliyecisi mesaiden hemen sonra uzandılar,condition_c,sg,sg,pl
+turkish,32,0,pazarcının nakliyecisi mesaiden hemen sonra uzandı,condition_d,sg,sg,sg
+turkish,33,0,oyuncuların eğitimcisi ilk denemede epey zorlandılar,condition_a,sg,pl,pl
+turkish,33,0,oyuncuların eğitimcisi ilk denemede epey zorlandı,condition_b,sg,pl,sg
+turkish,33,0,oyuncunun eğitimcisi ilk denemede epey zorlandılar,condition_c,sg,sg,pl
+turkish,33,0,oyuncunun eğitimcisi ilk denemede epey zorlandı,condition_d,sg,sg,sg
+turkish,34,0,mankenlerin modacısı geç bir vakitte kalktılar,condition_a,sg,pl,pl
+turkish,34,0,mankenlerin modacısı geç bir vakitte kalktı,condition_b,sg,pl,sg
+turkish,34,0,mankenin modacısı geç bir vakitte kalktılar,condition_c,sg,sg,pl
+turkish,34,0,mankenin modacısı geç bir vakitte kalktı,condition_d,sg,sg,sg
+turkish,35,0,konukların teyzesi müthiş bir ağrıyla uyandılar,condition_a,sg,pl,pl
+turkish,35,0,konukların teyzesi müthiş bir ağrıyla uyandı,condition_b,sg,pl,sg
+turkish,35,0,konuğun teyzesi müthiş bir ağrıyla uyandılar,condition_c,sg,sg,pl
+turkish,35,0,konuğun teyzesi müthiş bir ağrıyla uyandı,condition_d,sg,sg,sg
+turkish,36,0,oğlanların amcası boş bir caddede yürüdüler,condition_a,sg,pl,pl
+turkish,36,0,oğlanların amcası boş bir caddede yürüdü,condition_b,sg,pl,sg
+turkish,36,0,oğlanın amcası boş bir caddede yürüdüler,condition_c,sg,sg,pl
+turkish,36,0,oğlanın amcası boş bir caddede yürüdü,condition_d,sg,sg,sg
+turkish,37,0,avukatların komşusu toplantıdan sonra birden sarardılar,condition_a,sg,pl,pl
+turkish,37,0,avukatların komşusu toplantıdan sonra birden sarardı,condition_b,sg,pl,sg
+turkish,37,0,avukatın komşusu toplantıdan sonra birden sarardılar,condition_c,sg,sg,pl
+turkish,37,0,avukatın komşusu toplantıdan sonra birden sarardı,condition_d,sg,sg,sg
+turkish,38,0,ünlülerin falcısı yabancı bir ülkede kayboldular,condition_a,sg,pl,pl
+turkish,38,0,ünlülerin falcısı yabancı bir ülkede kayboldu,condition_b,sg,pl,sg
+turkish,38,0,ünlünün falcısı yabancı bir ülkede kayboldular,condition_c,sg,sg,pl
+turkish,38,0,ünlünün falcısı yabancı bir ülkede kayboldu,condition_d,sg,sg,sg
+turkish,39,0,çiftçilerin bekçisi normalden çok yavaş gezindiler,condition_a,sg,pl,pl
+turkish,39,0,çiftçilerin bekçisi normalden çok yavaş gezindi,condition_b,sg,pl,sg
+turkish,39,0,çiftçinin bekçisi normalden çok yavaş gezindiler,condition_c,sg,sg,pl
+turkish,39,0,çiftçinin bekçisi normalden çok yavaş gezindi,condition_d,sg,sg,sg
+turkish,40,0,kadınların ninesi geçen seneye göre dinçleştiler,condition_a,sg,pl,pl
+turkish,40,0,kadınların ninesi geçen seneye göre dinçleşti,condition_b,sg,pl,sg
+turkish,40,0,kadının ninesi geçen seneye göre dinçleştiler,condition_c,sg,sg,pl
+turkish,40,0,kadının ninesi geçen seneye göre dinçleşti,condition_d,sg,sg,sg
+turkish,1,1,Şarkıcıların vokalisti sahnede sürekli zıpladılar,condition_a,sg,pl,pl
+turkish,1,1,Şarkıcıların vokalisti sahnede sürekli zıpladı,condition_b,sg,pl,sg
+turkish,1,1,Şarkıcının vokalisti sahnede sürekli zıpladılar,condition_c,sg,sg,pl
+turkish,1,1,Şarkıcının vokalisti sahnede sürekli zıpladı,condition_d,sg,sg,sg
+turkish,2,1,Öğrencilerin danışmanı sınıfta birden bayıldılar,condition_a,sg,pl,pl
+turkish,2,1,Öğrencilerin danışmanı sınıfta birden bayıldı,condition_b,sg,pl,sg
+turkish,2,1,Öğrencinin danışmanı sınıfta birden bayıldılar,condition_c,sg,sg,pl
+turkish,2,1,Öğrencinin danışmanı sınıfta birden bayıldı,condition_d,sg,sg,sg
+turkish,3,1,Ressamların rakibi atölyeden hızla uzaklaştılar,condition_a,sg,pl,pl
+turkish,3,1,Ressamların rakibi atölyeden hızla uzaklaştı,condition_b,sg,pl,sg
+turkish,3,1,Ressamın rakibi atölyeden hızla uzaklaştılar,condition_c,sg,sg,pl
+turkish,3,1,Ressamın rakibi atölyeden hızla uzaklaştı,condition_d,sg,sg,sg
+turkish,4,1,Subayların düşmanı aniden küstahça güldülar,condition_a,sg,pl,pl
+turkish,4,1,Subayların düşmanı aniden küstahça güldü,condition_b,sg,pl,sg
+turkish,4,1,Subayın düşmanı aniden küstahça güldülar,condition_c,sg,sg,pl
+turkish,4,1,Subayın düşmanı aniden küstahça güldü,condition_d,sg,sg,sg
+turkish,5,1,Müzisyenlerin hayranı sabaha kadar ağladılar,condition_a,sg,pl,pl
+turkish,5,1,Müzisyenlerin hayranı sabaha kadar ağladı,condition_b,sg,pl,sg
+turkish,5,1,Müzisyenin hayranı sabaha kadar ağladılar,condition_c,sg,sg,pl
+turkish,5,1,Müzisyenin hayranı sabaha kadar ağladı,condition_d,sg,sg,sg
+turkish,6,1,Borsacıların çalışanı arada sırada sıkıldılar,condition_a,sg,pl,pl
+turkish,6,1,Borsacıların çalışanı arada sırada sıkıldı,condition_b,sg,pl,sg
+turkish,6,1,Borsacının çalışanı arada sırada sıkıldılar,condition_c,sg,sg,pl
+turkish,6,1,Borsacının çalışanı arada sırada sıkıldı,condition_d,sg,sg,sg
+turkish,7,1,Profesörlerin sekreteri günden güne zayıfladılar,condition_a,sg,pl,pl
+turkish,7,1,Profesörlerin sekreteri günden güne zayıfladı,condition_b,sg,pl,sg
+turkish,7,1,Profesörün sekreteri günden güne zayıfladılar,condition_c,sg,sg,pl
+turkish,7,1,Profesörün sekreteri günden güne zayıfladı,condition_d,sg,sg,sg
+turkish,8,1,Veterinerlerin asistanı geceden önce uyudular,condition_a,sg,pl,pl
+turkish,8,1,Veterinerlerin asistanı geceden önce uyudu,condition_b,sg,pl,sg
+turkish,8,1,Veterinerin asistanı geceden önce uyudular,condition_c,sg,sg,pl
+turkish,8,1,Veterinerin asistanı geceden önce uyudu,condition_d,sg,sg,sg
+turkish,9,1,Yönetmenlerin masörü yorgun argın yattılar,condition_a,sg,pl,pl
+turkish,9,1,Yönetmenlerin masörü yorgun argın yattı,condition_b,sg,pl,sg
+turkish,9,1,Yönetmenin masörü yorgun argın yattılar,condition_c,sg,sg,pl
+turkish,9,1,Yönetmenin masörü yorgun argın yattı,condition_d,sg,sg,sg
+turkish,10,1,Teknisyenlerin eğitmeni olağanüstü hızlı koştular,condition_a,sg,pl,pl
+turkish,10,1,Teknisyenlerin eğitmeni olağanüstü hızlı koştu,condition_b,sg,pl,sg
+turkish,10,1,Teknisyenin eğitmeni olağanüstü hızlı koştular,condition_c,sg,sg,pl
+turkish,10,1,Teknisyenin eğitmeni olağanüstü hızlı koştu,condition_d,sg,sg,sg
+turkish,11,1,Turistlerin rehberi aç susuz dolaştılar,condition_a,sg,pl,pl
+turkish,11,1,Turistlerin rehberi aç susuz dolaştı,condition_b,sg,pl,sg
+turkish,11,1,Turistin rehberi aç susuz dolaştılar,condition_c,sg,sg,pl
+turkish,11,1,Turistin rehberi aç susuz dolaştı,condition_d,sg,sg,sg
+turkish,12,1,Zanlıların şahidi adliyeden çabucak çıktılar,condition_a,sg,pl,pl
+turkish,12,1,Zanlıların şahidi adliyeden çabucak çıktı,condition_b,sg,pl,sg
+turkish,12,1,Zanlının şahidi adliyeden çabucak çıktılar,condition_c,sg,sg,pl
+turkish,12,1,Zanlının şahidi adliyeden çabucak çıktı,condition_d,sg,sg,sg
+turkish,13,1,Bursiyerlerin kefili nedensiz yere kızdılar,condition_a,sg,pl,pl
+turkish,13,1,Bursiyerlerin kefili nedensiz yere kızdı,condition_b,sg,pl,sg
+turkish,13,1,Bursiyerin kefili nedensiz yere kızdılar,condition_c,sg,sg,pl
+turkish,13,1,Bursiyerin kefili nedensiz yere kızdı,condition_d,sg,sg,sg
+turkish,14,1,Futbolcuların kaptanı etrafta amaçsızca gezdilar,condition_a,sg,pl,pl
+turkish,14,1,Futbolcuların kaptanı etrafta amaçsızca gezdi,condition_b,sg,pl,sg
+turkish,14,1,Futbolcunun kaptanı etrafta amaçsızca gezdilar,condition_c,sg,sg,pl
+turkish,14,1,Futbolcunun kaptanı etrafta amaçsızca gezdi,condition_d,sg,sg,sg
+turkish,15,1,Yazarların editörü biraz önce aradılar,condition_a,sg,pl,pl
+turkish,15,1,Yazarların editörü biraz önce aradı,condition_b,sg,pl,sg
+turkish,15,1,Yazarın editörü biraz önce aradılar,condition_c,sg,sg,pl
+turkish,15,1,Yazarın editörü biraz önce aradı,condition_d,sg,sg,sg
+turkish,16,1,Askerlerin berberi tamamen gereksizce bağırdılar,condition_a,sg,pl,pl
+turkish,16,1,Askerlerin berberi tamamen gereksizce bağırdı,condition_b,sg,pl,sg
+turkish,16,1,Askerin berberi tamamen gereksizce bağırdılar,condition_c,sg,sg,pl
+turkish,16,1,Askerin berberi tamamen gereksizce bağırdı,condition_d,sg,sg,sg
+turkish,17,1,Yarışmacıların koçu çok kibar davrandılar,condition_a,sg,pl,pl
+turkish,17,1,Yarışmacıların koçu çok kibar davrandı,condition_b,sg,pl,sg
+turkish,17,1,Yarışmacının koçu çok kibar davrandılar,condition_c,sg,sg,pl
+turkish,17,1,Yarışmacının koçu çok kibar davrandı,condition_d,sg,sg,sg
+turkish,18,1,Sporcuların antrenörü yüksek sesle konuştular,condition_a,sg,pl,pl
+turkish,18,1,Sporcuların antrenörü yüksek sesle konuştu,condition_b,sg,pl,sg
+turkish,18,1,Sporcunun antrenörü yüksek sesle konuştular,condition_c,sg,sg,pl
+turkish,18,1,Sporcunun antrenörü yüksek sesle konuştu,condition_d,sg,sg,sg
+turkish,19,1,Berberlerin çırağı çok yavaş çalıştılar,condition_a,sg,pl,pl
+turkish,19,1,Berberlerin çırağı çok yavaş çalıştı,condition_b,sg,pl,sg
+turkish,19,1,Berberin çırağı çok yavaş çalıştılar,condition_c,sg,sg,pl
+turkish,19,1,Berberin çırağı çok yavaş çalıştı,condition_d,sg,sg,sg
+turkish,20,1,Muhabirlerin patronu saatlerce durmaksızın içtilar,condition_a,sg,pl,pl
+turkish,20,1,Muhabirlerin patronu saatlerce durmaksızın içti,condition_b,sg,pl,sg
+turkish,20,1,Muhabirin patronu saatlerce durmaksızın içtilar,condition_c,sg,sg,pl
+turkish,20,1,Muhabirin patronu saatlerce durmaksızın içti,condition_d,sg,sg,sg
+turkish,21,1,Oyuncuların dublörü feci bir şekilde öldülar,condition_a,sg,pl,pl
+turkish,21,1,Oyuncuların dublörü feci bir şekilde öldü,condition_b,sg,pl,sg
+turkish,21,1,Oyuncunun dublörü feci bir şekilde öldülar,condition_c,sg,sg,pl
+turkish,21,1,Oyuncunun dublörü feci bir şekilde öldü,condition_d,sg,sg,sg
+turkish,22,1,Sunucuların kuaförü ilk kez çılgınca eğlendilar,condition_a,sg,pl,pl
+turkish,22,1,Sunucuların kuaförü ilk kez çılgınca eğlendi,condition_b,sg,pl,sg
+turkish,22,1,Sunucunun kuaförü ilk kez çılgınca eğlendilar,condition_c,sg,sg,pl
+turkish,22,1,Sunucunun kuaförü ilk kez çılgınca eğlendi,condition_d,sg,sg,sg
+turkish,23,1,Garsonların şefi şikayetten hemen sonra sustular,condition_a,sg,pl,pl
+turkish,23,1,Garsonların şefi şikayetten hemen sonra sustu,condition_b,sg,pl,sg
+turkish,23,1,Garsonun şefi şikayetten hemen sonra sustular,condition_c,sg,sg,pl
+turkish,23,1,Garsonun şefi şikayetten hemen sonra sustu,condition_d,sg,sg,sg
+turkish,24,1,Noterlerin şoförü her zamanki gibi geciktilar,condition_a,sg,pl,pl
+turkish,24,1,Noterlerin şoförü her zamanki gibi gecikti,condition_b,sg,pl,sg
+turkish,24,1,Noterin şoförü her zamanki gibi geciktilar,condition_c,sg,sg,pl
+turkish,24,1,Noterin şoförü her zamanki gibi gecikti,condition_d,sg,sg,sg
+turkish,25,1,Tenisçilerin terapisti akşama kadar sessizce oturdular,condition_a,sg,pl,pl
+turkish,25,1,Tenisçilerin terapisti akşama kadar sessizce oturdu,condition_b,sg,pl,sg
+turkish,25,1,Tenisçinin terapisti akşama kadar sessizce oturdular,condition_c,sg,sg,pl
+turkish,25,1,Tenisçinin terapisti akşama kadar sessizce oturdu,condition_d,sg,sg,sg
+turkish,26,1,Mankenlerin menajeri akşamki gösteriden önce kaçtılar,condition_a,sg,pl,pl
+turkish,26,1,Mankenlerin menajeri akşamki gösteriden önce kaçtı,condition_b,sg,pl,sg
+turkish,26,1,Mankenin menajeri akşamki gösteriden önce kaçtılar,condition_c,sg,sg,pl
+turkish,26,1,Mankenin menajeri akşamki gösteriden önce kaçtı,condition_d,sg,sg,sg
+turkish,27,1,Hastaların cerrahı bile bile geç kaldılar,condition_a,sg,pl,pl
+turkish,27,1,Hastaların cerrahı bile bile geç kaldı,condition_b,sg,pl,sg
+turkish,27,1,Hastanın cerrahı bile bile geç kaldılar,condition_c,sg,sg,pl
+turkish,27,1,Hastanın cerrahı bile bile geç kaldı,condition_d,sg,sg,sg
+turkish,28,1,Mimarların elemanı beklenmedik bir anda hastalandılar,condition_a,sg,pl,pl
+turkish,28,1,Mimarların elemanı beklenmedik bir anda hastalandı,condition_b,sg,pl,sg
+turkish,28,1,Mimarın elemanı beklenmedik bir anda hastalandılar,condition_c,sg,sg,pl
+turkish,28,1,Mimarın elemanı beklenmedik bir anda hastalandı,condition_d,sg,sg,sg
+turkish,29,1,İzcilerin lideri sert rüzgardan dolayı üşüdülar,condition_a,sg,pl,pl
+turkish,29,1,İzcilerin lideri sert rüzgardan dolayı üşüdü,condition_b,sg,pl,sg
+turkish,29,1,İzcinin lideri sert rüzgardan dolayı üşüdülar,condition_c,sg,sg,pl
+turkish,29,1,İzcinin lideri sert rüzgardan dolayı üşüdü,condition_d,sg,sg,sg
+turkish,30,1,Diplomatların misafiri yemekten sonra yine acıktılar,condition_a,sg,pl,pl
+turkish,30,1,Diplomatların misafiri yemekten sonra yine acıktı,condition_b,sg,pl,sg
+turkish,30,1,Diplomatın misafiri yemekten sonra yine acıktılar,condition_c,sg,sg,pl
+turkish,30,1,Diplomatın misafiri yemekten sonra yine acıktı,condition_d,sg,sg,sg
+turkish,31,1,Spikerlerin makyözü erken ödemeden dolayı sevindilar,condition_a,sg,pl,pl
+turkish,31,1,Spikerlerin makyözü erken ödemeden dolayı sevindi,condition_b,sg,pl,sg
+turkish,31,1,Spikerin makyözü erken ödemeden dolayı sevindilar,condition_c,sg,sg,pl
+turkish,31,1,Spikerin makyözü erken ödemeden dolayı sevindi,condition_d,sg,sg,sg
+turkish,32,1,Aktörlerin psikoloğu mesaiden hemen sonra uzandılar,condition_a,sg,pl,pl
+turkish,32,1,Aktörlerin psikoloğu mesaiden hemen sonra uzandı,condition_b,sg,pl,sg
+turkish,32,1,Aktörün psikoloğu mesaiden hemen sonra uzandılar,condition_c,sg,sg,pl
+turkish,32,1,Aktörün psikoloğu mesaiden hemen sonra uzandı,condition_d,sg,sg,sg
+turkish,33,1,Gazetecilerin stajyeri ilk denemede epey zorlandılar,condition_a,sg,pl,pl
+turkish,33,1,Gazetecilerin stajyeri ilk denemede epey zorlandı,condition_b,sg,pl,sg
+turkish,33,1,Gazetecinin stajyeri ilk denemede epey zorlandılar,condition_c,sg,sg,pl
+turkish,33,1,Gazetecinin stajyeri ilk denemede epey zorlandı,condition_d,sg,sg,sg
+turkish,34,1,Polislerin amiri geç bir vakitte kalktılar,condition_a,sg,pl,pl
+turkish,34,1,Polislerin amiri geç bir vakitte kalktı,condition_b,sg,pl,sg
+turkish,34,1,Polisin amiri geç bir vakitte kalktılar,condition_c,sg,sg,pl
+turkish,34,1,Polisin amiri geç bir vakitte kalktı,condition_d,sg,sg,sg
+turkish,35,1,Milyonerlerin ortağı müthiş bir ağrıyla uyandılar,condition_a,sg,pl,pl
+turkish,35,1,Milyonerlerin ortağı müthiş bir ağrıyla uyandı,condition_b,sg,pl,sg
+turkish,35,1,Milyonerin ortağı müthiş bir ağrıyla uyandılar,condition_c,sg,sg,pl
+turkish,35,1,Milyonerin ortağı müthiş bir ağrıyla uyandı,condition_d,sg,sg,sg
+turkish,36,1,Kadınların jinekoloğu boş bir caddede yürüdülar,condition_a,sg,pl,pl
+turkish,36,1,Kadınların jinekoloğu boş bir caddede yürüdü,condition_b,sg,pl,sg
+turkish,36,1,Kadının jinekoloğu boş bir caddede yürüdülar,condition_c,sg,sg,pl
+turkish,36,1,Kadının jinekoloğu boş bir caddede yürüdü,condition_d,sg,sg,sg
+turkish,37,1,Politikacıların tercümanı toplantıdan sonra birden sarardılar,condition_a,sg,pl,pl
+turkish,37,1,Politikacıların tercümanı toplantıdan sonra birden sarardı,condition_b,sg,pl,sg
+turkish,37,1,Politikacının tercümanı toplantıdan sonra birden sarardılar,condition_c,sg,sg,pl
+turkish,37,1,Politikacının tercümanı toplantıdan sonra birden sarardı,condition_d,sg,sg,sg
+turkish,38,1,Mühendislerin işvereni yabancı bir ülkede kayboldular,condition_a,sg,pl,pl
+turkish,38,1,Mühendislerin işvereni yabancı bir ülkede kayboldu,condition_b,sg,pl,sg
+turkish,38,1,Mühendisin işvereni yabancı bir ülkede kayboldular,condition_c,sg,sg,pl
+turkish,38,1,Mühendisin işvereni yabancı bir ülkede kayboldu,condition_d,sg,sg,sg
+russian,1,0,Абонемент на концерт был дорогим из-за участия популярных артистов,SG-SG-SG,SG,SG,SG
+russian,1,0,Абонемент на концерт были дорогими из-за участия популярных артистов,SG-SG-PL,SG,SG,PL
+russian,1,0,Абонемент на концерты был дорогим из-за участия популярных артистов,SG-PL-SG,SG,PL,SG
+russian,1,0,Абонемент на концерты были дорогими из-за участия популярных артистов,SG-PL-PL,SG,PL,PL
+russian,1,0,Абонементы на концерт был дорогим из-за участия популярных артистов,PL-SG-SG,PL,SG,SG
+russian,1,0,Абонементы на концерт были дорогими из-за участия популярных артистов,PL-SG-PL,PL,SG,PL
+russian,1,0,Абонементы на концерты был дорогим из-за участия популярных артистов,PL-PL-SG,PL,PL,SG
+russian,1,0,Абонементы на концерты были дорогими из-за участия популярных артистов,PL-PL-PL,PL,PL,PL
+russian,2,0,Анекдот про экзамен для строгого пожилого учителя был обидным,SG-SG-SG,SG,SG,SG
+russian,2,0,Анекдот про экзамен для строгого пожилого учителя были обидными,SG-SG-PL,SG,SG,PL
+russian,2,0,Анекдот про экзамены для строгого пожилого учителя был обидным,SG-PL-SG,SG,PL,SG
+russian,2,0,Анекдот про экзамены для строгого пожилого учителя были обидными,SG-PL-PL,SG,PL,PL
+russian,2,0,Анекдоты про экзамен для строгого пожилого учителя был обидным,PL-SG-SG,PL,SG,SG
+russian,2,0,Анекдоты про экзамен для строгого пожилого учителя были обидными,PL-SG-PL,PL,SG,PL
+russian,2,0,Анекдоты про экзамены для строгого пожилого учителя был обидным,PL-PL-SG,PL,PL,SG
+russian,2,0,Анекдоты про экзамены для строгого пожилого учителя были обидными,PL-PL-PL,PL,PL,PL
+russian,3,0,Арка во двор в несущей конструкции здания была проделана,SG-SG-SG,SG,SG,SG
+russian,3,0,Арка во двор в несущей конструкции здания были проделаны,SG-SG-PL,SG,SG,PL
+russian,3,0,Арка во дворы в несущей конструкции здания была проделана,SG-PL-SG,SG,PL,SG
+russian,3,0,Арка во дворы в несущей конструкции здания были проделаны,SG-PL-PL,SG,PL,PL
+russian,3,0,Арки во двор в несущей конструкции здания была проделана,PL-SG-SG,PL,SG,SG
+russian,3,0,Арки во двор в несущей конструкции здания были проделаны,PL-SG-PL,PL,SG,PL
+russian,3,0,Арки во дворы в несущей конструкции здания была проделана,PL-PL-SG,PL,PL,SG
+russian,3,0,Арки во дворы в несущей конструкции здания были проделаны,PL-PL-PL,PL,PL,PL
+russian,4,0,Атака на крепость из-за стратегической ошибки полководца была безуспешной,SG-SG-SG,SG,SG,SG
+russian,4,0,Атака на крепость из-за стратегической ошибки полководца были безуспешными,SG-SG-PL,SG,SG,PL
+russian,4,0,Атака на крепости из-за стратегической ошибки полководца была безуспешной,SG-PL-SG,SG,PL,SG
+russian,4,0,Атака на крепости из-за стратегической ошибки полководца были безуспешными,SG-PL-PL,SG,PL,PL
+russian,4,0,Атаки на крепость из-за стратегической ошибки полководца была безуспешной,PL-SG-SG,PL,SG,SG
+russian,4,0,Атаки на крепость из-за стратегической ошибки полководца были безуспешными,PL-SG-PL,PL,SG,PL
+russian,4,0,Атаки на крепости из-за стратегической ошибки полководца была безуспешной,PL-PL-SG,PL,PL,SG
+russian,4,0,Атаки на крепости из-за стратегической ошибки полководца были безуспешными,PL-PL-PL,PL,PL,PL
+russian,5,0,Билет в музей во время уличной демонстрации был утерян,SG-SG-SG,SG,SG,SG
+russian,5,0,Билет в музей во время уличной демонстрации были утеряны,SG-SG-PL,SG,SG,PL
+russian,5,0,Билет в музеи во время уличной демонстрации был утерян,SG-PL-SG,SG,PL,SG
+russian,5,0,Билет в музеи во время уличной демонстрации были утеряны,SG-PL-PL,SG,PL,PL
+russian,5,0,Билеты в музей во время уличной демонстрации был утерян,PL-SG-SG,PL,SG,SG
+russian,5,0,Билеты в музей во время уличной демонстрации были утеряны,PL-SG-PL,PL,SG,PL
+russian,5,0,Билеты в музеи во время уличной демонстрации был утерян,PL-PL-SG,PL,PL,SG
+russian,5,0,Билеты в музеи во время уличной демонстрации были утеряны,PL-PL-PL,PL,PL,PL
+russian,6,0,Взгляд на снимок из-под длинных опущенных ресниц был брошен,SG-SG-SG,SG,SG,SG
+russian,6,0,Взгляд на снимок из-под длинных опущенных ресниц были брошены,SG-SG-PL,SG,SG,PL
+russian,6,0,Взгляд на снимки из-под длинных опущенных ресниц был брошен,SG-PL-SG,SG,PL,SG
+russian,6,0,Взгляд на снимки из-под длинных опущенных ресниц были брошены,SG-PL-PL,SG,PL,PL
+russian,6,0,Взгляды на снимок из-под длинных опущенных ресниц был брошен,PL-SG-SG,PL,SG,SG
+russian,6,0,Взгляды на снимок из-под длинных опущенных ресниц были брошены,PL-SG-PL,PL,SG,PL
+russian,6,0,Взгляды на снимки из-под длинных опущенных ресниц был брошен,PL-PL-SG,PL,PL,SG
+russian,6,0,Взгляды на снимки из-под длинных опущенных ресниц были брошены,PL-PL-PL,PL,PL,PL
+russian,7,0,Возражение на упрёк без излишне бурных эмоций было принято,SG-SG-SG,SG,SG,SG
+russian,7,0,Возражение на упрёк без излишне бурных эмоций были приняты,SG-SG-PL,SG,SG,PL
+russian,7,0,Возражение на упреки без излишне бурных эмоций было принято,SG-PL-SG,SG,PL,SG
+russian,7,0,Возражение на упреки без излишне бурных эмоций были приняты,SG-PL-PL,SG,PL,PL
+russian,7,0,Возражения на упрёк без излишне бурных эмоций было принято,PL-SG-SG,PL,SG,SG
+russian,7,0,Возражения на упрёк без излишне бурных эмоций были приняты,PL-SG-PL,PL,SG,PL
+russian,7,0,Возражения на упреки без излишне бурных эмоций было принято,PL-PL-SG,PL,PL,SG
+russian,7,0,Возражения на упреки без излишне бурных эмоций были приняты,PL-PL-PL,PL,PL,PL
+russian,8,0,Выстрел в цель из-за сбитого прицела ружья был неточным,SG-SG-SG,SG,SG,SG
+russian,8,0,Выстрел в цель из-за сбитого прицела ружья были неточными,SG-SG-PL,SG,SG,PL
+russian,8,0,Выстрел в цели из-за сбитого прицела ружья был неточным,SG-PL-SG,SG,PL,SG
+russian,8,0,Выстрел в цели из-за сбитого прицела ружья были неточными,SG-PL-PL,SG,PL,PL
+russian,8,0,Выстрелы в цель из-за сбитого прицела ружья был неточным,PL-SG-SG,PL,SG,SG
+russian,8,0,Выстрелы в цель из-за сбитого прицела ружья были неточными,PL-SG-PL,PL,SG,PL
+russian,8,0,Выстрелы в цели из-за сбитого прицела ружья был неточным,PL-PL-SG,PL,PL,SG
+russian,8,0,Выстрелы в цели из-за сбитого прицела ружья были неточными,PL-PL-PL,PL,PL,PL
+russian,9,0,Дорога через лес для снабжения людей провизией была проложена,SG-SG-SG,SG,SG,SG
+russian,9,0,Дорога через лес для снабжения людей провизией были проложены,SG-SG-PL,SG,SG,PL
+russian,9,0,Дорога через леса для снабжения людей провизией была проложена,SG-PL-SG,SG,PL,SG
+russian,9,0,Дорога через леса для снабжения людей провизией были проложены,SG-PL-PL,SG,PL,PL
+russian,9,0,Дороги через лес для снабжения людей провизией была проложена,PL-SG-SG,PL,SG,SG
+russian,9,0,Дороги через лес для снабжения людей провизией были проложены,PL-SG-PL,PL,SG,PL
+russian,9,0,Дороги через леса для снабжения людей провизией была проложена,PL-PL-SG,PL,PL,SG
+russian,9,0,Дороги через леса для снабжения людей провизией были проложены,PL-PL-PL,PL,PL,PL
+russian,10,0,Жалоба на боль из-за нарушения дыхания пациента была тихой,SG-SG-SG,SG,SG,SG
+russian,10,0,Жалоба на боль из-за нарушения дыхания пациента были тихими,SG-SG-PL,SG,SG,PL
+russian,10,0,Жалоба на боли из-за нарушения дыхания пациента была тихой,SG-PL-SG,SG,PL,SG
+russian,10,0,Жалоба на боли из-за нарушения дыхания пациента были тихими,SG-PL-PL,SG,PL,PL
+russian,10,0,Жалобы на боль из-за нарушения дыхания пациента была тихой,PL-SG-SG,PL,SG,SG
+russian,10,0,Жалобы на боль из-за нарушения дыхания пациента были тихими,PL-SG-PL,PL,SG,PL
+russian,10,0,Жалобы на боли из-за нарушения дыхания пациента была тихой,PL-PL-SG,PL,PL,SG
+russian,10,0,Жалобы на боли из-за нарушения дыхания пациента были тихими,PL-PL-PL,PL,PL,PL
+russian,11,0,История про убийство в присутствии маленьких детей была рассказана,SG-SG-SG,SG,SG,SG
+russian,11,0,История про убийство в присутствии маленьких детей были рассказаны,SG-SG-PL,SG,SG,PL
+russian,11,0,История про убийства в присутствии маленьких детей была рассказана,SG-PL-SG,SG,PL,SG
+russian,11,0,История про убийства в присутствии маленьких детей были рассказаны,SG-PL-PL,SG,PL,PL
+russian,11,0,Истории про убийство в присутствии маленьких детей была рассказана,PL-SG-SG,PL,SG,SG
+russian,11,0,Истории про убийство в присутствии маленьких детей были рассказаны,PL-SG-PL,PL,SG,PL
+russian,11,0,Истории про убийства в присутствии маленьких детей была рассказана,PL-PL-SG,PL,PL,SG
+russian,11,0,Истории про убийства в присутствии маленьких детей были рассказаны,PL-PL-PL,PL,PL,PL
+russian,12,0,Кредит на участок из-за высокой стоимости земли был долгосрочным,SG-SG-SG,SG,SG,SG
+russian,12,0,Кредит на участок из-за высокой стоимости земли были долгосрочными,SG-SG-PL,SG,SG,PL
+russian,12,0,Кредит на участки из-за высокой стоимости земли был долгосрочным,SG-PL-SG,SG,PL,SG
+russian,12,0,Кредит на участки из-за высокой стоимости земли были долгосрочными,SG-PL-PL,SG,PL,PL
+russian,12,0,Кредиты на участок из-за высокой стоимости земли был долгосрочным,PL-SG-SG,PL,SG,SG
+russian,12,0,Кредиты на участок из-за высокой стоимости земли были долгосрочными,PL-SG-PL,PL,SG,PL
+russian,12,0,Кредиты на участки из-за высокой стоимости земли был долгосрочным,PL-PL-SG,PL,PL,SG
+russian,12,0,Кредиты на участки из-за высокой стоимости земли были долгосрочными,PL-PL-PL,PL,PL,PL
+russian,13,0,Кружево на наряд в вышитый шелковый мешочек было упаковано,SG-SG-SG,SG,SG,SG
+russian,13,0,Кружево на наряд в вышитый шелковый мешочек были упакованы,SG-SG-PL,SG,SG,PL
+russian,13,0,Кружево на наряды в вышитый шелковый мешочек было упаковано,SG-PL-SG,SG,PL,SG
+russian,13,0,Кружево на наряды в вышитый шелковый мешочек были упакованы,SG-PL-PL,SG,PL,PL
+russian,13,0,Кружева на наряд в вышитый шелковый мешочек было упаковано,PL-SG-SG,PL,SG,SG
+russian,13,0,Кружева на наряд в вышитый шелковый мешочек были упакованы,PL-SG-PL,PL,SG,PL
+russian,13,0,Кружева на наряды в вышитый шелковый мешочек было упаковано,PL-PL-SG,PL,PL,SG
+russian,13,0,Кружева на наряды в вышитый шелковый мешочек были упакованы,PL-PL-PL,PL,PL,PL
+russian,14,0,Легенда про замок в старинной летописи графства была записана,SG-SG-SG,SG,SG,SG
+russian,14,0,Легенда про замок в старинной летописи графства были записаны,SG-SG-PL,SG,SG,PL
+russian,14,0,Легенда про замки в старинной летописи графства была записана,SG-PL-SG,SG,PL,SG
+russian,14,0,Легенда про замки в старинной летописи графства были записаны,SG-PL-PL,SG,PL,PL
+russian,14,0,Легенды про замок в старинной летописи графства была записана,PL-SG-SG,PL,SG,SG
+russian,14,0,Легенды про замок в старинной летописи графства были записаны,PL-SG-PL,PL,SG,PL
+russian,14,0,Легенды про замки в старинной летописи графства была записана,PL-PL-SG,PL,PL,SG
+russian,14,0,Легенды про замки в старинной летописи графства были записаны,PL-PL-PL,PL,PL,PL
+russian,15,0,Лестница в подвал из-за отсутствия свободного места была крутой,SG-SG-SG,SG,SG,SG
+russian,15,0,Лестница в подвал из-за отсутствия свободного места были крутыми,SG-SG-PL,SG,SG,PL
+russian,15,0,Лестница в подвалы из-за отсутствия свободного места была крутой,SG-PL-SG,SG,PL,SG
+russian,15,0,Лестница в подвалы из-за отсутствия свободного места были крутыми,SG-PL-PL,SG,PL,PL
+russian,15,0,Лестницы в подвал из-за отсутствия свободного места была крутой,PL-SG-SG,PL,SG,SG
+russian,15,0,Лестницы в подвал из-за отсутствия свободного места были крутыми,PL-SG-PL,PL,SG,PL
+russian,15,0,Лестницы в подвалы из-за отсутствия свободного места была крутой,PL-PL-SG,PL,PL,SG
+russian,15,0,Лестницы в подвалы из-за отсутствия свободного места были крутыми,PL-PL-PL,PL,PL,PL
+russian,16,0,Мост через овраг после окончания военных действий был возведен,SG-SG-SG,SG,SG,SG
+russian,16,0,Мост через овраг после окончания военных действий были возведены,SG-SG-PL,SG,SG,PL
+russian,16,0,Мост через овраги после окончания военных действий был возведен,SG-PL-SG,SG,PL,SG
+russian,16,0,Мост через овраги после окончания военных действий были возведены,SG-PL-PL,SG,PL,PL
+russian,16,0,Мосты через овраг после окончания военных действий был возведен,PL-SG-SG,PL,SG,SG
+russian,16,0,Мосты через овраг после окончания военных действий были возведены,PL-SG-PL,PL,SG,PL
+russian,16,0,Мосты через овраги после окончания военных действий был возведен,PL-PL-SG,PL,PL,SG
+russian,16,0,Мосты через овраги после окончания военных действий были возведены,PL-PL-PL,PL,PL,PL
+russian,17,0,Налог на доход из-за смены политического курса был повышен,SG-SG-SG,SG,SG,SG
+russian,17,0,Налог на доход из-за смены политического курса были повышены,SG-SG-PL,SG,SG,PL
+russian,17,0,Налог на доходы из-за смены политического курса был повышен,SG-PL-SG,SG,PL,SG
+russian,17,0,Налог на доходы из-за смены политического курса были повышены,SG-PL-PL,SG,PL,PL
+russian,17,0,Налоги на доход из-за смены политического курса был повышен,PL-SG-SG,PL,SG,SG
+russian,17,0,Налоги на доход из-за смены политического курса были повышены,PL-SG-PL,PL,SG,PL
+russian,17,0,Налоги на доходы из-за смены политического курса был повышен,PL-PL-SG,PL,PL,SG
+russian,17,0,Налоги на доходы из-за смены политического курса были повышены,PL-PL-PL,PL,PL,PL
+russian,18,0,Нападение на банк с применением холодного оружия было совершено,SG-SG-SG,SG,SG,SG
+russian,18,0,Нападение на банк с применением холодного оружия были совершены,SG-SG-PL,SG,SG,PL
+russian,18,0,Нападение на банки с применением холодного оружия было совершено,SG-PL-SG,SG,PL,SG
+russian,18,0,Нападение на банки с применением холодного оружия были совершены,SG-PL-PL,SG,PL,PL
+russian,18,0,Нападения на банк с применением холодного оружия было совершено,PL-SG-SG,PL,SG,SG
+russian,18,0,Нападения на банк с применением холодного оружия были совершены,PL-SG-PL,PL,SG,PL
+russian,18,0,Нападения на банки с применением холодного оружия было совершено,PL-PL-SG,PL,PL,SG
+russian,18,0,Нападения на банки с применением холодного оружия были совершены,PL-PL-PL,PL,PL,PL
+russian,19,0,Окно в сад из-за сильного холодного ветра было закрыто,SG-SG-SG,SG,SG,SG
+russian,19,0,Окно в сад из-за сильного холодного ветра были закрыты,SG-SG-PL,SG,SG,PL
+russian,19,0,Окно в сады из-за сильного холодного ветра было закрыто,SG-PL-SG,SG,PL,SG
+russian,19,0,Окно в сады из-за сильного холодного ветра были закрыты,SG-PL-PL,SG,PL,PL
+russian,19,0,Окна в сад из-за сильного холодного ветра было закрыто,PL-SG-SG,PL,SG,SG
+russian,19,0,Окна в сад из-за сильного холодного ветра были закрыты,PL-SG-PL,PL,SG,PL
+russian,19,0,Окна в сады из-за сильного холодного ветра было закрыто,PL-PL-SG,PL,PL,SG
+russian,19,0,Окна в сады из-за сильного холодного ветра были закрыты,PL-PL-PL,PL,PL,PL
+russian,20,0,Ответ на вопрос из-за недостаточного знания материала был неверным,SG-SG-SG,SG,SG,SG
+russian,20,0,Ответ на вопрос из-за недостаточного знания материала были неверными,SG-SG-PL,SG,SG,PL
+russian,20,0,Ответ на вопросы из-за недостаточного знания материала был неверным,SG-PL-SG,SG,PL,SG
+russian,20,0,Ответ на вопросы из-за недостаточного знания материала были неверными,SG-PL-PL,SG,PL,PL
+russian,20,0,Ответы на вопрос из-за недостаточного знания материала был неверным,PL-SG-SG,PL,SG,SG
+russian,20,0,Ответы на вопрос из-за недостаточного знания материала были неверными,PL-SG-PL,PL,SG,PL
+russian,20,0,Ответы на вопросы из-за недостаточного знания материала был неверным,PL-PL-SG,PL,PL,SG
+russian,20,0,Ответы на вопросы из-за недостаточного знания материала были неверными,PL-PL-PL,PL,PL,PL
+russian,21,0,Очередь в театр из-за большого наплыва туристов была бесконечной,SG-SG-SG,SG,SG,SG
+russian,21,0,Очередь в театр из-за большого наплыва туристов были бесконечными,SG-SG-PL,SG,SG,PL
+russian,21,0,Очередь в театры из-за большого наплыва туристов была бесконечной,SG-PL-SG,SG,PL,SG
+russian,21,0,Очередь в театры из-за большого наплыва туристов были бесконечными,SG-PL-PL,SG,PL,PL
+russian,21,0,Очереди в театр из-за большого наплыва туристов была бесконечной,PL-SG-SG,PL,SG,SG
+russian,21,0,Очереди в театр из-за большого наплыва туристов были бесконечными,PL-SG-PL,PL,SG,PL
+russian,21,0,Очереди в театры из-за большого наплыва туристов была бесконечной,PL-PL-SG,PL,PL,SG
+russian,21,0,Очереди в театры из-за большого наплыва туристов были бесконечными,PL-PL-PL,PL,PL,PL
+russian,22,0,Переправа через ручей из-за тяжёлых погодных условий была опасной,SG-SG-SG,SG,SG,SG
+russian,22,0,Переправа через ручей из-за тяжёлых погодных условий были опасными,SG-SG-PL,SG,SG,PL
+russian,22,0,Переправа через ручьи из-за тяжёлых погодных условий была опасной,SG-PL-SG,SG,PL,SG
+russian,22,0,Переправа через ручьи из-за тяжёлых погодных условий были опасными,SG-PL-PL,SG,PL,PL
+russian,22,0,Переправы через ручей из-за тяжёлых погодных условий была опасной,PL-SG-SG,PL,SG,SG
+russian,22,0,Переправы через ручей из-за тяжёлых погодных условий были опасными,PL-SG-PL,PL,SG,PL
+russian,22,0,Переправы через ручьи из-за тяжёлых погодных условий была опасной,PL-PL-SG,PL,PL,SG
+russian,22,0,Переправы через ручьи из-за тяжёлых погодных условий были опасными,PL-PL-PL,PL,PL,PL
+russian,23,0,Песня про поезд для большинства отставных машинистов была грустной,SG-SG-SG,SG,SG,SG
+russian,23,0,Песня про поезд для большинства отставных машинистов были грустными,SG-SG-PL,SG,SG,PL
+russian,23,0,Песня про поезда для большинства отставных машинистов была грустной,SG-PL-SG,SG,PL,SG
+russian,23,0,Песня про поезда для большинства отставных машинистов были грустными,SG-PL-PL,SG,PL,PL
+russian,23,0,Песни про поезд для большинства отставных машинистов была грустной,PL-SG-SG,PL,SG,SG
+russian,23,0,Песни про поезд для большинства отставных машинистов были грустными,PL-SG-PL,PL,SG,PL
+russian,23,0,Песни про поезда для большинства отставных машинистов была грустной,PL-PL-SG,PL,PL,SG
+russian,23,0,Песни про поезда для большинства отставных машинистов были грустными,PL-PL-PL,PL,PL,PL
+russian,24,0,Письмо про поход из маленького сибирского посёлка было отправлено,SG-SG-SG,SG,SG,SG
+russian,24,0,Письмо про поход из маленького сибирского посёлка были отправлены,SG-SG-PL,SG,SG,PL
+russian,24,0,Письмо про походы из маленького сибирского посёлка было отправлено,SG-PL-SG,SG,PL,SG
+russian,24,0,Письмо про походы из маленького сибирского посёлка были отправлены,SG-PL-PL,SG,PL,PL
+russian,24,0,Письма про поход из маленького сибирского посёлка было отправлено,PL-SG-SG,PL,SG,SG
+russian,24,0,Письма про поход из маленького сибирского посёлка были отправлены,PL-SG-PL,PL,SG,PL
+russian,24,0,Письма про походы из маленького сибирского посёлка было отправлено,PL-PL-SG,PL,PL,SG
+russian,24,0,Письма про походы из маленького сибирского посёлка были отправлены,PL-PL-PL,PL,PL,PL
+russian,25,0,План на выходной из-за визита назойливых родственников был разрушен,SG-SG-SG,SG,SG,SG
+russian,25,0,План на выходной из-за визита назойливых родственников были разрушены,SG-SG-PL,SG,SG,PL
+russian,25,0,План на выходные из-за визита назойливых родственников был разрушен,SG-PL-SG,SG,PL,SG
+russian,25,0,План на выходные из-за визита назойливых родственников были разрушены,SG-PL-PL,SG,PL,PL
+russian,25,0,Планы на выходной из-за визита назойливых родственников был разрушен,PL-SG-SG,PL,SG,SG
+russian,25,0,Планы на выходной из-за визита назойливых родственников были разрушены,PL-SG-PL,PL,SG,PL
+russian,25,0,Планы на выходные из-за визита назойливых родственников был разрушен,PL-PL-SG,PL,PL,SG
+russian,25,0,Планы на выходные из-за визита назойливых родственников были разрушены,PL-PL-PL,PL,PL,PL
+russian,26,0,Поездка на остров для молодых влюблённых студентов была незабываемой,SG-SG-SG,SG,SG,SG
+russian,26,0,Поездка на остров для молодых влюблённых студентов были незабываемыми,SG-SG-PL,SG,SG,PL
+russian,26,0,Поездка на острова для молодых влюблённых студентов была незабываемой,SG-PL-SG,SG,PL,SG
+russian,26,0,Поездка на острова для молодых влюблённых студентов были незабываемыми,SG-PL-PL,SG,PL,PL
+russian,26,0,Поездки на остров для молодых влюблённых студентов была незабываемой,PL-SG-SG,PL,SG,SG
+russian,26,0,Поездки на остров для молодых влюблённых студентов были незабываемыми,PL-SG-PL,PL,SG,PL
+russian,26,0,Поездки на острова для молодых влюблённых студентов была незабываемой,PL-PL-SG,PL,PL,SG
+russian,26,0,Поездки на острова для молодых влюблённых студентов были незабываемыми,PL-PL-PL,PL,PL,PL
+russian,27,0,Полёт через пролив из-за усилившегося северного ветра был запрещён,SG-SG-SG,SG,SG,SG
+russian,27,0,Полёт через пролив из-за усилившегося северного ветра были запрещены,SG-SG-PL,SG,SG,PL
+russian,27,0,Полёт через проливы из-за усилившегося северного ветра был запрещён,SG-PL-SG,SG,PL,SG
+russian,27,0,Полёт через проливы из-за усилившегося северного ветра были запрещены,SG-PL-PL,SG,PL,PL
+russian,27,0,Полёты через пролив из-за усилившегося северного ветра был запрещён,PL-SG-SG,PL,SG,SG
+russian,27,0,Полёты через пролив из-за усилившегося северного ветра были запрещены,PL-SG-PL,PL,SG,PL
+russian,27,0,Полёты через проливы из-за усилившегося северного ветра был запрещён,PL-PL-SG,PL,PL,SG
+russian,27,0,Полёты через проливы из-за усилившегося северного ветра были запрещены,PL-PL-PL,PL,PL,PL
+russian,28,0,Прогулка через парк для ценителей ландшафтного дизайна была приятной,SG-SG-SG,SG,SG,SG
+russian,28,0,Прогулка через парк для ценителей ландшафтного дизайна были приятными,SG-SG-PL,SG,SG,PL
+russian,28,0,Прогулка через парки для ценителей ландшафтного дизайна была приятной,SG-PL-SG,SG,PL,SG
+russian,28,0,Прогулка через парки для ценителей ландшафтного дизайна были приятными,SG-PL-PL,SG,PL,PL
+russian,28,0,Прогулки через парк для ценителей ландшафтного дизайна была приятной,PL-SG-SG,PL,SG,SG
+russian,28,0,Прогулки через парк для ценителей ландшафтного дизайна были приятными,PL-SG-PL,PL,SG,PL
+russian,28,0,Прогулки через парки для ценителей ландшафтного дизайна была приятной,PL-PL-SG,PL,PL,SG
+russian,28,0,Прогулки через парки для ценителей ландшафтного дизайна были приятными,PL-PL-PL,PL,PL,PL
+russian,29,0,Прыжок через костёр для обладателей коротких ног был рискованным,SG-SG-SG,SG,SG,SG
+russian,29,0,Прыжок через костёр для обладателей коротких ног были рискованными,SG-SG-PL,SG,SG,PL
+russian,29,0,Прыжок через костры для обладателей коротких ног был рискованным,SG-PL-SG,SG,PL,SG
+russian,29,0,Прыжок через костры для обладателей коротких ног были рискованными,SG-PL-PL,SG,PL,PL
+russian,29,0,Прыжки через костёр для обладателей коротких ног был рискованным,PL-SG-SG,PL,SG,SG
+russian,29,0,Прыжки через костёр для обладателей коротких ног были рискованными,PL-SG-PL,PL,SG,PL
+russian,29,0,Прыжки через костры для обладателей коротких ног был рискованным,PL-PL-SG,PL,PL,SG
+russian,29,0,Прыжки через костры для обладателей коротких ног были рискованными,PL-PL-PL,PL,PL,PL
+russian,30,0,Путешествие на курорт для членов большой семьи было приятным,SG-SG-SG,SG,SG,SG
+russian,30,0,Путешествие на курорт для членов большой семьи были приятными,SG-SG-PL,SG,SG,PL
+russian,30,0,Путешествие на курорты для членов большой семьи было приятным,SG-PL-SG,SG,PL,SG
+russian,30,0,Путешествие на курорты для членов большой семьи были приятными,SG-PL-PL,SG,PL,PL
+russian,30,0,Путешествия на курорт для членов большой семьи было приятным,PL-SG-SG,PL,SG,SG
+russian,30,0,Путешествия на курорт для членов большой семьи были приятными,PL-SG-PL,PL,SG,PL
+russian,30,0,Путешествия на курорты для членов большой семьи было приятным,PL-PL-SG,PL,PL,SG
+russian,30,0,Путешествия на курорты для членов большой семьи были приятными,PL-PL-PL,PL,PL,PL
+russian,31,0,Рецепт на порошок из-за частого предъявления аптекарям был мятым,SG-SG-SG,SG,SG,SG
+russian,31,0,Рецепт на порошок из-за частого предъявления аптекарям были мятыми,SG-SG-PL,SG,SG,PL
+russian,31,0,Рецепт на порошки из-за частого предъявления аптекарям был мятым,SG-PL-SG,SG,PL,SG
+russian,31,0,Рецепт на порошки из-за частого предъявления аптекарям были мятыми,SG-PL-PL,SG,PL,PL
+russian,31,0,Рецепты на порошок из-за частого предъявления аптекарям был мятым,PL-SG-SG,PL,SG,SG
+russian,31,0,Рецепты на порошок из-за частого предъявления аптекарям были мятыми,PL-SG-PL,PL,SG,PL
+russian,31,0,Рецепты на порошки из-за частого предъявления аптекарям был мятым,PL-PL-SG,PL,PL,SG
+russian,31,0,Рецепты на порошки из-за частого предъявления аптекарям были мятыми,PL-PL-PL,PL,PL,PL
+russian,32,0,Ссылка на сайт в списке источников статьи была дана,SG-SG-SG,SG,SG,SG
+russian,32,0,Ссылка на сайт в списке источников статьи были даны,SG-SG-PL,SG,SG,PL
+russian,32,0,Ссылка на сайты в списке источников статьи была дана,SG-PL-SG,SG,PL,SG
+russian,32,0,Ссылка на сайты в списке источников статьи были даны,SG-PL-PL,SG,PL,PL
+russian,32,0,Ссылки на сайт в списке источников статьи была дана,PL-SG-SG,PL,SG,SG
+russian,32,0,Ссылки на сайт в списке источников статьи были даны,PL-SG-PL,PL,SG,PL
+russian,32,0,Ссылки на сайты в списке источников статьи была дана,PL-PL-SG,PL,PL,SG
+russian,32,0,Ссылки на сайты в списке источников статьи были даны,PL-PL-PL,PL,PL,PL
+russian,33,0,Талон на обед во время большой перемены был выдан,SG-SG-SG,SG,SG,SG
+russian,33,0,Талон на обед во время большой перемены были выданы,SG-SG-PL,SG,SG,PL
+russian,33,0,Талон на обеды во время большой перемены был выдан,SG-PL-SG,SG,PL,SG
+russian,33,0,Талон на обеды во время большой перемены были выданы,SG-PL-PL,SG,PL,PL
+russian,33,0,Талоны на обед во время большой перемены был выдан,PL-SG-SG,PL,SG,SG
+russian,33,0,Талоны на обед во время большой перемены были выданы,PL-SG-PL,PL,SG,PL
+russian,33,0,Талоны на обеды во время большой перемены был выдан,PL-PL-SG,PL,PL,SG
+russian,33,0,Талоны на обеды во время большой перемены были выданы,PL-PL-PL,PL,PL,PL
+russian,34,0,Ткань на пиджак в каталоге весенней коллекции была подобрана,SG-SG-SG,SG,SG,SG
+russian,34,0,Ткань на пиджак в каталоге весенней коллекции были подобраны,SG-SG-PL,SG,SG,PL
+russian,34,0,Ткань на пиджаки в каталоге весенней коллекции была подобрана,SG-PL-SG,SG,PL,SG
+russian,34,0,Ткань на пиджаки в каталоге весенней коллекции были подобраны,SG-PL-PL,SG,PL,PL
+russian,34,0,Ткани на пиджак в каталоге весенней коллекции была подобрана,PL-SG-SG,PL,SG,SG
+russian,34,0,Ткани на пиджак в каталоге весенней коллекции были подобраны,PL-SG-PL,PL,SG,PL
+russian,34,0,Ткани на пиджаки в каталоге весенней коллекции была подобрана,PL-PL-SG,PL,PL,SG
+russian,34,0,Ткани на пиджаки в каталоге весенней коллекции были подобраны,PL-PL-PL,PL,PL,PL
+russian,35,0,Трасса через поле по меркам местных жителей была новой,SG-SG-SG,SG,SG,SG
+russian,35,0,Трасса через поле по меркам местных жителей были новыми,SG-SG-PL,SG,SG,PL
+russian,35,0,Трасса через поля по меркам местных жителей была новой,SG-PL-SG,SG,PL,SG
+russian,35,0,Трасса через поля по меркам местных жителей были новыми,SG-PL-PL,SG,PL,PL
+russian,35,0,Трассы через поле по меркам местных жителей была новой,PL-SG-SG,PL,SG,SG
+russian,35,0,Трассы через поле по меркам местных жителей были новыми,PL-SG-PL,PL,SG,PL
+russian,35,0,Трассы через поля по меркам местных жителей была новой,PL-PL-SG,PL,PL,SG
+russian,35,0,Трассы через поля по меркам местных жителей были новыми,PL-PL-PL,PL,PL,PL
+russian,36,0,Тропинка через луг во время деревенской ярмарки была протоптана,SG-SG-SG,SG,SG,SG
+russian,36,0,Тропинка через луг во время деревенской ярмарки были протоптаны,SG-SG-PL,SG,SG,PL
+russian,36,0,Тропинка через луга во время деревенской ярмарки была протоптана,SG-PL-SG,SG,PL,SG
+russian,36,0,Тропинка через луга во время деревенской ярмарки были протоптаны,SG-PL-PL,SG,PL,PL
+russian,36,0,Тропинки через луг во время деревенской ярмарки была протоптана,PL-SG-SG,PL,SG,SG
+russian,36,0,Тропинки через луг во время деревенской ярмарки были протоптаны,PL-SG-PL,PL,SG,PL
+russian,36,0,Тропинки через луга во время деревенской ярмарки была протоптана,PL-PL-SG,PL,PL,SG
+russian,36,0,Тропинки через луга во время деревенской ярмарки были протоптаны,PL-PL-PL,PL,PL,PL
+russian,37,0,Тур на озеро для участников последней поездки был незабываемым,SG-SG-SG,SG,SG,SG
+russian,37,0,Тур на озеро для участников последней поездки были незабываемыми,SG-SG-PL,SG,SG,PL
+russian,37,0,Тур на озёра для участников последней поездки был незабываемым,SG-PL-SG,SG,PL,SG
+russian,37,0,Тур на озёра для участников последней поездки были незабываемыми,SG-PL-PL,SG,PL,PL
+russian,37,0,Туры на озеро для участников последней поездки был незабываемым,PL-SG-SG,PL,SG,SG
+russian,37,0,Туры на озеро для участников последней поездки были незабываемыми,PL-SG-PL,PL,SG,PL
+russian,37,0,Туры на озёра для участников последней поездки был незабываемым,PL-PL-SG,PL,PL,SG
+russian,37,0,Туры на озёра для участников последней поездки были незабываемыми,PL-PL-PL,PL,PL,PL
+russian,38,0,Удар в колено для юных неопытных борцов был болезненным,SG-SG-SG,SG,SG,SG
+russian,38,0,Удар в колено для юных неопытных борцов были болезненными,SG-SG-PL,SG,SG,PL
+russian,38,0,Удар в колени для юных неопытных борцов был болезненным,SG-PL-SG,SG,PL,SG
+russian,38,0,Удар в колени для юных неопытных борцов были болезненными,SG-PL-PL,SG,PL,PL
+russian,38,0,Удары в колено для юных неопытных борцов был болезненным,PL-SG-SG,PL,SG,SG
+russian,38,0,Удары в колено для юных неопытных борцов были болезненными,PL-SG-PL,PL,SG,PL
+russian,38,0,Удары в колени для юных неопытных борцов был болезненным,PL-PL-SG,PL,PL,SG
+russian,38,0,Удары в колени для юных неопытных борцов были болезненными,PL-PL-PL,PL,PL,PL
+russian,39,0,Цена на продукт из-за плохого качества сырья была низкой,SG-SG-SG,SG,SG,SG
+russian,39,0,Цена на продукт из-за плохого качества сырья были низкими,SG-SG-PL,SG,SG,PL
+russian,39,0,Цена на продукты из-за плохого качества сырья была низкой,SG-PL-SG,SG,PL,SG
+russian,39,0,Цена на продукты из-за плохого качества сырья были низкими,SG-PL-PL,SG,PL,PL
+russian,39,0,Цены на продукт из-за плохого качества сырья была низкой,PL-SG-SG,PL,SG,SG
+russian,39,0,Цены на продукт из-за плохого качества сырья были низкими,PL-SG-PL,PL,SG,PL
+russian,39,0,Цены на продукты из-за плохого качества сырья была низкой,PL-PL-SG,PL,PL,SG
+russian,39,0,Цены на продукты из-за плохого качества сырья были низкими,PL-PL-PL,PL,PL,PL
+russian,40,0,Штраф за прогул в целях воспитания сотрудников был введён,SG-SG-SG,SG,SG,SG
+russian,40,0,Штраф за прогул в целях воспитания сотрудников были введены,SG-SG-PL,SG,SG,PL
+russian,40,0,Штраф за прогулы в целях воспитания сотрудников был введён,SG-PL-SG,SG,PL,SG
+russian,40,0,Штраф за прогулы в целях воспитания сотрудников были введены,SG-PL-PL,SG,PL,PL
+russian,40,0,Штрафы за прогул в целях воспитания сотрудников был введён,PL-SG-SG,PL,SG,SG
+russian,40,0,Штрафы за прогул в целях воспитания сотрудников были введены,PL-SG-PL,PL,SG,PL
+russian,40,0,Штрафы за прогулы в целях воспитания сотрудников был введён,PL-PL-SG,PL,PL,SG
+russian,40,0,Штрафы за прогулы в целях воспитания сотрудников были введены,PL-PL-PL,PL,PL,PL
+russian,41,1,Аргумент против обвинения для адвоката пострадавшей стороны был сокрушительным,SG-SG-SG,SG,SG,SG
+russian,41,1,Аргумент против обвинения для адвоката пострадавшей стороны были сокрушительными,SG-SG-PL,SG,SG,PL
+russian,41,1,Аргумент против обвинений для адвоката пострадавшей стороны был сокрушительным,SG-PL-SG,SG,PL,SG
+russian,41,1,Аргумент против обвинений для адвоката пострадавшей стороны были сокрушительными,SG-PL-PL,SG,PL,PL
+russian,41,1,Аргументы против обвинения для адвоката пострадавшей стороны был сокрушительным,PL-SG-SG,PL,SG,SG
+russian,41,1,Аргументы против обвинения для адвоката пострадавшей стороны были сокрушительными,PL-SG-PL,PL,SG,PL
+russian,41,1,Аргументы против обвинений для адвоката пострадавшей стороны был сокрушительным,PL-PL-SG,PL,PL,SG
+russian,41,1,Аргументы против обвинений для адвоката пострадавшей стороны были сокрушительными,PL-PL-PL,PL,PL,PL
+russian,42,1,Видеозапись с лекции для пропустивших занятия студентов была содержательной,SG-SG-SG,SG,SG,SG
+russian,42,1,Видеозапись с лекции для пропустивших занятия студентов были содержательными,SG-SG-PL,SG,SG,PL
+russian,42,1,Видеозапись с лекций для пропустивших занятия студентов была содержательной,SG-PL-SG,SG,PL,SG
+russian,42,1,Видеозапись с лекций для пропустивших занятия студентов были содержательными,SG-PL-PL,SG,PL,PL
+russian,42,1,Видеозаписи с лекции для пропустивших занятия студентов была содержательной,PL-SG-SG,PL,SG,SG
+russian,42,1,Видеозаписи с лекции для пропустивших занятия студентов были содержательными,PL-SG-PL,PL,SG,PL
+russian,42,1,Видеозаписи с лекций для пропустивших занятия студентов была содержательной,PL-PL-SG,PL,PL,SG
+russian,42,1,Видеозаписи с лекций для пропустивших занятия студентов были содержательными,PL-PL-PL,PL,PL,PL
+russian,43,1,Вывод из поражения из-за тщательного анализа ситуации был верным,SG-SG-SG,SG,SG,SG
+russian,43,1,Вывод из поражения из-за тщательного анализа ситуации были верными,SG-SG-PL,SG,SG,PL
+russian,43,1,Вывод из поражений из-за тщательного анализа ситуации был верным,SG-PL-SG,SG,PL,SG
+russian,43,1,Вывод из поражений из-за тщательного анализа ситуации были верными,SG-PL-PL,SG,PL,PL
+russian,43,1,Выводы из поражения из-за тщательного анализа ситуации был верным,PL-SG-SG,PL,SG,SG
+russian,43,1,Выводы из поражения из-за тщательного анализа ситуации были верными,PL-SG-PL,PL,SG,PL
+russian,43,1,Выводы из поражений из-за тщательного анализа ситуации был верным,PL-PL-SG,PL,PL,SG
+russian,43,1,Выводы из поражений из-за тщательного анализа ситуации были верными,PL-PL-PL,PL,PL,PL
+russian,44,1,Выдержка из книги для упрощения процесса запоминания была краткой,SG-SG-SG,SG,SG,SG
+russian,44,1,Выдержка из книги для упрощения процесса запоминания были краткими,SG-SG-PL,SG,SG,PL
+russian,44,1,Выдержка из книг для упрощения процесса запоминания была краткой,SG-PL-SG,SG,PL,SG
+russian,44,1,Выдержка из книг для упрощения процесса запоминания были краткими,SG-PL-PL,SG,PL,PL
+russian,44,1,Выдержки из книги для упрощения процесса запоминания была краткой,PL-SG-SG,PL,SG,SG
+russian,44,1,Выдержки из книги для упрощения процесса запоминания были краткими,PL-SG-PL,PL,SG,PL
+russian,44,1,Выдержки из книг для упрощения процесса запоминания была краткой,PL-PL-SG,PL,PL,SG
+russian,44,1,Выдержки из книг для упрощения процесса запоминания были краткими,PL-PL-PL,PL,PL,PL
+russian,45,1,Выписка из программы во время затянувшегося заседания была сделана,SG-SG-SG,SG,SG,SG
+russian,45,1,Выписка из программы во время затянувшегося заседания были сделаны,SG-SG-PL,SG,SG,PL
+russian,45,1,Выписка из программ во время затянувшегося заседания была сделана,SG-PL-SG,SG,PL,SG
+russian,45,1,Выписка из программ во время затянувшегося заседания были сделаны,SG-PL-PL,SG,PL,PL
+russian,45,1,Выписки из программы во время затянувшегося заседания была сделана,PL-SG-SG,PL,SG,SG
+russian,45,1,Выписки из программы во время затянувшегося заседания были сделаны,PL-SG-PL,PL,SG,PL
+russian,45,1,Выписки из программ во время затянувшегося заседания была сделана,PL-PL-SG,PL,PL,SG
+russian,45,1,Выписки из программ во время затянувшегося заседания были сделаны,PL-PL-PL,PL,PL,PL
+russian,46,1,Выход из ситуации для опытного школьного психолога был очевидным,SG-SG-SG,SG,SG,SG
+russian,46,1,Выход из ситуации для опытного школьного психолога были очевидными,SG-SG-PL,SG,SG,PL
+russian,46,1,Выход из ситуаций для опытного школьного психолога был очевидным,SG-PL-SG,SG,PL,SG
+russian,46,1,Выход из ситуаций для опытного школьного психолога были очевидными,SG-PL-PL,SG,PL,PL
+russian,46,1,Выходы из ситуации для опытного школьного психолога был очевидным,PL-SG-SG,PL,SG,SG
+russian,46,1,Выходы из ситуации для опытного школьного психолога были очевидными,PL-SG-PL,PL,SG,PL
+russian,46,1,Выходы из ситуаций для опытного школьного психолога был очевидным,PL-PL-SG,PL,PL,SG
+russian,46,1,Выходы из ситуаций для опытного школьного психолога были очевидными,PL-PL-PL,PL,PL,PL
+russian,47,1,Доска для афиши к ограде маленького театра была прибита,SG-SG-SG,SG,SG,SG
+russian,47,1,Доска для афиши к ограде маленького театра были прибиты,SG-SG-PL,SG,SG,PL
+russian,47,1,Доска для афиш к ограде маленького театра была прибита,SG-PL-SG,SG,PL,SG
+russian,47,1,Доска для афиш к ограде маленького театра были прибиты,SG-PL-PL,SG,PL,PL
+russian,47,1,Доски для афиши к ограде маленького театра была прибита,PL-SG-SG,PL,SG,SG
+russian,47,1,Доски для афиши к ограде маленького театра были прибиты,PL-SG-PL,PL,SG,PL
+russian,47,1,Доски для афиш к ограде маленького театра была прибита,PL-PL-SG,PL,PL,SG
+russian,47,1,Доски для афиш к ограде маленького театра были прибиты,PL-PL-PL,PL,PL,PL
+russian,48,1,Задержка из-за наводнения из-за отсутствия достоверной информации была пугающей,SG-SG-SG,SG,SG,SG
+russian,48,1,Задержка из-за наводнения из-за отсутствия достоверной информации были пугающими,SG-SG-PL,SG,SG,PL
+russian,48,1,Задержка из-за наводнений из-за отсутствия достоверной информации была пугающей,SG-PL-SG,SG,PL,SG
+russian,48,1,Задержка из-за наводнений из-за отсутствия достоверной информации были пугающими,SG-PL-PL,SG,PL,PL
+russian,48,1,Задержки из-за наводнения из-за отсутствия достоверной информации была пугающей,PL-SG-SG,PL,SG,SG
+russian,48,1,Задержки из-за наводнения из-за отсутствия достоверной информации были пугающими,PL-SG-PL,PL,SG,PL
+russian,48,1,Задержки из-за наводнений из-за отсутствия достоверной информации была пугающей,PL-PL-SG,PL,PL,SG
+russian,48,1,Задержки из-за наводнений из-за отсутствия достоверной информации были пугающими,PL-PL-PL,PL,PL,PL
+russian,49,1,Зал для заседания по масштабам небольшого городка был громадным,SG-SG-SG,SG,SG,SG
+russian,49,1,Зал для заседания по масштабам небольшого городка были громадными,SG-SG-PL,SG,SG,PL
+russian,49,1,Зал для заседаний по масштабам небольшого городка был громадным,SG-PL-SG,SG,PL,SG
+russian,49,1,Зал для заседаний по масштабам небольшого городка были громадными,SG-PL-PL,SG,PL,PL
+russian,49,1,Залы для заседания по масштабам небольшого городка был громадным,PL-SG-SG,PL,SG,SG
+russian,49,1,Залы для заседания по масштабам небольшого городка были громадными,PL-SG-PL,PL,SG,PL
+russian,49,1,Залы для заседаний по масштабам небольшого городка был громадным,PL-PL-SG,PL,PL,SG
+russian,49,1,Залы для заседаний по масштабам небольшого городка были громадными,PL-PL-PL,PL,PL,PL
+russian,50,1,Запчасть для иномарки по меркам современного автовладельца была старой,SG-SG-SG,SG,SG,SG
+russian,50,1,Запчасть для иномарки по меркам современного автовладельца были старыми,SG-SG-PL,SG,SG,PL
+russian,50,1,Запчасть для иномарок по меркам современного автовладельца была старой,SG-PL-SG,SG,PL,SG
+russian,50,1,Запчасть для иномарок по меркам современного автовладельца были старыми,SG-PL-PL,SG,PL,PL
+russian,50,1,Запчасти для иномарки по меркам современного автовладельца была старой,PL-SG-SG,PL,SG,SG
+russian,50,1,Запчасти для иномарки по меркам современного автовладельца были старыми,PL-SG-PL,PL,SG,PL
+russian,50,1,Запчасти для иномарок по меркам современного автовладельца была старой,PL-PL-SG,PL,PL,SG
+russian,50,1,Запчасти для иномарок по меркам современного автовладельца были старыми,PL-PL-PL,PL,PL,PL
+russian,51,1,Исключение из правила на аккуратно свёрнутую шпаргалку было выписано,SG-SG-SG,SG,SG,SG
+russian,51,1,Исключение из правила на аккуратно свёрнутую шпаргалку были выписаны,SG-SG-PL,SG,SG,PL
+russian,51,1,Исключение из правил на аккуратно свёрнутую шпаргалку было выписано,SG-PL-SG,SG,PL,SG
+russian,51,1,Исключение из правил на аккуратно свёрнутую шпаргалку были выписаны,SG-PL-PL,SG,PL,PL
+russian,51,1,Исключения из правила на аккуратно свёрнутую шпаргалку было выписано,PL-SG-SG,PL,SG,SG
+russian,51,1,Исключения из правила на аккуратно свёрнутую шпаргалку были выписаны,PL-SG-PL,PL,SG,PL
+russian,51,1,Исключения из правил на аккуратно свёрнутую шпаргалку было выписано,PL-PL-SG,PL,PL,SG
+russian,51,1,Исключения из правил на аккуратно свёрнутую шпаргалку были выписаны,PL-PL-PL,PL,PL,PL
+russian,52,1,Истерика из-за оценки по мнению родителей девочки была бурной,SG-SG-SG,SG,SG,SG
+russian,52,1,Истерика из-за оценки по мнению родителей девочки были бурными,SG-SG-PL,SG,SG,PL
+russian,52,1,Истерика из-за оценок по мнению родителей девочки была бурной,SG-PL-SG,SG,PL,SG
+russian,52,1,Истерика из-за оценок по мнению родителей девочки были бурными,SG-PL-PL,SG,PL,PL
+russian,52,1,Истерики из-за оценки по мнению родителей девочки была бурной,PL-SG-SG,PL,SG,SG
+russian,52,1,Истерики из-за оценки по мнению родителей девочки были бурными,PL-SG-PL,PL,SG,PL
+russian,52,1,Истерики из-за оценок по мнению родителей девочки была бурной,PL-PL-SG,PL,PL,SG
+russian,52,1,Истерики из-за оценок по мнению родителей девочки были бурными,PL-PL-PL,PL,PL,PL
+russian,53,1,Камень для ограды с лучшей итальянской каменоломни был завезён,SG-SG-SG,SG,SG,SG
+russian,53,1,Камень для ограды с лучшей итальянской каменоломни были завезены,SG-SG-PL,SG,SG,PL
+russian,53,1,Камень для оград с лучшей итальянской каменоломни был завезён,SG-PL-SG,SG,PL,SG
+russian,53,1,Камень для оград с лучшей итальянской каменоломни были завезены,SG-PL-PL,SG,PL,PL
+russian,53,1,Камни для ограды с лучшей итальянской каменоломни был завезён,PL-SG-SG,PL,SG,SG
+russian,53,1,Камни для ограды с лучшей итальянской каменоломни были завезены,PL-SG-PL,PL,SG,PL
+russian,53,1,Камни для оград с лучшей итальянской каменоломни был завезён,PL-PL-SG,PL,PL,SG
+russian,53,1,Камни для оград с лучшей итальянской каменоломни были завезены,PL-PL-PL,PL,PL,PL
+russian,54,1,Кирпич для дачи со склада бракованной продукции был привезён,SG-SG-SG,SG,SG,SG
+russian,54,1,Кирпич для дачи со склада бракованной продукции были привезены,SG-SG-PL,SG,SG,PL
+russian,54,1,Кирпич для дач со склада бракованной продукции был привезён,SG-PL-SG,SG,PL,SG
+russian,54,1,Кирпич для дач со склада бракованной продукции были привезены,SG-PL-PL,SG,PL,PL
+russian,54,1,Кирпичи для дачи со склада бракованной продукции был привезён,PL-SG-SG,PL,SG,SG
+russian,54,1,Кирпичи для дачи со склада бракованной продукции были привезены,PL-SG-PL,PL,SG,PL
+russian,54,1,Кирпичи для дач со склада бракованной продукции был привезён,PL-PL-SG,PL,PL,SG
+russian,54,1,Кирпичи для дач со склада бракованной продукции были привезены,PL-PL-PL,PL,PL,PL
+russian,55,1,Ключ от шкатулки из-за высокой влажности воздуха был ржавым,SG-SG-SG,SG,SG,SG
+russian,55,1,Ключ от шкатулки из-за высокой влажности воздуха были ржавыми,SG-SG-PL,SG,SG,PL
+russian,55,1,Ключ от шкатулок из-за высокой влажности воздуха был ржавым,SG-PL-SG,SG,PL,SG
+russian,55,1,Ключ от шкатулок из-за высокой влажности воздуха были ржавыми,SG-PL-PL,SG,PL,PL
+russian,55,1,Ключи от шкатулки из-за высокой влажности воздуха был ржавым,PL-SG-SG,PL,SG,SG
+russian,55,1,Ключи от шкатулки из-за высокой влажности воздуха были ржавыми,PL-SG-PL,PL,SG,PL
+russian,55,1,Ключи от шкатулок из-за высокой влажности воздуха был ржавым,PL-PL-SG,PL,PL,SG
+russian,55,1,Ключи от шкатулок из-за высокой влажности воздуха были ржавыми,PL-PL-PL,PL,PL,PL
+russian,56,1,Комната для вечеринки из-за малого количества мебели была просторной,SG-SG-SG,SG,SG,SG
+russian,56,1,Комната для вечеринки из-за малого количества мебели были просторными,SG-SG-PL,SG,SG,PL
+russian,56,1,Комната для вечеринок из-за малого количества мебели была просторной,SG-PL-SG,SG,PL,SG
+russian,56,1,Комната для вечеринок из-за малого количества мебели были просторными,SG-PL-PL,SG,PL,PL
+russian,56,1,Комнаты для вечеринки из-за малого количества мебели была просторной,PL-SG-SG,PL,SG,SG
+russian,56,1,Комнаты для вечеринки из-за малого количества мебели были просторными,PL-SG-PL,PL,SG,PL
+russian,56,1,Комнаты для вечеринок из-за малого количества мебели была просторной,PL-PL-SG,PL,PL,SG
+russian,56,1,Комнаты для вечеринок из-за малого количества мебели были просторными,PL-PL-PL,PL,PL,PL
+russian,57,1,Кондиционер для помещения из-за ошибки заводских сборщиков был неисправен,SG-SG-SG,SG,SG,SG
+russian,57,1,Кондиционер для помещения из-за ошибки заводских сборщиков были неисправны,SG-SG-PL,SG,SG,PL
+russian,57,1,Кондиционер для помещений из-за ошибки заводских сборщиков был неисправен,SG-PL-SG,SG,PL,SG
+russian,57,1,Кондиционер для помещений из-за ошибки заводских сборщиков были неисправны,SG-PL-PL,SG,PL,PL
+russian,57,1,Кондиционеры для помещения из-за ошибки заводских сборщиков был неисправен,PL-SG-SG,PL,SG,SG
+russian,57,1,Кондиционеры для помещения из-за ошибки заводских сборщиков были неисправны,PL-SG-PL,PL,SG,PL
+russian,57,1,Кондиционеры для помещений из-за ошибки заводских сборщиков был неисправен,PL-PL-SG,PL,PL,SG
+russian,57,1,Кондиционеры для помещений из-за ошибки заводских сборщиков были неисправны,PL-PL-PL,PL,PL,PL
+russian,58,1,Коробка для краски из-за экологических убеждений производителя была картонной,SG-SG-SG,SG,SG,SG
+russian,58,1,Коробка для краски из-за экологических убеждений производителя были картонными,SG-SG-PL,SG,SG,PL
+russian,58,1,Коробка для красок из-за экологических убеждений производителя была картонной,SG-PL-SG,SG,PL,SG
+russian,58,1,Коробка для красок из-за экологических убеждений производителя были картонными,SG-PL-PL,SG,PL,PL
+russian,58,1,Коробки для краски из-за экологических убеждений производителя была картонной,PL-SG-SG,PL,SG,SG
+russian,58,1,Коробки для краски из-за экологических убеждений производителя были картонными,PL-SG-PL,PL,SG,PL
+russian,58,1,Коробки для красок из-за экологических убеждений производителя была картонной,PL-PL-SG,PL,PL,SG
+russian,58,1,Коробки для красок из-за экологических убеждений производителя были картонными,PL-PL-PL,PL,PL,PL
+russian,59,1,Лекарство от болезни для отдельных категорий граждан было доступным,SG-SG-SG,SG,SG,SG
+russian,59,1,Лекарство от болезни для отдельных категорий граждан были доступными,SG-SG-PL,SG,SG,PL
+russian,59,1,Лекарство от болезней для отдельных категорий граждан было доступным,SG-PL-SG,SG,PL,SG
+russian,59,1,Лекарство от болезней для отдельных категорий граждан были доступными,SG-PL-PL,SG,PL,PL
+russian,59,1,Лекарства от болезни для отдельных категорий граждан было доступным,PL-SG-SG,PL,SG,SG
+russian,59,1,Лекарства от болезни для отдельных категорий граждан были доступными,PL-SG-PL,PL,SG,PL
+russian,59,1,Лекарства от болезней для отдельных категорий граждан было доступным,PL-PL-SG,PL,PL,SG
+russian,59,1,Лекарства от болезней для отдельных категорий граждан были доступными,PL-PL-PL,PL,PL,PL
+russian,60,1,Лимузин для свадьбы с яркими розовыми бантами был белым,SG-SG-SG,SG,SG,SG
+russian,60,1,Лимузин для свадьбы с яркими розовыми бантами были белыми,SG-SG-PL,SG,SG,PL
+russian,60,1,Лимузин для свадеб с яркими розовыми бантами был белым,SG-PL-SG,SG,PL,SG
+russian,60,1,Лимузин для свадеб с яркими розовыми бантами были белыми,SG-PL-PL,SG,PL,PL
+russian,60,1,Лимузины для свадьбы с яркими розовыми бантами был белым,PL-SG-SG,PL,SG,SG
+russian,60,1,Лимузины для свадьбы с яркими розовыми бантами были белыми,PL-SG-PL,PL,SG,PL
+russian,60,1,Лимузины для свадеб с яркими розовыми бантами был белым,PL-PL-SG,PL,PL,SG
+russian,60,1,Лимузины для свадеб с яркими розовыми бантами были белыми,PL-PL-PL,PL,PL,PL
+russian,61,1,Лозунг из листовки с целью привлечения внимания был придуман,SG-SG-SG,SG,SG,SG
+russian,61,1,Лозунг из листовки с целью привлечения внимания были придуманы,SG-SG-PL,SG,SG,PL
+russian,61,1,Лозунг из листовок с целью привлечения внимания был придуман,SG-PL-SG,SG,PL,SG
+russian,61,1,Лозунг из листовок с целью привлечения внимания были придуманы,SG-PL-PL,SG,PL,PL
+russian,61,1,Лозунги из листовки с целью привлечения внимания был придуман,PL-SG-SG,PL,SG,SG
+russian,61,1,Лозунги из листовки с целью привлечения внимания были придуманы,PL-SG-PL,PL,SG,PL
+russian,61,1,Лозунги из листовок с целью привлечения внимания был придуман,PL-PL-SG,PL,PL,SG
+russian,61,1,Лозунги из листовок с целью привлечения внимания были придуманы,PL-PL-PL,PL,PL,PL
+russian,62,1,Массовка для съёмки из числа местных студентов была набрана,SG-SG-SG,SG,SG,SG
+russian,62,1,Массовка для съёмки из числа местных студентов были набраны,SG-SG-PL,SG,SG,PL
+russian,62,1,Массовка для съёмок из числа местных студентов была набрана,SG-PL-SG,SG,PL,SG
+russian,62,1,Массовка для съёмок из числа местных студентов были набраны,SG-PL-PL,SG,PL,PL
+russian,62,1,Массовки для съёмки из числа местных студентов была набрана,PL-SG-SG,PL,SG,SG
+russian,62,1,Массовки для съёмки из числа местных студентов были набраны,PL-SG-PL,PL,SG,PL
+russian,62,1,Массовки для съёмок из числа местных студентов была набрана,PL-PL-SG,PL,PL,SG
+russian,62,1,Массовки для съёмок из числа местных студентов были набраны,PL-PL-PL,PL,PL,PL
+russian,63,1,Материал для крыши из-за нарушения режима хранения был бракованным,SG-SG-SG,SG,SG,SG
+russian,63,1,Материал для крыши из-за нарушения режима хранения были бракованными,SG-SG-PL,SG,SG,PL
+russian,63,1,Материал для крыш из-за нарушения режима хранения был бракованным,SG-PL-SG,SG,PL,SG
+russian,63,1,Материал для крыш из-за нарушения режима хранения были бракованными,SG-PL-PL,SG,PL,PL
+russian,63,1,Материалы для крыши из-за нарушения режима хранения был бракованным,PL-SG-SG,PL,SG,SG
+russian,63,1,Материалы для крыши из-за нарушения режима хранения были бракованными,PL-SG-PL,PL,SG,PL
+russian,63,1,Материалы для крыш из-за нарушения режима хранения был бракованным,PL-PL-SG,PL,PL,SG
+russian,63,1,Материалы для крыш из-за нарушения режима хранения были бракованными,PL-PL-PL,PL,PL,PL
+russian,64,1,Мотор для лодки с учётом пожеланий рыбаков был заказан,SG-SG-SG,SG,SG,SG
+russian,64,1,Мотор для лодки с учётом пожеланий рыбаков были заказаны,SG-SG-PL,SG,SG,PL
+russian,64,1,Мотор для лодок с учётом пожеланий рыбаков был заказан,SG-PL-SG,SG,PL,SG
+russian,64,1,Мотор для лодок с учётом пожеланий рыбаков были заказаны,SG-PL-PL,SG,PL,PL
+russian,64,1,Моторы для лодки с учётом пожеланий рыбаков был заказан,PL-SG-SG,PL,SG,SG
+russian,64,1,Моторы для лодки с учётом пожеланий рыбаков были заказаны,PL-SG-PL,PL,SG,PL
+russian,64,1,Моторы для лодок с учётом пожеланий рыбаков был заказан,PL-PL-SG,PL,PL,SG
+russian,64,1,Моторы для лодок с учётом пожеланий рыбаков были заказаны,PL-PL-PL,PL,PL,PL
+russian,65,1,Мяч для игры для детских дошкольных учреждений был разработан,SG-SG-SG,SG,SG,SG
+russian,65,1,Мяч для игры для детских дошкольных учреждений были разработаны,SG-SG-PL,SG,SG,PL
+russian,65,1,Мяч для игр для детских дошкольных учреждений был разработан,SG-PL-SG,SG,PL,SG
+russian,65,1,Мяч для игр для детских дошкольных учреждений были разработаны,SG-PL-PL,SG,PL,PL
+russian,65,1,Мячи для игры для детских дошкольных учреждений был разработан,PL-SG-SG,PL,SG,SG
+russian,65,1,Мячи для игры для детских дошкольных учреждений были разработаны,PL-SG-PL,PL,SG,PL
+russian,65,1,Мячи для игр для детских дошкольных учреждений был разработан,PL-PL-SG,PL,PL,SG
+russian,65,1,Мячи для игр для детских дошкольных учреждений были разработаны,PL-PL-PL,PL,PL,PL
+russian,66,1,Перелом из-за падения из-за преклонного возраста альпиниста был тяжёлым,SG-SG-SG,SG,SG,SG
+russian,66,1,Перелом из-за падения из-за преклонного возраста альпиниста были тяжёлыми,SG-SG-PL,SG,SG,PL
+russian,66,1,Перелом из-за падений из-за преклонного возраста альпиниста был тяжёлым,SG-PL-SG,SG,PL,SG
+russian,66,1,Перелом из-за падений из-за преклонного возраста альпиниста были тяжёлыми,SG-PL-PL,SG,PL,PL
+russian,66,1,Переломы из-за падения из-за преклонного возраста альпиниста был тяжёлым,PL-SG-SG,PL,SG,SG
+russian,66,1,Переломы из-за падения из-за преклонного возраста альпиниста были тяжёлыми,PL-SG-PL,PL,SG,PL
+russian,66,1,Переломы из-за падений из-за преклонного возраста альпиниста был тяжёлым,PL-PL-SG,PL,PL,SG
+russian,66,1,Переломы из-за падений из-за преклонного возраста альпиниста были тяжёлыми,PL-PL-PL,PL,PL,PL
+russian,67,1,Пристань для яхты из-за высоких штормовых волн была мокрой,SG-SG-SG,SG,SG,SG
+russian,67,1,Пристань для яхты из-за высоких штормовых волн были мокрыми,SG-SG-PL,SG,SG,PL
+russian,67,1,Пристань для яхт из-за высоких штормовых волн была мокрой,SG-PL-SG,SG,PL,SG
+russian,67,1,Пристань для яхт из-за высоких штормовых волн были мокрыми,SG-PL-PL,SG,PL,PL
+russian,67,1,Пристани для яхты из-за высоких штормовых волн была мокрой,PL-SG-SG,PL,SG,SG
+russian,67,1,Пристани для яхты из-за высоких штормовых волн были мокрыми,PL-SG-PL,PL,SG,PL
+russian,67,1,Пристани для яхт из-за высоких штормовых волн была мокрой,PL-PL-SG,PL,PL,SG
+russian,67,1,Пристани для яхт из-за высоких штормовых волн были мокрыми,PL-PL-PL,PL,PL,PL
+russian,68,1,Пропуск из-за травмы с главным врачом команды был согласован,SG-SG-SG,SG,SG,SG
+russian,68,1,Пропуск из-за травмы с главным врачом команды были согласованы,SG-SG-PL,SG,SG,PL
+russian,68,1,Пропуск из-за травм с главным врачом команды был согласован,SG-PL-SG,SG,PL,SG
+russian,68,1,Пропуск из-за травм с главным врачом команды были согласованы,SG-PL-PL,SG,PL,PL
+russian,68,1,Пропуски из-за травмы с главным врачом команды был согласован,PL-SG-SG,PL,SG,SG
+russian,68,1,Пропуски из-за травмы с главным врачом команды были согласованы,PL-SG-PL,PL,SG,PL
+russian,68,1,Пропуски из-за травм с главным врачом команды был согласован,PL-PL-SG,PL,PL,SG
+russian,68,1,Пропуски из-за травм с главным врачом команды были согласованы,PL-PL-PL,PL,PL,PL
+russian,69,1,Рассказ об аварии для усиления эмоционального напряжения был приукрашен,SG-SG-SG,SG,SG,SG
+russian,69,1,Рассказ об аварии для усиления эмоционального напряжения были приукрашены,SG-SG-PL,SG,SG,PL
+russian,69,1,Рассказ об аварий для усиления эмоционального напряжения был приукрашен,SG-PL-SG,SG,PL,SG
+russian,69,1,Рассказ об аварий для усиления эмоционального напряжения были приукрашены,SG-PL-PL,SG,PL,PL
+russian,69,1,Рассказы об аварии для усиления эмоционального напряжения был приукрашен,PL-SG-SG,PL,SG,SG
+russian,69,1,Рассказы об аварии для усиления эмоционального напряжения были приукрашены,PL-SG-PL,PL,SG,PL
+russian,69,1,Рассказы об аварий для усиления эмоционального напряжения был приукрашен,PL-PL-SG,PL,PL,SG
+russian,69,1,Рассказы об аварий для усиления эмоционального напряжения были приукрашены,PL-PL-PL,PL,PL,PL
+russian,70,1,Репортаж для газеты после разрешения публичной огласки был написан,SG-SG-SG,SG,SG,SG
+russian,70,1,Репортаж для газеты после разрешения публичной огласки были написаны,SG-SG-PL,SG,SG,PL
+russian,70,1,Репортаж для газет после разрешения публичной огласки был написан,SG-PL-SG,SG,PL,SG
+russian,70,1,Репортаж для газет после разрешения публичной огласки были написаны,SG-PL-PL,SG,PL,PL
+russian,70,1,Репортажи для газеты после разрешения публичной огласки был написан,PL-SG-SG,PL,SG,SG
+russian,70,1,Репортажи для газеты после разрешения публичной огласки были написаны,PL-SG-PL,PL,SG,PL
+russian,70,1,Репортажи для газет после разрешения публичной огласки был написан,PL-PL-SG,PL,PL,SG
+russian,70,1,Репортажи для газет после разрешения публичной огласки были написаны,PL-PL-PL,PL,PL,PL
+russian,71,1,Скандал из-за статьи в глазах непосредственных участников был масштабным,SG-SG-SG,SG,SG,SG
+russian,71,1,Скандал из-за статьи в глазах непосредственных участников были масштабными,SG-SG-PL,SG,SG,PL
+russian,71,1,Скандал из-за статей в глазах непосредственных участников был масштабным,SG-PL-SG,SG,PL,SG
+russian,71,1,Скандал из-за статей в глазах непосредственных участников были масштабными,SG-PL-PL,SG,PL,PL
+russian,71,1,Скандалы из-за статьи в глазах непосредственных участников был масштабным,PL-SG-SG,PL,SG,SG
+russian,71,1,Скандалы из-за статьи в глазах непосредственных участников были масштабными,PL-SG-PL,PL,SG,PL
+russian,71,1,Скандалы из-за статей в глазах непосредственных участников был масштабным,PL-PL-SG,PL,PL,SG
+russian,71,1,Скандалы из-за статей в глазах непосредственных участников были масштабными,PL-PL-PL,PL,PL,PL
+russian,72,1,Скидка от авиакомпании из-за недавнего крушения самолёта была беспрецедентной,SG-SG-SG,SG,SG,SG
+russian,72,1,Скидка от авиакомпании из-за недавнего крушения самолёта были беспрецедентными,SG-SG-PL,SG,SG,PL
+russian,72,1,Скидка от авиакомпаний из-за недавнего крушения самолёта была беспрецедентной,SG-PL-SG,SG,PL,SG
+russian,72,1,Скидка от авиакомпаний из-за недавнего крушения самолёта были беспрецедентными,SG-PL-PL,SG,PL,PL
+russian,72,1,Скидки от авиакомпании из-за недавнего крушения самолёта была беспрецедентной,PL-SG-SG,PL,SG,SG
+russian,72,1,Скидки от авиакомпании из-за недавнего крушения самолёта были беспрецедентными,PL-SG-PL,PL,SG,PL
+russian,72,1,Скидки от авиакомпаний из-за недавнего крушения самолёта была беспрецедентной,PL-PL-SG,PL,PL,SG
+russian,72,1,Скидки от авиакомпаний из-за недавнего крушения самолёта были беспрецедентными,PL-PL-PL,PL,PL,PL
+russian,73,1,Стекло для беседки из-за неосторожности пьяных грузчиков было разбито,SG-SG-SG,SG,SG,SG
+russian,73,1,Стекло для беседки из-за неосторожности пьяных грузчиков были разбиты,SG-SG-PL,SG,SG,PL
+russian,73,1,Стекло для беседок из-за неосторожности пьяных грузчиков было разбито,SG-PL-SG,SG,PL,SG
+russian,73,1,Стекло для беседок из-за неосторожности пьяных грузчиков были разбиты,SG-PL-PL,SG,PL,PL
+russian,73,1,Стёкла для беседки из-за неосторожности пьяных грузчиков было разбито,PL-SG-SG,PL,SG,SG
+russian,73,1,Стёкла для беседки из-за неосторожности пьяных грузчиков были разбиты,PL-SG-PL,PL,SG,PL
+russian,73,1,Стёкла для беседок из-за неосторожности пьяных грузчиков было разбито,PL-PL-SG,PL,PL,SG
+russian,73,1,Стёкла для беседок из-за неосторожности пьяных грузчиков были разбиты,PL-PL-PL,PL,PL,PL
+russian,74,1,Стол для трапезы на залитую солнцем террасу был вынесен,SG-SG-SG,SG,SG,SG
+russian,74,1,Стол для трапезы на залитую солнцем террасу были вынесены,SG-SG-PL,SG,SG,PL
+russian,74,1,Стол для трапез на залитую солнцем террасу был вынесен,SG-PL-SG,SG,PL,SG
+russian,74,1,Стол для трапез на залитую солнцем террасу были вынесены,SG-PL-PL,SG,PL,PL
+russian,74,1,Столы для трапезы на залитую солнцем террасу был вынесен,PL-SG-SG,PL,SG,SG
+russian,74,1,Столы для трапезы на залитую солнцем террасу были вынесены,PL-SG-PL,PL,SG,PL
+russian,74,1,Столы для трапез на залитую солнцем террасу был вынесен,PL-PL-SG,PL,PL,SG
+russian,74,1,Столы для трапез на залитую солнцем террасу были вынесены,PL-PL-PL,PL,PL,PL
+russian,75,1,Сувенир для акции в фирменном магазине команды был выбран,SG-SG-SG,SG,SG,SG
+russian,75,1,Сувенир для акции в фирменном магазине команды были выбраны,SG-SG-PL,SG,SG,PL
+russian,75,1,Сувенир для акций в фирменном магазине команды был выбран,SG-PL-SG,SG,PL,SG
+russian,75,1,Сувенир для акций в фирменном магазине команды были выбраны,SG-PL-PL,SG,PL,PL
+russian,75,1,Сувениры для акции в фирменном магазине команды был выбран,PL-SG-SG,PL,SG,SG
+russian,75,1,Сувениры для акции в фирменном магазине команды были выбраны,PL-SG-PL,PL,SG,PL
+russian,75,1,Сувениры для акций в фирменном магазине команды был выбран,PL-PL-SG,PL,PL,SG
+russian,75,1,Сувениры для акций в фирменном магазине команды были выбраны,PL-PL-PL,PL,PL,PL
+russian,76,1,Тень от лампы на высоких сводах храма была видна,SG-SG-SG,SG,SG,SG
+russian,76,1,Тень от лампы на высоких сводах храма были видны,SG-SG-PL,SG,SG,PL
+russian,76,1,Тень от ламп на высоких сводах храма была видна,SG-PL-SG,SG,PL,SG
+russian,76,1,Тень от ламп на высоких сводах храма были видны,SG-PL-PL,SG,PL,PL
+russian,76,1,Тени от лампы на высоких сводах храма была видна,PL-SG-SG,PL,SG,SG
+russian,76,1,Тени от лампы на высоких сводах храма были видны,PL-SG-PL,PL,SG,PL
+russian,76,1,Тени от ламп на высоких сводах храма была видна,PL-PL-SG,PL,PL,SG
+russian,76,1,Тени от ламп на высоких сводах храма были видны,PL-PL-PL,PL,PL,PL
+russian,77,1,Товар с витрины по сильно сниженной цене был продан,SG-SG-SG,SG,SG,SG
+russian,77,1,Товар с витрины по сильно сниженной цене были проданы,SG-SG-PL,SG,SG,PL
+russian,77,1,Товар с витрин по сильно сниженной цене был продан,SG-PL-SG,SG,PL,SG
+russian,77,1,Товар с витрин по сильно сниженной цене были проданы,SG-PL-PL,SG,PL,PL
+russian,77,1,Товары с витрины по сильно сниженной цене был продан,PL-SG-SG,PL,SG,SG
+russian,77,1,Товары с витрины по сильно сниженной цене были проданы,PL-SG-PL,PL,SG,PL
+russian,77,1,Товары с витрин по сильно сниженной цене был продан,PL-PL-SG,PL,PL,SG
+russian,77,1,Товары с витрин по сильно сниженной цене были проданы,PL-PL-PL,PL,PL,PL
+russian,78,1,Условие для задачи из-за избытка ненужных фактов было запутанным,SG-SG-SG,SG,SG,SG
+russian,78,1,Условие для задачи из-за избытка ненужных фактов были запутанными,SG-SG-PL,SG,SG,PL
+russian,78,1,Условие для задач из-за избытка ненужных фактов было запутанным,SG-PL-SG,SG,PL,SG
+russian,78,1,Условие для задач из-за избытка ненужных фактов были запутанными,SG-PL-PL,SG,PL,PL
+russian,78,1,Условия для задачи из-за избытка ненужных фактов было запутанным,PL-SG-SG,PL,SG,SG
+russian,78,1,Условия для задачи из-за избытка ненужных фактов были запутанными,PL-SG-PL,PL,SG,PL
+russian,78,1,Условия для задач из-за избытка ненужных фактов было запутанным,PL-PL-SG,PL,PL,SG
+russian,78,1,Условия для задач из-за избытка ненужных фактов были запутанными,PL-PL-PL,PL,PL,PL
+russian,79,1,Шаблон для таблицы для начинающих пользователей компьютера был удобным,SG-SG-SG,SG,SG,SG
+russian,79,1,Шаблон для таблицы для начинающих пользователей компьютера были удобными,SG-SG-PL,SG,SG,PL
+russian,79,1,Шаблон для таблиц для начинающих пользователей компьютера был удобным,SG-PL-SG,SG,PL,SG
+russian,79,1,Шаблон для таблиц для начинающих пользователей компьютера были удобными,SG-PL-PL,SG,PL,PL
+russian,79,1,Шаблоны для таблицы для начинающих пользователей компьютера был удобным,PL-SG-SG,PL,SG,SG
+russian,79,1,Шаблоны для таблицы для начинающих пользователей компьютера были удобными,PL-SG-PL,PL,SG,PL
+russian,79,1,Шаблоны для таблиц для начинающих пользователей компьютера был удобным,PL-PL-SG,PL,PL,SG
+russian,79,1,Шаблоны для таблиц для начинающих пользователей компьютера были удобными,PL-PL-PL,PL,PL,PL
+russian,80,1,Шрам после операции с помощью медицинского лазера был удалён,SG-SG-SG,SG,SG,SG
+russian,80,1,Шрам после операции с помощью медицинского лазера были удалены,SG-SG-PL,SG,SG,PL
+russian,80,1,Шрам после операций с помощью медицинского лазера был удалён,SG-PL-SG,SG,PL,SG
+russian,80,1,Шрам после операций с помощью медицинского лазера были удалены,SG-PL-PL,SG,PL,PL
+russian,80,1,Шрамы после операции с помощью медицинского лазера был удалён,PL-SG-SG,PL,SG,SG
+russian,80,1,Шрамы после операции с помощью медицинского лазера были удалены,PL-SG-PL,PL,SG,PL
+russian,80,1,Шрамы после операций с помощью медицинского лазера был удалён,PL-PL-SG,PL,PL,SG
+russian,80,1,Шрамы после операций с помощью медицинского лазера были удалены,PL-PL-PL,PL,PL,PL
